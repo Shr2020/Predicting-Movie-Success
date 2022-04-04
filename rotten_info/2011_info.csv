@@ -1,0 +1,201 @@
+,Release Group,Score_Rotten,Score_Audience,Rating,Genre,Director,Producer,Release Date (Theaters),Box Office (Gross USA)
+0,Harry Potter and the Deathly Hallows: Part 2,96,89,PG-13,"['Fantasy', 'Adventure']",['DavidYates'],"['DavidHeyman', 'DavidBarron', 'J.K.Rowling']","['Jul 15', '2011']",381.0M
+1,Transformers: Dark of the Moon,35,55,PG-13,"['Sci-fi', 'Action', 'Adventure']",['MichaelBay'],"['LorenzodiBonaventura', 'TomDeSanto', 'DonMurphy', 'IanBryce']","['Jun 29', '2011']",352.4M
+2,Pirates of the Caribbean: On Stranger Tides,33,54,PG-13,"['Adventure', 'Action', 'Fantasy']",['RobMarshall'],['JerryBruckheimer'],"['May 20', '2011']",241.1M
+3,The Twilight Saga: Breaking Dawn - Part 1,25,60,PG-13,"['Fantasy', 'Romance']",['BillCondon'],"['WyckGodfrey', 'KarenRosenfelt', 'StephenieMeyer']","['Nov 18', '2011']",281.3M
+4,Mission: Impossible - Ghost Protocol,93,76,PG-13,"['Mystery&thriller', 'Action', 'Adventure']",['BradBird'],"['TomCruise', 'J.J.Abrams', 'BryanBurk']","['Dec 21', '2011']",209.4M
+5,Kung Fu Panda 2,80,74,PG,"['Kids&family', 'Animation', 'Comedy', 'Adventure']",['JenniferYuhNelson'],['MelissaCobb'],"['May 26', '2011']",
+6,Fast Five,77,83,PG-13,['Action'],['JustinLin'],"['NealH.Moritz', 'VinDiesel', 'MichaelFottrell']","['Apr 29', '2011']",209.8M
+7,The Hangover Part II,34,52,R,['Comedy'],['ToddPhillips'],"['ToddPhillips', 'DanGoldberg']","['May 26', '2011']",254.5M
+8,The Smurfs,21,43,PG,"['Kids&family', 'Fantasy', 'Comedy', 'Adventure']",['RajaGosnell'],['JordanKerner'],"['Jul 29', '2011']",142.6M
+9,Cars 2,39,49,G,"['Kids&family', 'Animation', 'Comedy', 'Adventure']",['JohnLasseter'],['DeniseReam'],"['Jun 24', '2011']",
+10,Puss in Boots,86,67,PG,"['Adventure', 'Comedy', 'Kids&family', 'Animation']",['ChrisMiller'],"['JoeAguilar', 'LatifaOuaou']","['Oct 28', '2011']",149.2M
+11,Sherlock Holmes: A Game of Shadows,59,77,PG-13,"['Adventure', 'Action', 'Mystery&thriller']",['GuyRitchie'],"['JoelSilver', 'LionelWigram', 'SusanDowney', 'DanLin']","['Dec 16', '2011']",186.8M
+12,Rio,72,71,G,"['Musical', 'Adventure', 'Kids&family', 'Comedy', 'Animation']",['CarlosSaldanha'],"['BruceAnderson', 'JohnC.Donkin']","['Apr 15', '2011']",
+13,Rise of the Planet of the Apes,82,77,PG-13,"['Action', 'Sci-fi', 'Adventure']",['RupertWyatt'],"['PeterChernin', 'DylanClark', 'RickJaffa', 'AmandaSilver']","['Aug 5', '2011']",176.7M
+14,Thor,77,76,PG-13,"['Fantasy', 'Action', 'Adventure']",['KennethBranagh'],['KevinFeige'],"['May 6', '2011']",268.0M
+15,The Intouchables,75,93,R,"['Drama', 'Comedy']","['OlivierNakache', 'EricToledano']","['NicolasDuval-Adassovsky', 'LaurentZeitoun', 'YannZenou']","['May 25', '2012']",13.2M
+16,The Adventures of Tintin,74,74,PG,"['Kids&family', 'Animation', 'Adventure']",['StevenSpielberg'],"['StevenSpielberg', 'KathleenKennedy', 'PeterJackson']","['Dec 21', '2011']",77.6M
+17,Captain America: The First Avenger,79,75,PG-13,"['Fantasy', 'Action', 'Adventure']",['JoeJohnston'],['KevinFeige'],"['Jul 22', '2011']",176.6M
+18,X-Men: First Class,86,87,PG-13,"['Fantasy', 'Sci-fi', 'Action', 'Adventure']",['MatthewVaughn'],"['BryanSinger', 'LaurenShulerDonner', 'SimonKinberg', 'GregoryGoodman']","['Jun 3', '2011']",146.4M
+19,Alvin and the Chipmunks: Chipwrecked,12,51,G,"['Kids&family', 'Comedy', 'Adventure']",['MikeMitchell'],"['JaniceKarman', 'RossBagdasarianJr.']","['Dec 16', '2011']",133.1M
+20,Real Steel,60,73,PG-13,"['Drama', 'Sci-fi', 'Action']",['ShawnLevy'],"['DonMurphy', 'SusanMontford', 'ShawnLevy']","['Oct 7', '2011']",85.5M
+21,Bridesmaids,90,76,R,['Comedy'],['PaulFeig'],"['JuddApatow', 'ClaytonTownsend', 'BarryMendel']","['May 13', '2011']",169.1M
+22,Super 8,81,75,PG-13,"['Sci-fi', 'Mystery&thriller']",['J.J.Abrams'],"['StevenSpielberg', 'J.J.Abrams', 'BryanBurk']","['Jun 10', '2011']",127.0M
+23,Rango,88,69,PG,"['Kids&family', 'Animation', 'Comedy', 'Adventure']",['GoreVerbinski'],"['GoreVerbinski', 'GrahamKing', 'JohnB.Carls']","['Mar 4', '2011']",
+24,The Girl with the Dragon Tattoo,86,86,R,"['Drama', 'Crime', 'Mystery&thriller']",['DavidFincher'],"['ScottRudin', 'OleSøndberg', 'SørenStærmose', 'CeánChaffin']","['Dec 20', '2011']",102.5M
+25,The Green Hornet,44,43,PG-13,"['Action', 'Adventure']",['MichelGondry'],['NealH.Moritz'],"['Jan 14', '2011']",98.8M
+26,Immortals,48,49,R,"['Fantasy', 'Action', 'Adventure']",['Tarsem'],"['GianniNunnari', 'MarkCanton', 'RyanKavanaugh']","['Nov 11', '2011']",83.5M
+27,Green Lantern,26,45,PG-13,"['Fantasy', 'Sci-fi', 'Action', 'Adventure']",['MartinCampbell'],"['DonaldDeLine', 'GregBerlanti']","['Jun 17', '2011']",116.6M
+28,The Help,76,89,PG-13,['Drama'],['TateTaylor'],"['BrunsonGreen', 'ChrisColumbus', 'MichaelBarnathan']","['Aug 10', '2011']",169.7M
+29,Bad Teacher,45,36,R,['Comedy'],['JakeKasdan'],"['JimmyMiller', 'DavidB.Householter']","['Jun 24', '2011']",100.3M
+30,Just Go with It,19,59,PG-13,"['Comedy', 'Romance']",['DennisDugan'],"['AdamSandler', 'JackGiarraputo', 'HeatherParry']","['Feb 11', '2011']",103.0M
+31,Battle Los Angeles,37,48,PG-13,"['Action', 'Sci-fi']",['JonathanLiebesman'],"['NealH.Moritz', 'OriMarmur']","['Mar 11', '2011']",83.6M
+32,Horrible Bosses,69,70,R,['Comedy'],['SethGordon'],"['BrettRatner', 'JayStern']","['Jul 8', '2011']",117.5M
+33,Paranormal Activity 3,66,51,R,"['Mystery&thriller', 'Horror']","['HenryJoost', 'ArielSchulman']","['JasonBlum', 'OrenPeli']","['Oct 21', '2011']",104.0M
+34,Gnomeo & Juliet,55,54,G,"['Adventure', 'Kids&family', 'Romance', 'Comedy', 'Animation']",['KellyAsbury'],"['DavidFurnish', 'SteveHamiltonShaw', 'BakerBloodworth']","['Feb 11', '2011']",
+35,Mr. Popper's Penguins,47,53,PG,"['Kids&family', 'Comedy']",['MarkWaters'],['JohnDavis'],"['Jun 17', '2011']",68.2M
+36,Hugo,93,78,PG,"['Drama', 'Fantasy', 'Adventure']",['MartinScorsese'],"['GrahamKing', 'TimHeadington', 'MartinScorsese', 'JohnnyDepp']","['Nov 23', '2011']",73.8M
+37,The Lion King 2011 3D Release,,,,,,,,
+38,Hop,24,53,PG,"['Other', 'Kids&family', 'Comedy']",['TimHill'],"['ChristopherMeledandri', 'MicheleImperato']","['Apr 1', '2011']",108.0M
+39,War Horse,75,74,PG-13,"['Drama', 'History', 'War']",['StevenSpielberg'],"['StevenSpielberg', 'KathleenKennedy']","['Dec 25', '2011']",79.9M
+40,The Descendants,87,79,R,"['Drama', 'Comedy']",['AlexanderPayne'],"['JimBurke', 'AlexanderPayne', 'JimTaylor']","['Nov 23', '2011']",82.6M
+41,Cowboys & Aliens,44,43,PG-13,"['Western', 'Action', 'Sci-fi']",['JonFavreau'],"['BrianGrazer', 'RonHoward', 'AlexKurtzman', 'RobertoOrci', 'ScottMitchellRosenberg']","['Jul 29', '2011']",100.2M
+42,In Time,37,51,PG-13,"['Action', 'Sci-fi']",['AndrewNiccol'],"['AndrewNiccol', 'EricNewman', 'MarcAbraham']","['Oct 28', '2011']",37.6M
+43,Zookeeper,14,41,PG,"['Fantasy', 'Comedy']",['FrankCoraci'],"['ToddGarner', 'KevinJames', 'AdamSandler', 'JackGiarraputo', 'WaltBecker']","['Jul 8', '2011']",80.4M
+44,The Muppets,95,80,PG,"['Comedy', 'Kids&family']",['JamesBobin'],"['DavidHoberman', 'ToddLieberman']","['Nov 23', '2011']",88.6M
+45,Limitless,69,74,PG-13,"['Action', 'Mystery&thriller']",['NeilBurger'],"['LeslieDixon', 'ScottKroopf', 'RyanKavanaugh']","['Mar 18', '2011']",79.2M
+46,Johnny English Reborn,38,45,PG,"['Comedy', 'Action']",['OliverParker'],"['TimBevan', 'EricFellner', 'ChrisClark']","['Oct 21', '2011']",8.3M
+47,Happy Feet Two,45,60,PG,"['Musical', 'Adventure', 'Kids&family', 'Comedy', 'Animation']",['GeorgeMiller'],"['GeorgeMiller', 'DougMitchell', 'BillMiller']","['Nov 18', '2011']",64.0M
+48,Final Destination 5,62,52,R,"['Horror', 'Mystery&thriller']",['StevenQuale'],"['CraigPerry', 'WarrenZide']","['Aug 12', '2011']",42.6M
+49,Tower Heist,68,48,PG-13,"['Comedy', 'Adventure']",['BrettRatner'],"['BrianGrazer', 'EddieMurphy', 'KimRoth']","['Nov 4', '2011']",78.0M
+50,Midnight in Paris,,,,['Documentary'],"['JamesBlagden', 'RoniMoore']",['BenjaminGilovitz'],,
+51,I Am Number Four,33,57,PG-13,"['Sci-fi', 'Action', 'Mystery&thriller']",['D.J.Caruso'],['MichaelBay'],"['Feb 18', '2011']",55.1M
+52,Jack and Jill,3,36,PG,['Comedy'],['DennisDugan'],"['ToddGarner', 'AdamSandler', 'JackGiarraputo']","['Nov 11', '2011']",74.2M
+53,Friends with Benefits,68,65,R,"['Comedy', 'Romance']",['WillGluck'],"['MartinShafer', 'LizGlotzer', 'JerryZucker', 'JanetZucker', 'WillGluck']","['Jul 22', '2011']",55.8M
+54,No Strings Attached,48,51,R,"['Comedy', 'Romance']",['IvanReitman'],"['IvanReitman', 'JoeMedjuck', 'JeffreyClifford']","['Jan 21', '2011']",70.6M
+55,Arthur Christmas,92,76,PG,"['Drama', 'Fantasy', 'Other', 'Kids&family', 'Comedy', 'Animation']",['SarahSmith'],"['PeterLord', 'DavidSproxton', 'CarlaShelley', 'StevePegram']","['Nov 23', '2011']",46.4M
+56,Source Code,92,82,PG-13,"['Action', 'Sci-fi', 'Mystery&thriller']",['DuncanJones'],"['MarkGordon', 'PhilippeRousselet', 'JordanWynn']","['Apr 1', '2011']",54.7M
+57,"Crazy, Stupid, Love.",79,78,PG-13,"['Comedy', 'Romance']","['GlennFicarra', 'JohnRequa']","['SteveCarell', 'DeniseDiNovi']","['Jul 29', '2011']",84.3M
+58,New Year's Eve,7,45,PG-13,"['Romance', 'Other', 'Comedy']",['GarryMarshall'],"['MikeKarz', 'WayneAllanRice', 'GarryMarshall']","['Dec 9', '2011']",54.5M
+59,Contagion,85,63,PG-13,"['Drama', 'Mystery&thriller']",['StevenSoderbergh'],"['MichaelShamberg', 'StaceySher', 'GregoryJacobs']","['Sep 9', '2011']",75.6M
+60,Unknown,55,55,PG-13,"['Drama', 'Mystery&thriller']",['JaumeCollet-Serra'],"['JoelSilver', 'LeonardGoldberg', 'AndrewRona']","['Feb 18', '2011']",63.7M
+61,The Artist,,,,,,,,
+62,The Three Musketeers,26,39,PG-13,"['Drama', 'History', 'Action', 'Adventure']",['PaulW.S.Anderson'],"['AndrewDavies', 'JeremyBolt', 'PaulW.S.Anderson', 'RobertKulzer']","['Oct 21', '2011']",20.4M
+63,We Bought a Zoo,65,71,PG,"['Drama', 'Kids&family', 'Comedy']",['CameronCrowe'],"['JulieYorn', 'CameronCrowe', 'RickYorn']","['Dec 23', '2011']",75.6M
+64,Hankyu Railways - A 15-minute Miracle,,,,,,,,
+65,Water for Elephants,60,70,PG-13,"['Drama', 'Romance']",['FrancisLawrence'],"['GilNetter', 'ErwinStoff', 'AndrewR.Tennenbaum']","['Apr 22', '2011']",58.7M
+66,The Iron Lady,52,51,PG-13,"['Drama', 'History', 'Biography']",['PhyllidaLloyd'],['DamianJones'],"['Dec 30', '2011']",30.0M
+67,Moneyball,94,86,PG-13,['Drama'],['BennettMiller'],"['MichaelDeLuca', 'RachaelHorovitz', 'BradPitt']","['Sep 23', '2011']",75.6M
+68,Insidious,66,62,PG-13,"['Horror', 'Mystery&thriller']",['JamesWan'],"['JasonBlum', 'StevenSchneider', 'OrenPeli']","['Apr 1', '2011']",54.0M
+69,Justin Bieber: Never Say Never,65,65,G,['Documentary'],['JonM.Chu'],"['ScooterBraun', 'JustinBieber', 'L.A.Reid', 'Usher', 'DanCutforth', 'JaneLipsitz']","['Feb 11', '2011']",73.0M
+70,Paul,70,62,R,"['Comedy', 'Sci-fi', 'Adventure']",['GregMottola'],"['NiraPark', 'TimBevan', 'EricFellner']","['Mar 18', '2011']",37.4M
+71,Scream 4,61,56,R,"['Horror', 'Comedy']",['WesCraven'],"['KevinWilliamson', 'IyaLabunka']","['Apr 15', '2011']",38.2M
+72,The Rite,21,40,PG-13,"['Horror', 'Mystery&thriller']",['MikaelHåfström'],"['BeauFlynn', 'TrippVinson']","['Jan 28', '2011']",33.0M
+73,Dolphin Tale,82,80,PG,"['Drama', 'Kids&family', 'Adventure']",['CharlesMartinSmith'],"['AndrewA.Kosove', 'BroderickJohnson', 'RichardIngber']","['Sep 23', '2011']",72.3M
+74,Rien à déclarer,,,,,,,,
+75,Season of the Witch,67,22,R,['Horror'],['GeorgeA.Romero'],['NancyM.Romero'],"['Apr 18', '1973']",
+76,Red Riding Hood,10,39,PG-13,"['Horror', 'Fantasy', 'Mystery&thriller']",['CatherineHardwicke'],"['JenniferDavissonKilloran', 'LeonardoDiCaprio', 'JulieYorn']","['Mar 11', '2011']",37.7M
+77,Sucker Punch,,27,R,['Action'],['MalcolmMartin'],,,
+78,The Inbetweeners,54,70,R,['Comedy'],['BenPalmer'],['ChristopherYoung'],"['Sep 7', '2012']",36.0K
+79,The Lincoln Lawyer,83,82,R,"['Drama', 'Mystery&thriller', 'Crime']",['BradFurman'],"['TomRosenberg', 'GaryLucchesi', 'SidneyKimmel', 'RichardS.Wright', 'ScottSteindorff']","['Mar 18', '2011']",58.0M
+80,Hall Pass,33,40,R,['Comedy'],"['PeterFarrelly', 'RobertFarrelly']","['PeterFarrelly', 'RobertFarrelly', 'BradleyThomas']","['Feb 25', '2011']",45.0M
+81,Spy Kids 4: All the Time in the World,,,,,,,,
+82,J. Edgar,43,44,R,"['Drama', 'History', 'Biography']",['ClintEastwood'],"['ClintEastwood', 'BrianGrazer', 'RobertLorenz']","['Nov 11', '2011']",37.3M
+83,"Big Mommas: Like Father, Like Son",5,58,PG-13,['Comedy'],['JohnWhitesell'],"['DavidT.Friendly', 'MichaelGreen']","['Feb 18', '2011']",37.9M
+84,Abduction,,20,,['Action'],['ErnieBarbarash'],"['RaymondLim', 'HenryLuk', 'AdamRenYuchen']","['Jun 7', '2019']",
+85,Tinker Tailor Soldier Spy,84,65,R,['Mystery&thriller'],['TomasAlfredson'],"['TimBevan', 'EricFellner', 'RobynSlovo']","['Jan 6', '2012']",24.1M
+86,Priest,15,46,PG-13,"['Horror', 'Fantasy', 'Action']",['ScottStewart'],"['MichaelDeLuca', 'JoshuaDonen', 'MitchellPeck']","['May 13', '2011']",29.1M
+87,Drive,93,79,R,"['Action', 'Drama', 'Crime']",['NicolasWindingRefn'],"['MarcPlatt', 'AdamSiegel', 'GigiPritzker', 'MichelLitvak', 'JohnPalermo']","['Sep 16', '2011']",35.1M
+88,The Ides of March,84,73,R,['Drama'],['GeorgeClooney'],"['GrantHeslov', 'GeorgeClooney', 'BrianOliver']","['Oct 7', '2011']",41.0M
+89,The Mechanic,53,51,R,"['Mystery&thriller', 'Action']",['SimonWest'],"['DavidWinkler', 'WilliamChartoff', 'RenéBesson']","['Jan 28', '2011']",29.1M
+90,The Change-Up,25,47,R,['Comedy'],['DavidDobkin'],"['DavidDobkin', 'NealH.Moritz']","['Aug 5', '2011']",37.0M
+91,Larry Crowne,37,41,PG-13,"['Comedy', 'Romance']",['TomHanks'],"['TomHanks', 'GaryGoetzman']","['Jul 1', '2011']",35.6M
+92,Diary of a Wimpy Kid: Rodrick Rules,47,62,PG,"['Kids&family', 'Comedy']",['DavidBowers'],"['NinaJacobson', 'BradSimpson']","['Mar 25', '2011']",52.7M
+93,The Dilemma,24,29,PG-13,['Comedy'],['RonHoward'],"['BrianGrazer', 'VinceVaughn', 'RonHoward']","['Jan 14', '2011']",48.4M
+94,Something Borrowed,15,48,PG-13,"['Comedy', 'Romance']",['LukeGreenfield'],"['HilarySwank', 'MollySmith', 'BroderickJohnson', 'AndrewA.Kosove', 'AaronLubin', 'PamelaScheinMurphy']","['May 6', '2011']",39.0M
+95,The Darkest Hour,12,25,PG-13,"['Action', 'Sci-fi', 'Mystery&thriller']",['ChrisGorak'],"['TomJacobson', 'TimurBekmambetov']","['Dec 25', '2011']",21.4M
+96,Hanna,71,66,PG-13,"['Mystery&thriller', 'Action', 'Adventure']",['JoeWright'],"['LeslieHolleran', 'MartyAdelstein', 'ScottNemes']","['Apr 8', '2011']",40.2M
+97,Footloose 2011 Re-release,,,,,,,,
+98,Conan the Barbarian,25,30,R,"['Fantasy', 'Action', 'Adventure']",['MarcusNispel'],"['FredrikMalmberg', 'BoazDavidson', 'GeorgeFurla', 'DannyLerner', 'LesWeldon', 'JoeGatta', 'JohnBaldecchi', 'HenryWinterstern']","['Aug 19', '2011']",21.3M
+99,Colombiana,27,67,PG-13,"['Action', 'Mystery&thriller']",['OlivierMegaton'],"['LucBesson', 'ArielZeitoun']","['Aug 26', '2011']",36.7M
+100,From Up on Poppy Hill,86,79,PG,"['Drama', 'Anime']",['GoroMiyazaki'],"['TetsurôSayama', 'ToshioSuzuki', 'ChizuruTakahashi']","['Mar 15', '2013']",284.7K
+101,What a Beautiful Day,,,,,,,,
+102,One Day,36,49,PG-13,['Romance'],['LoneScherfig'],['NinaJacobson'],"['Aug 19', '2011']",13.8M
+103,The Tree of Life,84,60,PG-13,['Drama'],['TerrenceMalick'],"['SarahGreen', 'BillPohlad', 'BradPitt', 'DedeGardner', 'GrantHill']","['May 27', '2011']",13.3M
+104,Beginning of the Great Revival,25,28,,"['Drama', 'History']","['SanpingHan', 'JianxinHuang']",,,
+105,Killer Elite,28,42,R,"['Action', 'Mystery&thriller']",['GaryMcKendry'],"['SigurjonSighvatsson', 'SteveChasman', 'MichaelBoughen', 'TonyWinley']","['Sep 23', '2011']",25.1M
+106,Gekijouban Tenpesuto 3D,,,,,,,,
+107,Silent Hill: Revelation,10,35,R,"['Horror', 'Fantasy']",['M.J.Bassett'],"['SamuelHadida', 'DonCarmody']","['Oct 26', '2012']",17.5M
+108,Extremely Loud & Incredibly Close,45,61,PG-13,['Drama'],['StephenDaldry'],['ScottRudin'],"['Jan 20', '2012']",31.8M
+109,Madea's Big Happy Family,38,74,PG-13,"['Drama', 'Comedy']",['TylerPerry'],"['TylerPerry', 'ReubenCannon', 'RogerM.Bobb']","['Apr 22', '2011']",53.3M
+110,A Ghost of a Chance,,,,['Drama'],['JanDarnley-Smith'],['GeorgeH.Brown'],,
+111,Sunny,,,,,,,,
+112,War of the Arrows,,,,,,,,
+113,Kokowääh,,63,,['Comedy'],['TilSchweiger'],,,
+114,Winnie the Pooh,90,80,G,"['Kids&family', 'Animation', 'Adventure']","['StephenJ.Anderson', 'DonHall']",['PeterDelVecho'],"['Jul 15', '2011']",
+115,Arthur,26,44,PG-13,"['Comedy', 'Romance']",['JasonWiner'],"['LarryBrezner', 'KevinMcCormick', 'ChrisBender', 'MichaelTadross']","['Apr 8', '2011']",33.0M
+116,Soul Surfer,46,75,PG,['Drama'],['SeanMcNamara'],"['DavidZelon', 'DouglasSchwartz', 'DutchHofstetter', 'DavidBrookwell', 'SeanMcNamara']","['Apr 8', '2011']",43.9M
+117,The Debt,77,66,R,"['Drama', 'Mystery&thriller']",['JohnMadden'],"['EduardoRossoff', 'KrisThykier', 'MatthewVaughn', 'EitanEvan']","['Aug 31', '2011']",31.1M
+118,Beastly,21,48,PG-13,"['Fantasy', 'Romance']",['DanielBarnz'],['SusanCartsonis'],"['Mar 4', '2011']",27.9M
+119,Detective Conan: Quarter of Silence,,,,,,,,
+120,Shaolin,74,71,R,"['Drama', 'History', 'Action', 'Sports&fitness']",['BennyChanChi-Shun'],"['BennyChanChi-Shun', 'AlbertLee']","['Sep 9', '2011']",64.3K
+121,Born to Be Wild,,,,['Adventure'],['JosephKane'],,,
+122,Shark Night,18,22,PG-13,"['Horror', 'Mystery&thriller']",['DavidR.Ellis'],"['MikeFleiss', 'LynetteHowellTaylor', 'ChrisBriggs']","['Sep 2', '2011']",18.9M
+123,50/50,93,88,R,"['Drama', 'Comedy']",['JonathanLevine'],"['EvanGoldberg', 'SethRogen', 'BenKarlin']","['Sep 30', '2011']",35.0M
+124,Fright Night,72,59,R,"['Horror', 'Comedy']",['CraigGillespie'],"['MichaelDeLuca', 'AlisonR.Rosenzweig']","['Aug 19', '2011']",18.3M
+125,Drive Angry,48,37,R,"['Fantasy', 'Adventure', 'Action', 'Mystery&thriller']",['PatrickLussier'],"['MichaelDeLuca', 'RenéBesson', 'AdamFields']","['Feb 25', '2011']",10.7M
+126,30 Minutes or Less,45,40,R,"['Comedy', 'Action']",['RubenFleischer'],"['StuartCornfeld', 'BenStiller', 'JeremyKramer']","['Aug 12', '2011']",37.1M
+127,Gantz,,58,,['Action'],['ShinsukeSato'],['TakahiroSato'],,
+128,The Roommate,3,27,PG-13,"['Drama', 'Mystery&thriller']",['ChristianE.Christiansen'],"['DougDavison', 'RoyLee']","['Feb 4', '2011']",37.3M
+129,SP: The Motion Picture II,,,,,,,,
+130,Dream House,,,,"['Drama', 'Romance']",['JeffBemiss'],['DavidLally'],,
+131,Monte Carlo,40,49,PG,"['Comedy', 'Romance']",['ThomasBezucha'],"['ArnonMilchan', 'DeniseDiNovi', 'AlisonGreenspan', 'NicoleKidman']","['Jul 1', '2011']",23.2M
+132,Eiga Kaibutsukun,,,,,,,,
+133,Mars Needs Moms,37,40,PG,"['Sci-fi', 'Adventure', 'Kids&family', 'Comedy', 'Animation']",['SimonWells'],"['RobertZemeckis', 'JackRapke', 'SteveStarkey', 'StevenBoyd']","['Mar 11', '2011']",21.4M
+134,The Crown Jewels,,,,,,,,
+135,Don't Be Afraid of the Dark,71,58,,"['Horror', 'Mystery&thriller']",['JohnNewland'],['AllenS.Epstein'],,
+136,Jumping the Broom,58,58,PG-13,['Comedy'],['SalimAkil'],"['ThomasDexterJakesSr.', 'CurtisWallace', 'TraceyEdmonds', 'ElizabethHunter', 'GlendonPalmer', 'MichaelMahoney']","['May 6', '2011']",37.3M
+137,One for the Money,2,42,PG-13,"['Comedy', 'Action']",['JulieAnneRobinson'],"['SidneyKimmel', 'WendyFinerman', 'TomRosenberg', 'GaryLucchesi']","['Jan 27', '2012']",26.4M
+138,The Eagle,39,41,PG-13,"['Drama', 'History', 'Action', 'Adventure']",['KevinMacdonald'],['DuncanKenworthy'],"['Feb 11', '2011']",19.5M
+139,A Very Harold & Kumar Christmas,68,59,R,"['Other', 'Comedy']",['ToddStrauss-Schulson'],['GregShapiro'],"['Nov 4', '2011']",35.0M
+140,Ra.One,,,,,,,,
+141,Courageous,36,86,PG-13,['Drama'],['AlexKendrick'],['StephenKendrick'],"['Sep 30', '2011']",461.7K
+142,My Week with Marilyn,84,71,R,['Drama'],['SimonCurtis'],"['DavidParfitt', 'HarveyWeinstein']","['Nov 25', '2011']",85.3K
+143,The Sitter,22,39,R,['Comedy'],['DavidGordonGreen'],['MichaelDeLuca'],"['Dec 9', '2011']",30.5M
+144,Jane Eyre,84,76,PG-13,"['Drama', 'Romance']",['CaryJojiFukunaga'],"['AlisonOwen', 'PaulTrijbits']","['Mar 11', '2011']",11.2M
+145,The Skin I Live In,81,84,R,"['Drama', 'Mystery&thriller']",['PedroAlmodóvar'],"['AgustínAlmodóvar', 'EstherGarcía']","['Oct 14', '2011']",3.2M
+146,Gantz: Perfect Answer,,50,,['Action'],['ShinsukeSato'],['TakahiroSato'],,
+147,Punch,29,17,R,['Drama'],['GuyBennett'],['StephenHegyes'],,
+148,Detective K: Secret of Virtuous Widow,,,,,,,,
+149,Bodyguard,,,,,,,,
+150,The Thing,34,42,R,"['Horror', 'Sci-fi', 'Mystery&thriller']",['MatthijsvanHeijningenJr.'],"['MarcAbraham', 'EricNewman']","['Oct 14', '2011']",16.9M
+151,I Don't Know How She Does It,17,32,PG-13,['Comedy'],['DouglasMcGrath'],['DonnaGigliotti'],"['Sep 16', '2011']",9.7M
+152,"All's Well, Ends Well 2011",,24,,"['Comedy', 'Romance']","['ChanHing-Kai', 'JanetChun']",['RaymondPak-MingWong'],,
+153,Vysotsky. Thank You for Being Alive,,,,,,,,
+154,Silenced,,,,"['Horror', 'Mystery&thriller']",['JulianLowenthal'],['ColleenLyon'],,
+155,African Cats,73,77,G,['Documentary'],"['KeithScholey', 'AlastairFothergill']","['KeithScholey', 'AlixTidmarsh']","['Apr 22', '2011']",15.4M
+156,Carnage,70,66,R,"['Drama', 'Comedy']",['RomanPolanski'],['SaïdBenSaïd'],"['Dec 16', '2011']",2.5M
+157,A Dangerous Method,78,50,R,"['Mystery&thriller', 'Drama']",['DavidCronenberg'],['JeremyThomas'],"['Nov 23', '2011']",5.7M
+158,What's Your Number?,23,44,R,"['Comedy', 'Romance']",['MarkMylod'],"['BeauFlynn', 'TrippVinson']","['Sep 30', '2011']",14.0M
+159,Doraemon: Nobita and the New Steel Troops: ~Winged Angels~,,,,,,,,
+160,Eternal Moment,,,,,,,,
+161,The Rum Diary,51,36,R,"['Drama', 'Comedy']",['BruceRobinson'],"['JohnnyDepp', 'ChristiDembrowski', 'AnthonyRhulen', 'RobertKravis', 'GrahamKing', 'TimHeadington']","['Oct 28', '2011']",13.1M
+162,My Own Swordsman,,,,,,,,
+163,You Are the Apple of My Eye,,,,,,,,
+164,Torrente 4,,,,,,,,
+165,The Sorcerer and the White Snake,27,49,PG-13,"['Fantasy', 'Action']",['TonyChingSiuTung'],['PoChuChui'],"['Feb 8', '2013']",18.4K
+166,Unfair: The Answer,,,,['Drama'],['PavanKaul'],,,
+167,Dragon,68,74,R,"['Drama', 'Crime', 'Mystery&thriller']",['BrettRatner'],"['DinoDeLaurentiis', 'MarthaDeLaurentiis']","['Oct 4', '2002']",92.9M
+168,Yolki 2,,,,,,,,
+169,Your Highness,27,34,R,"['Comedy', 'Adventure']",['DavidGordonGreen'],['ScottStuber'],"['Apr 8', '2011']",21.6M
+170,Love Strikes!,,52,,"['Comedy', 'Romance']",['HitoshiOhne'],['GenkiKawamura'],,
+171,The Women on the 6th Floor,67,67,,['Comedy'],['PhilippeLeGuay'],['PhilippeRousselet'],,719.6K
+172,Letters to Santa,,77,,"['Drama', 'Romance', 'Comedy']",['MitjaOkorn'],"['DariuszGasiorowski', 'IzabelaLopuch']",,
+173,A Monster in Paris,87,65,PG,"['Kids&family', 'Animation', 'Comedy', 'Adventure']",['BiboBergeron'],['LucBesson'],,
+174,Ivan Tsarevich & the Grey Wolf,,,,"['Kids&family', 'Fantasy', 'Animation', 'Adventure']",['VladimirToropchin'],,,
+175,Apollo 18,23,23,PG-13,"['Sci-fi', 'Mystery&thriller']",['GonzaloLópez-Gallego'],"['TimurBekmambetov', 'MicheleWolkoff']","['Sep 2', '2011']",17.7M
+176,Our Idiot Brother,70,51,R,['Comedy'],['JessePeretz'],"['AnthonyBregman', 'PeterSaraf', 'MarcTurtletaub']","['Aug 26', '2011']",24.8M
+177,Eyyvah Eyvah 2,,76,,['Comedy'],['HakanAlgül'],['NecatiAkpinar'],,
+178,Ready,30,47,,"['Drama', 'Action']",['AneesBazmee'],"['SohailKhan', 'BhushanKumar', 'KrishanKumar', 'RajatRawail']",,
+179,In His Chart,,,,,,,,
+180,Warrior,84,92,PG-13,"['Drama', 'Action']","[""GavinO'Connor""]","[""GavinO'Connor"", ""GregO'Connor""]","['Sep 9', '2011']",13.7M
+181,Hoodwinked 2: Hood vs. Evil,11,35,PG,"['Kids&family', 'Animation', 'Comedy']","[""MichaelD'Isa-Hogan""]","['MauriceKanbar', 'DavidLovegren']","['Apr 29', '2011']",10.1M
+182,Young Adult,80,49,R,"['Drama', 'Romance', 'Comedy']",['JasonReitman'],"['LianneHalfon', 'RussellSmith', 'DiabloCody', 'MasonNovick', 'JasonReitman']","['Dec 16', '2011']",16.3M
+183,Andalucia: Revenge of the Goddess,,,,,,,,
+184,A Separation,99,92,PG-13,['Drama'],['AsgharFarhadi'],['AsgharFarhadi'],"['Dec 30', '2011']",331.7K
+185,Qualunquemente,,40,,,['GiulioManfredonia'],,,
+186,Friends: Naki on the Monster Island,,83,,"['Fantasy', 'Animation', 'Kids&family']","['TakashiYamazaki', 'RyûichiYagi']",,,
+187,Kamen Rider OOO Wonderful: The Shogun and the 21 Core Medals,,,,,,,,
+188,Gooische vrouwen,,,,,,,,
+189,The Immature,,49,,['Comedy'],['PaoloGenovese'],['MarcoGiannoni'],,
+190,Pleasant Goat and Big Big Wolf 3,,,,,,,,
+191,Quick,,19,R,['Mystery&thriller'],['JohnMackenzie'],"['RandyLippert', 'BernardMazauric', 'JimReeve']",,
+192,K-On! The Movie,,,,,,,,
+193,Red Dog,,87,,['Documentary'],['CaseyPinkston'],"['LukeDick', 'CaseyPinkston']",,
+194,Vicky and the Treasure of the Gods,,19,,"['Kids&family', 'Comedy', 'Adventure']",['ChristianDitter'],,,
+195,The Front Line,69,78,,"['Drama', 'War']",['JangHoon'],,,
+196,Polisse,87,78,,"['Drama', 'Crime']",['Maïwenn'],['AlainAttal'],"['May 18', '2012']",171.3K
+197,Hollywoo,68,48,R,"['Drama', 'Crime', 'Mystery&thriller']",['AllenCoulter'],['GlennWilliamson'],"['Sep 8', '2006']",14.4M
+198,Scabbard Samurai,,63,,['Comedy'],['HitoshiMatsumoto'],['AkihikoOkamoto'],,
+199,Kaiji 2: The Ultimate Gambler,,,,,,,,

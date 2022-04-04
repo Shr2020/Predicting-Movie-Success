@@ -1,0 +1,199 @@
+,Release Group,Score_Rotten,Score_Audience,Rating,Genre,Director,Producer,Release Date (Theaters),Box Office (Gross USA)
+0,The Avengers,,,,['Adventure'],['JohnH.Auer'],,,
+1,Skyfall,92,86,PG-13,"['Mystery&thriller', 'Action', 'Adventure']",['SamMendes'],"['MichaelG.Wilson', 'BarbaraBroccoli']","['Nov 9', '2012']",304.4M
+2,The Dark Knight Rises,87,90,PG-13,"['Mystery&thriller', 'Fantasy', 'Action', 'Adventure']",['ChristopherNolan'],"['EmmaThomas', 'ChristopherNolan', 'CharlesRoven']","['Jul 20', '2012']",2
+3,The Hobbit: An Unexpected Journey,64,83,PG-13,"['Fantasy', 'Adventure']",['PeterJackson'],"['CarolynneCunningham', 'ZaneWeiner', 'FranWalsh', 'PeterJackson']","['Dec 14', '2012']",303.0M
+4,Ice Age 4: Continental Drift,37,62,PG,"['Adventure', 'Comedy', 'Kids&family', 'Animation']","['SteveMartino', 'MikeThurmeier']","['LoriForte', 'JohnC.Donkin']","['Jul 13', '2012']",
+5,The Twilight Saga: Breaking Dawn - Part 2,49,70,PG-13,"['Romance', 'Fantasy']",['BillCondon'],"['WyckGodfrey', 'KarenRosenfelt', 'StephenieMeyer']","['Nov 16', '2012']",292.3M
+6,The Amazing Spider-Man,72,77,PG-13,"['Mystery&thriller', 'Action', 'Adventure']",['MarcWebb'],"['LauraZiskin', 'AviArad', 'MatthewTolmach']","['Jul 3', '2012']",262.0M
+7,Madagascar 3: Europe's Most Wanted,78,72,PG,"['Kids&family', 'Animation', 'Comedy', 'Adventure']","['EricDarnell', 'TomMcGrath', 'ConradVernon']","['MireilleSoria', 'MarkSwift']","['Jun 8', '2012']",
+8,The Hunger Games,84,81,PG-13,"['Action', 'Sci-fi', 'Adventure']",['GaryRoss'],"['NinaJacobson', 'JonKilik']","['Mar 23', '2012']",408.0M
+9,Men in Black 3,68,70,PG-13,"['Sci-fi', 'Comedy', 'Action']",['BarrySonnenfeld'],"['WalterF.Parkes', 'LaurieMacDonald']","['May 25', '2012']",179.0M
+10,Life of Pi,86,84,PG,"['Adventure', 'Drama']",['AngLee'],"['GilNetter', 'AngLee', 'DavidWomark']","['Nov 21', '2012']",125.0M
+11,Ted,69,73,R,"['Fantasy', 'Comedy']",['SethMacFarlane'],"['ScottStuber', 'SethMacFarlane', 'JohnJacobs', 'JasonClark']","['Jun 29', '2012']",218.6M
+12,Brave,78,75,PG,"['Adventure', 'Comedy', 'Kids&family', 'Animation']","['MarkAndrews', 'BrendaChapman']",['KatherineSarafian'],"['Jun 22', '2012']",
+13,Wreck-It Ralph,87,86,PG,"['Adventure', 'Comedy', 'Kids&family', 'Animation']",['RichMoore'],['ClarkSpencer'],"['Nov 2', '2012']",189.4M
+14,Les Misérables,70,79,PG-13,"['Drama', 'History', 'Musical']",['TomHooper'],"['TimBevan', 'EricFellner', 'DebraHayward', 'CameronMackintosh']","['Dec 25', '2012']",148.8M
+15,Django Unchained,86,92,R,"['Drama', 'Western', 'Action']",['QuentinTarantino'],"['StaceySher', 'ReginaldHudlin', 'PilarSavone']","['Dec 25', '2012']",162.8M
+16,Prometheus,73,68,R,"['Horror', 'Sci-fi', 'Mystery&thriller']",['RidleyScott'],"['RidleyScott', 'DavidGiler', 'WalterHill']","['Jun 8', '2012']",126.5M
+17,Snow White and the Huntsman,49,52,PG-13,"['Fantasy', 'Action', 'Adventure']",['RupertSanders'],"['SamMercer', 'PalakPatel', 'JoeRoth']","['Jun 1', '2012']",155.1M
+18,Taken 2,22,52,PG-13,"['Action', 'Mystery&thriller']",['OlivierMegaton'],['LucBesson'],"['Oct 5', '2012']",139.9M
+19,Hotel Transylvania,45,71,PG,"['Kids&family', 'Fantasy', 'Comedy', 'Animation']",['GenndyTartakovsky'],['MichelleMurdocca'],"['Sep 28', '2012']",167.9M
+20,Titanic 2012 3D Release,,,,,,,,
+21,The Lorax,,83,,,['HawleyPratt'],,,
+22,Journey 2: The Mysterious Island,45,59,PG,"['Fantasy', 'Adventure']",['BradPeyton'],"['BeauFlynn', 'TrippVinson', 'CharlotteHuggins']","['Feb 10', '2012']",103.8M
+23,The Expendables 2,67,67,R,"['Adventure', 'Action']",['SimonWest'],"['LesWeldon', 'DannyLerner', 'KevinKingTempleton', 'AviLerner']","['Aug 17', '2012']",85.0M
+24,Rise of the Guardians,75,80,PG,"['Kids&family', 'Fantasy', 'Animation', 'Adventure']",['PeterRamsey'],"['ChristinaSteinberg', 'NancyBernstein']","['Nov 21', '2012']",103.4M
+25,Battleship,34,54,PG-13,"['Action', 'Sci-fi', 'Adventure']",['PeterBerg'],"['BrianGoldner', 'ScottStuber', 'PeterBerg', 'SarahAubrey', 'DuncanHenderson', 'BennettSchneir']","['May 18', '2012']",65.2M
+26,Wrath of the Titans,26,49,PG-13,"['Adventure', 'Fantasy', 'Action']",['JonathanLiebesman'],"['BasilIwanyk', 'PollyJohnsen']","['Mar 30', '2012']",83.6M
+27,John Carter,52,60,PG-13,"['Action', 'Sci-fi', 'Adventure']",['AndrewStanton'],"['JimMorris', 'ColinWilson', 'LindseyCollins']","['Mar 9', '2012']",73.1M
+28,The Bourne Legacy,55,58,PG-13,"['Action', 'Mystery&thriller']",['TonyGilroy'],"['FrankMarshall', 'PatrickCrowley', 'JeffreyM.Weiner', 'BenSmith']","['Aug 10', '2012']",113.2M
+29,Lincoln,,,,,,,,
+30,We're the Millers,49,72,R,"['Comedy', 'Action']",['RawsonMarshallThurber'],"['VincentNewman', 'TuckerTooley', 'HappyWalters', 'ChrisBender']","['Aug 7', '2013']",150.4M
+31,Dark Shadows,35,46,PG-13,"['Fantasy', 'Comedy']",['TimBurton'],"['TimBurton', 'RichardD.Zanuck', 'GrahamKing', 'JohnnyDepp', 'ChristiDembrowski', 'DavidKennedy']","['May 11', '2012']",79.7M
+32,Resident Evil: Retribution,28,51,R,"['Horror', 'Action']",['PaulW.S.Anderson'],"['JeremyBolt', 'PaulW.S.Anderson', 'RobertKulzer', 'DonCarmody', 'SamuelHadida']","['Sep 14', '2012']",42.3M
+33,Silver Linings Playbook,92,86,R,"['Romance', 'Comedy', 'Drama']",['DavidO.Russell'],"['DonnaGigliotti', 'BruceCohen', 'JonathanGordon']","['Nov 21', '2012']",132.1M
+34,American Reunion,45,63,R,['Comedy'],"['JonHurwitz', 'HaydenSchlossberg']","['CraigPerry', 'WarrenZide', 'ChrisMoore', 'AdamHerz']","['Apr 6', '2012']",3.1M
+35,Argo,96,90,R,"['Drama', 'History', 'Mystery&thriller']",['BenAffleck'],"['GrantHeslov', 'BenAffleck', 'GeorgeClooney']","['Oct 12', '2012']",136.0M
+36,Jack Reacher,63,67,PG-13,"['Action', 'Mystery&thriller']",['ChristopherMcQuarrie'],"['TomCruise', 'DonGranger', 'PaulaWagner', 'GaryLevinsohn']","['Dec 21', '2012']",54.6M
+37,Safe House,53,63,R,"['Action', 'Mystery&thriller']",['DanielEspinosa'],['ScottStuber'],"['Feb 10', '2012']",126.1M
+38,21 Jump Street,85,82,R,"['Comedy', 'Action']","['PhilLord', 'ChrisMiller']","['NealH.Moritz', 'StephenJ.Cannell']","['Mar 16', '2012']",138.4M
+39,Total Recall,31,47,PG-13,"['Action', 'Sci-fi', 'Adventure']",['LenWiseman'],"['NealH.Moritz', 'TobyJaffe']","['Aug 3', '2012']",58.9M
+40,The Impossible,81,84,PG-13,['Drama'],['JuanAntonioBayona'],"['BelénAtienza', 'ÁlvaroAugustin', 'GhislainBarrois', 'EnriqueLópezLavigne']","['Dec 21', '2012']",19.0M
+41,Lost in Thailand,67,49,,['Comedy'],['ZhengXu'],"['Chi-LeungChan', 'AbeKwongMan-Wai', 'ZhengXu']",,57.4K
+42,The Vow,,100,,['Drama'],['HenrykSzabo'],,,
+43,Mirror Mirror,50,46,PG,"['Adventure', 'Fantasy', 'Kids&family', 'Comedy']",['Tarsem'],"['BernieGoldmann', 'RyanKavanaugh', 'BrettRatner']","['Mar 30', '2012']",64.9M
+44,The Dictator,57,44,R,['Comedy'],['LarryCharles'],"['SachaBaronCohen', 'AlecBerg', 'DavidMandel', 'JeffSchaffer', 'AnthonyHines', 'ScottRudin', 'ToddSchulman']","['May 16', '2012']",59.6M
+45,Looper,93,82,R,"['Action', 'Sci-fi', 'Mystery&thriller']",['RianJohnson'],"['RamBergman', 'JamesD.Stern']","['Sep 28', '2012']",66.3M
+46,Chinese Zodiac,25,45,PG-13,"['Comedy', 'Action']",['JackieChan'],,,
+47,Magic Mike,79,60,R,"['Drama', 'Comedy']",['StevenSoderbergh'],"['NickWechsler', 'GregoryJacobs', 'ChanningTatum', 'ReidCarolin']","['Jun 29', '2012']",113.7M
+48,Flight,77,75,R,"['Drama', 'Mystery&thriller']",['RobertZemeckis'],"['WalterF.Parkes', 'LaurieMacDonald', 'SteveStarkey', 'RobertZemeckis', 'JackRapke']","['Nov 2', '2012']",93.7M
+49,Underworld: Awakening,26,62,R,"['Horror', 'Fantasy', 'Action']","['MånsMårlind', 'BjörnStein']","['TomRosenberg', 'GaryLucchesi', 'LenWiseman', 'RichardS.Wright']","['Jan 20', '2012']",62.3M
+50,This Means War,26,56,PG-13,"['Comedy', 'Action']",['McG'],"['RobertSimonds', 'JamesLassiter', 'WillSmith', 'SimonKinberg']","['Feb 17', '2012']",54.8M
+51,Paranormal Activity 4,23,34,R,"['Mystery&thriller', 'Horror']","['HenryJoost', 'ArielSchulman']","['JasonBlum', 'OrenPeli']","['Oct 18', '2012']",53.9M
+52,Step Up Revolution,41,68,PG-13,"['Musical', 'Drama', 'Romance']",['ScottSpeer'],"['AdamShankman', 'JenniferGibgot', 'PatrickWachsberger', 'ErikFeig']","['Jul 27', '2012']",35.1M
+53,The Best Exotic Marigold Hotel,78,78,PG-13,"['Drama', 'Comedy']",['JohnMadden'],"['GrahamBroadbent', 'PeterCzernin']","['May 18', '2012']",46.4M
+54,The Wind Rises,88,85,PG-13,"['Drama', 'History', 'Anime', 'Biography']","['HayaoMiyazaki', 'GaryRydstrom']",['ToshioSuzuki'],"['Feb 28', '2014']",
+55,Last Vegas,46,59,PG-13,['Comedy'],['JonTurteltaub'],"['LaurenceMark', 'AmyBaer']","['Nov 1', '2013']",63.9M
+56,Zero Dark Thirty,91,80,R,"['War', 'Mystery&thriller', 'Drama']",['KathrynBigelow'],"['MarkBoal', 'KathrynBigelow', 'MeganEllison']","['Jan 11', '2013']",95.7M
+57,Ghost Rider: Spirit of Vengeance,18,31,PG-13,"['Fantasy', 'Action']","['MarkNeveldine', 'BrianTaylor']","['StevenPaul', 'AshokAmritraj', 'MichaelDeLuca', 'AviArad']","['Feb 17', '2012']",51.8M
+58,Cloud Atlas,66,66,R,"['Drama', 'Sci-fi', 'Mystery&thriller']","['LanaWachowski', 'LillyWachowski', 'TomTykwer']","['GrantHill', 'StefanArndt', 'LanaWachowski', 'TomTykwer', 'LillyWachowski']","['Oct 26', '2012']",27.1M
+59,The Woman in Black,66,54,PG-13,"['Horror', 'Mystery&thriller']",['JamesWatkins'],"['RichardJackson', 'SimonOakes', 'BrianOliver']","['Feb 3', '2012']",54.3M
+60,Chronicle,85,71,PG-13,"['Sci-fi', 'Mystery&thriller', 'Drama']",['JoshTrank'],"['JohnDavis', 'AdamSchroeder']","['Feb 3', '2012']",64.6M
+61,Walking with Dinosaurs 3D,,,,,,,,
+62,The Pirates! Band of Misfits,86,64,PG,"['Kids&family', 'Animation', 'Comedy', 'Adventure']",['PeterLord'],"['PeterLord', 'DavidSproxton', 'JulieLockhart']","['Apr 27', '2012']",375.9K
+63,Parental Guidance,18,59,PG,"['Kids&family', 'Comedy']",['AndyFickman'],"['BillyCrystal', 'PeterChernin', 'DylanClark']","['Dec 25', '2012']",77.3M
+64,Abraham Lincoln: Vampire Hunter,34,50,R,"['Mystery&thriller', 'Action', 'Horror']",['TimurBekmambetov'],"['TimBurton', 'TimurBekmambetov', 'JimLemley']","['Jun 22', '2012']",37.5M
+65,Pitch Perfect,81,83,PG-13,"['Romance', 'Musical', 'Comedy']",['JasonMoore'],"['PaulBrooks', 'MaxHandelman', 'ElizabethBanks']","['Oct 5', '2012']",65.0M
+66,Hope Springs,75,55,PG-13,"['Comedy', 'Drama']",['DavidFrankel'],"['ToddBlack', 'GuymonCasady']","['Aug 8', '2012']",63.5M
+67,ParaNorman,89,72,PG,"['Fantasy', 'Adventure', 'Kids&family', 'Comedy', 'Animation']","['ChrisButler', 'SamFell']","['ArianneSutner', 'TravisKnight']","['Aug 17', '2012']",
+68,The Campaign,,,,"['Drama', 'Comedy']",['MarianCrisan'],"['MarianCrisan', 'AncaPuiu']",,
+69,Star Wars: Episode I - The Phantom Menace 2012 3D Release,,,,,,,,
+70,Project X,,,,,['HenrikMoltke'],,,
+71,The Devil Inside,5,22,R,"['Horror', 'Mystery&thriller']",['WilliamBrentBell'],"['MatthewPeterman', 'MorrisPaulson']","['Jan 6', '2012']",53.2M
+72,The Lucky One,20,67,PG-13,"['Drama', 'Romance']",['ScottHicks'],"['DeniseDiNovi', 'KevinMcCormick']","['Apr 20', '2012']",60.4M
+73,Contraband,51,57,R,"['Action', 'Mystery&thriller']",['BaltasarKormákur'],"['TimBevan', 'EricFellner', 'BaltasarKormákur', 'StephenLevinson', 'MarkWahlberg']","['Jan 13', '2012']",66.5M
+74,Think Like a Man,54,79,PG-13,"['Comedy', 'Romance']",['TimStory'],['WillPacker'],"['Apr 20', '2012']",91.5M
+75,Masquerade,14,33,,['Mystery&thriller'],['ShaneDaxTaylor'],"['StevenSchneider', 'ShaneDaxTaylor', 'KennethBurke']","['Jul 30', '2021']",
+76,Brave Hearts: Umizaru,,,,,,,,
+77,This Is 40,51,50,R,"['Romance', 'Comedy']",['JuddApatow'],"['JuddApatow', 'BarryMendel', 'ClaytonTownsend']","['Dec 21', '2012']",67.5M
+78,The Thieves,67,70,,"['Drama', 'Action', 'Crime']",['ChoiDong-hoon'],"['AhnSuhyeon', 'LeeJa-jun']","['Oct 12', '2012']",137.0K
+79,The Possession,39,48,PG-13,"['Horror', 'Mystery&thriller']",['OleBornedal'],"['SamRaimi', 'RobTapert', 'J.R.Young']","['Aug 31', '2012']",49.1M
+80,What to Expect When You're Expecting,23,47,PG-13,"['Romance', 'Drama', 'Comedy']",['KirkJones'],"['MikeMedavoy', 'ArnoldMesser', 'DavidThwaites']","['May 18', '2012']",41.1M
+81,Savages,50,54,R,"['Drama', 'Mystery&thriller', 'Crime']",['OliverStone'],"['MoritzBorman', 'EricKopeloff']","['Jul 6', '2012']",47.3M
+82,Sinister,63,61,R,"['Horror', 'Mystery&thriller']",['ScottDerrickson'],"['JasonBlum', 'BrianKavanaugh-Jones']","['Oct 12', '2012']",48.1M
+83,Act of Valor,28,72,R,"['Action', 'Mystery&thriller']","['MikeMcCoy', 'ScottWaugh']","['MikeMcCoy', 'ScottWaugh']","['Feb 24', '2012']",70.0M
+84,Frankenweenie,87,70,PG,"['Kids&family', 'Animation', 'Comedy']",['TimBurton'],"['TimBurton', 'AllisonAbbate']","['Oct 5', '2012']",
+85,The Grey,,,R,['Drama'],['ShaneDaxTaylor'],['MarkBooneJunior'],"['Feb 20', '2004']",
+86,Diary of a Wimpy Kid: Dog Days,52,63,PG,"['Kids&family', 'Comedy']",['DavidBowers'],"['NinaJacobson', 'BradSimpson']","['Aug 3', '2012']",49.0M
+87,Thermae Romae,,40,,['Comedy'],['HidekiTakeuchi'],,,
+88,One Piece Film Z,,75,,"['Anime', 'Action', 'Adventure']",['TatsuyaNagamine'],,,
+89,To Rome with Love,46,40,R,"['Comedy', 'Romance']",['WoodyAllen'],"['LettyAronson', 'StephenTenenbaum', 'GiampaoloLetta', 'FarukAlatan']","['Jul 6', '2012']",16.7M
+90,Here Comes the Boom,42,65,PG,"['Comedy', 'Action']",['FrankCoraci'],"['ToddGarner', 'KevinJames']","['Oct 12', '2012']",45.3M
+91,Bayside Shakedown the Final,,,,,,,,
+92,The Cabin in the Woods,92,74,R,"['Horror', 'Comedy']",['DrewGoddard'],['JossWhedon'],"['Apr 13', '2012']",42.0M
+93,Finding Nemo 2012 3D Release,,,,,,,,
+95,The Watch,16,39,R,"['Comedy', 'Sci-fi']",['AkivaSchaffer'],['ShawnLevy'],"['Jul 27', '2012']",34.4M
+96,Moonrise Kingdom,93,86,PG-13,"['Drama', 'Romance', 'Comedy']",['WesAnderson'],"['WesAnderson', 'ScottRudin', 'StevenRales', 'JeremyDawson']","['Jun 29', '2012']",45.5M
+97,The Secret of the Gods,,,,,,,,
+98,Madea's Witness Protection,19,66,PG-13,['Comedy'],['TylerPerry'],"['TylerPerry', 'OzzieAreu', 'PaulHall']","['Jun 29', '2012']",65.6M
+99,Beauty and the Beast 2012 3D Release,,,,,,,,
+100,Astérix and Obélix: God Save Britannia,,23,,"['Comedy', 'Adventure']",['LaurentTirard'],"['OlivierDelbosc', 'GenevieveLemal', 'ÁlvaroLongoria', 'PeterMiskolczi']",,
+101,Evangelion: 3.0 You Can (Not) Redo,,,,,,,,
+102,Quartet,80,66,PG-13,"['Comedy', 'Drama']",['DustinHoffman'],"['FinolaDwyer', 'StewartMackinnon']","['Jan 11', '2013']",18.4M
+103,Rock of Ages,43,55,PG-13,['Musical'],['AdamShankman'],"['MattWeaver', 'ScottPrisand', 'CarlLevin', 'TobeyMaguire', 'GarrettGrant', 'JenniferGibgot']","['Jun 15', '2012']",38.5M
+104,That's My Boy,20,51,R,['Comedy'],['SeanAnders'],"['AdamSandler', 'JackGiarraputo', 'HeatherParry', 'AllenCovert']","['Jun 15', '2012']",36.9M
+105,The Odd Life of Timothy Green,36,67,PG,"['Drama', 'Kids&family', 'Fantasy', 'Comedy']",['PeterHedges'],"['AhmetZappa', 'ScottSanders', 'JamesWhitaker']","['Aug 15', '2012']",51.9M
+106,Lawless,66,74,R,"['Drama', 'Crime']",['JohnHillcoat'],"['DouglasWick', 'LucyFisher', 'MeganEllison', 'MichaelBenaroya']","['Aug 29', '2012']",37.3M
+107,End of Watch,85,86,R,"['Drama', 'Action', 'Crime']",['DavidAyer'],"['JohnLesher', 'DavidAyer', 'NigelSinclair', 'MattJackson']","['Sep 21', '2012']",41.0M
+108,Wolf Children,,,,,,,,
+109,The Three Stooges,,86,,,['LouBreslow'],,,
+110,The Five-Year Engagement,64,51,R,"['Romance', 'Comedy']",['NicholasStoller'],"['JuddApatow', 'NicholasStoller', 'RodneyRothman']","['Apr 27', '2012']",28.6M
+111,Red Dawn,15,51,PG-13,"['Adventure', 'Action']",['DanBradley'],"['BeauFlynn', 'TrippVinson']","['Nov 21', '2012']",44.8M
+112,Red Tails,40,58,PG-13,"['Drama', 'History', 'War']",['AnthonyHemingway'],"['RickMcCallum', 'CharlesFloydJohnson']","['Jan 20', '2012']",49.9M
+113,"Monsters, Inc. 2012 3D Release",,,,,,,,
+114,HOUBA! On the Trail of the Marsupilami,,36,,"['Comedy', 'Adventure']",['AlainChabat'],"['AmandineBillot', 'AlainChabat', 'ChristineRouxel']",,
+115,Tad: The Lost Explorer,,40,,"['Kids&family', 'Comedy', 'Animation', 'Adventure']",['EnriqueGato'],"['JordiGasull', 'EdmonRoch', 'ÁlvaroAugustin', 'NicolasMatji']",,
+116,A Turtle's Tale 2: Sammy's Escape from Paradise,,,,,,,,
+117,Trouble with the Curve,51,66,PG-13,['Drama'],['RobertLorenz'],"['ClintEastwood', 'RobertLorenz', 'MicheleWeisler']","['Sep 21', '2012']",35.8M
+118,Man on a Ledge,31,52,PG-13,"['Drama', 'Crime', 'Mystery&thriller']",['AsgerLeth'],"['LorenzodiBonaventura', 'MarkVahradian']","['Jan 27', '2012']",18.6M
+119,A Werewolf Boy,100,85,,"['Fantasy', 'Romance', 'Sci-fi']",['JoSung-hee'],['YunIn-Beom'],,
+120,Doraemon: Nobita and the Island of Miracles ~Animal Adventure~,,,,,,,,
+121,Gekijouban Tenpesuto 3D 2012 Re-release,,,,,,,,
+122,Detective Conan: The Eleventh Striker,,,,,,,,
+123,House at the End of the Street,13,41,PG-13,"['Horror', 'Mystery&thriller']",['MarkTonderai'],"['AaronRyder', 'PeterBlock', 'HalLieberman']","['Sep 21', '2012']",31.6M
+124,The Guilt Trip,37,39,PG-13,['Comedy'],['AnneFletcher'],"['LorneMichaels', 'JohnGoldwyn', 'EvanGoldberg']","['Dec 19', '2012']",37.1M
+126,Dredd,79,72,R,"['Sci-fi', 'Action']",['PeteTravis'],"['AndrewMacdonald', 'AllonReich', 'AlexGarland', 'JasonKingsley', 'ChrisKingsley']","['Sep 21', '2012']",13.3M
+127,La vérité si je mens! 3,,22,,,['ThomasGilou'],,,
+128,Always: Sunset on Third Street '64,,90,,['Drama'],['TakashiYamazaki'],['ShujiAbe'],,
+129,Chernobyl Diaries,19,28,R,"['Horror', 'Mystery&thriller']",['BradleyParker'],"['OrenPeli', 'BrianWitten']","['May 25', '2012']",18.1M
+130,Killing Them Softly,74,44,R,"['Drama', 'Crime']",['AndrewDominik'],"['BradPitt', 'DedeGardner', 'SteveSchwartz', 'PaulaMaeSchwartz', 'AnthonyKatagas']","['Nov 30', '2012']",14.9M
+131,Rurouni Kenshin Part I: Origins,,,,,,,,
+132,The Tower,,,,,[''],,,
+133,Conquest 1453,40,52,,"['Drama', 'War', 'Action', 'Adventure']",['FarukAksoy'],['FarukAksoy'],,
+134,Good Deeds,12,55,PG-13,['Mystery&thriller'],['SamMiller'],"['WillPacker', 'LeeClay']","['Sep 12', '2014']",52.5M
+135,Arbitrage,87,62,R,"['Drama', 'Mystery&thriller']",['NicholasJarecki'],"['LauraBickford', 'KevinTuren', 'JustinNappi', 'RobertSalerno']","['Sep 14', '2012']",7.9M
+136,Welcome to the North,,,,,,,,
+137,Chimpanzee,76,75,G,['Documentary'],"['AlastairFothergill', 'MarkLinfield']","['AlastairFothergill', 'MarkLinfield', 'AlixTidmarsh']","['Apr 20', '2012']",29.0M
+138,Alex Cross,11,47,PG-13,"['Action', 'Mystery&thriller']",['RobCohen'],"['BillBlock', 'PaulHanson', 'JamesPatterson', 'SteveBowen', 'RandallEmmett', 'LeopoldoGout']","['Oct 19', '2012']",25.9M
+139,Salmon Fishing in the Yemen,67,64,PG-13,"['Drama', 'Romance', 'Comedy']",['LasseHallström'],['PaulWebster'],"['Mar 9', '2012']",73.0K
+140,Haywire,80,41,R,"['Mystery&thriller', 'Action']",['StevenSoderbergh'],['GregoryJacobs'],"['Jan 20', '2012']",201.7K
+141,Adventures in Zambezia,,,,,,,,
+142,Cirque du Soleil: Worlds Away,45,94,PG,"['Drama', 'Fantasy', 'Adventure']",['AndrewAdamson'],"['MartinBolduc', 'AndrewAdamson', 'AronWarner']","['Dec 21', '2012']",12.5M
+143,Three Heroes on Distant Shores,,,,,,,,
+144,2016: Obama's America,26,73,PG,['Documentary'],"[""DineshD'Souza"", 'JohnSullivan']","['AnnBalog', 'DougSain']","['Aug 31', '2012']",33.3M
+145,The Perks of Being a Wallflower,85,89,PG-13,"['Lgbtq+', 'Romance', 'Comedy', 'Drama']",['StephenChbosky'],"['LianneHalfon', 'RussellSmith', 'JohnMalkovich']","['Oct 12', '2012']",17.7M
+146,Lockout,37,46,PG-13,"['Action', 'Sci-fi', 'Mystery&thriller']","['JamesMather', 'StephenSaint-Leger']","['MarcLibert', 'LeilaSmith']","['Apr 13', '2012']",14.3M
+147,Bait,100,61,,['Drama'],['MarkJenkin'],"['KateByers', 'LinnWaite']",,
+148,Part of Me,75,72,PG,['Documentary'],"['DanCutforth', 'JaneLipsitz']","['BrianGrazer', 'KatyPerry', 'MartinKirkup', 'BradfordCobb', 'StevenJensen']","['Jul 5', '2012']",25.3M
+149,Nameless Gangster: Rules of the Time,,,,,,,,
+150,Movie 43,4,24,R,['Comedy'],"['StevenBrill', 'PeterFarrelly', 'WillGraham', 'SteveCarr', 'GriffinDunne', 'JamesStuartDuffy', 'JonathanVanTulleken', 'ElizabethBanks', 'PatrikForsberg', 'BrettRatner', 'RustyCundieff', 'JamesGunn']",,"['Jan 25', '2013']",8.8M
+151,Seven Psychopaths,83,71,R,['Comedy'],['MartinMcDonagh'],"['GrahamBroadbent', 'PeterCzernin', 'MartinMcDonagh']","['Oct 12', '2012']",15.0M
+152,The Floating Castle,,,,,,,,
+153,The Neighbors,,29,,['Mystery&thriller'],['HwiKim'],['SukJae-seung'],,
+154,The Dream Team,53,61,PG-13,['Comedy'],['HowardZieff'],['ChristopherW.Knight'],,26.8M
+155,What's in a Name?,71,74,,['Comedy'],"['AlexandredeLaPatellière', 'MatthieuDelaporte']","['JeremyBurdek', 'AlexandredeLaPatellière', 'MatthieuDelaporte', 'SergedePoucques']",,
+156,Joyful Noise,32,65,PG-13,"['Drama', 'Musical', 'Comedy']",['ToddGraff'],"['MichaelG.Nathanson', 'JosephFarrell', 'CatherinePaura', 'BroderickJohnson', 'AndrewA.Kosove']","['Jan 13', '2012']",30.9M
+157,Premium Rush,74,60,PG-13,"['Action', 'Mystery&thriller']",['DavidKoepp'],['GavinPolone'],"['Aug 24', '2011']",20.3M
+158,Playing for Keeps,4,41,PG-13,"['Comedy', 'Romance']",['GabrieleMuccino'],"['JonathanMostow', 'KevinMisher', 'GerardButler', 'AlanSiegel', 'HeidiJoMarkel', 'JohnThompson']","['Dec 7', '2012']",13.1M
+159,The Four,,,,,,,,
+160,The Grand Heist,,,,,,,,
+161,The Raven,22,46,R,['Mystery&thriller'],['JamesMcTeigue'],"['AaronRyder', 'MarkD.Evans', 'TrevorMacy']","['Apr 27', '2012']",16.0M
+162,Amour,93,82,PG-13,['Drama'],['MichaelHaneke'],"['MargaretMénégoz', 'StefanArndt', 'VeitHeideuschka', 'MichaelKatz']","['Dec 19', '2012']",3.7M
+163,All About My Wife,,65,,"['Comedy', 'Romance']",['MinKyu-dong'],,,
+164,Rowdy Rathore,50,55,,"['Comedy', 'Action']",['PrabhuDeva'],"['RonnieScrewvala', 'SanjayLeelaBhansali']","['Jun 1', '2012']",776.0K
+165,SPEC: Heaven,,,,,,,,
+166,We Were There: True Love,,,,,,,,
+167,Bol Bachchan,71,51,PG,"['Drama', 'Comedy', 'Action']",['RohitShetty'],"['AjayDevgan', 'DhillinMehta']","['Jul 6', '2012']",1.2M
+168,Deranged,,,,,,,,
+169,The Master,84,62,R,['Drama'],['PaulThomasAnderson'],"['JoAnneSellar', 'DanielLupi', 'PaulThomasAnderson', 'MeganEllison']","['Sep 14', '2012']",16.2M
+170,Hitchcock,60,60,PG-13,"['Drama', 'History', 'Biography']",['SachaGervasi'],"['IvanReitman', 'TomPollock', 'JoeMedjuck', 'TomThayer', 'AlanBarnette']","['Dec 14', '2012']",6.0M
+171,Dearest,,81,,"['Drama', 'Romance']",['JohnLerchen'],"['EmanuelAG', 'CraigTaylorBrown', 'JohnLerchen', 'HollyMyers', 'KaylaRosenberg']",,
+172,Architecture 101,,,,,,,,
+173,Dancing Queen,,59,,"['Comedy', 'Romance']",['LeeSeok-hoon'],['YoonJe-kyoon'],"['Feb 3', '2012']",
+174,Lesson of the Evil,,58,,['Mystery&thriller'],['TakashiMiike'],"['KôjiAzuma', 'TôruMori', 'MisakoSaka']",,
+175,Agneepath,92,62,,['Action'],['KaranMalhotra'],['KaranJohar'],,2.0M
+176,Rust and Bone,,,,,,,,
+177,Head Over Heels 2,,,,,,,,
+178,On the Other Side of the Tracks,,30,R,"['Drama', 'Comedy', 'Action', 'Crime']",['DavidCharhon'],"['ÉricAltmayer', 'NicolasAltmayer']","['Apr 4', '2014']",5.9K
+179,Herutâ sukerutâ,,37,,"['Drama', 'Fantasy']",['MikaNinagawa'],"['MorioAmagi', 'MitsuruUda']",,
+180,The Last Tycoon,,61,,"['Drama', 'Action', 'Adventure']",['JingWong'],['AndrewLauWai-Keung'],,
+181,Housefull 2,,,,,,,,
+182,Big Miracle,75,64,PG,"['Drama', 'Adventure']",['KenKwapis'],"['SteveGolin', 'MichaelSugar', 'TimBevan', 'EricFellner']","['Feb 3', '2012']",20.1M
+183,Sparkle,56,44,PG-13,"['Drama', 'Musical']",['SalimAkil'],"['DebraMartinChase', 'ThomasDexterJakesSr.', 'CurtisWallace', 'SalimAkil', 'MaraBrockAkil']","['Aug 17', '2012']",24.4M
+184,The Players,30,27,R,['Comedy'],"['EmmanuelleBercot', 'FredCavayé', 'AlexandreCourtes', 'JeanDujardin', 'MichelHazanavicius', 'ÉricLartigau', 'GillesLellouche']","['JeanDujardin', 'MarcDujardin', 'ÉricHannezo', 'GuillaumeLacroix']","['Apr 4', '2014']",6.7K
+185,Liar Game: Reborn,,,,,,,,
+186,I Want You,,33,,['Drama'],['MarkRobson'],['SamuelGoldwyn'],"['Dec 23', '1951']",
+187,Türkisch für Anfänger,,,,,,,,
+188,Wanderlust,,,,['Documentary'],"['MaríaPérezEscalá', 'AnneVonPetersdorff']",['JulianaSchwindt'],,
+189,"Little Brother, Big Trouble: A Christmas Adventure",,49,G,"['Other', 'Kids&family', 'Animation', 'Adventure']","['KariJuusonen', 'JørgenLerdam']","['EmelyChristians', 'RalphChristians', 'AnttiHaikala', 'BernhardzuCastell']",,
+190,To the Arctic 3D,,,,,,,,
+191,Hotaru the Movie: It's Only a Little Light in My Life,,,,,,,,
+192,Kon-Tiki,,77,,['Documentary'],['ThorHeyerdahl'],,"['Apr 3', '1951']",
+193,Fall in Love Like a Star,,,,['Romance'],['TonyChan'],,"['Dec 4', '2015']",190.5K
+194,Upside Down,28,42,PG-13,"['Fantasy', 'Romance', 'Sci-fi']",['JuanSolanas'],"['AtonSoumache', 'AlexisVonarb', 'DimitriRassam', 'ClaudeLéger', 'JonathanVanger']","['Mar 15', '2013']",102.1K
+195,Unbowed,,40,,"['Drama', 'History']",['NanciRossov'],"['LisaKaradjian', 'NanciRossov']",,
+196,Confession of Murder,,,,"['Biography', 'Crime', 'Drama']",['VincentLePort'],"['RoyArida', 'ThierryLounas', 'Pierre-EmmanuelUrcun']",,
+197,StreetDance 2 2012 Re-release,,,,,,,,
+198,2012 2012 Re-release,,,,,,,,
+199,Beasts of the Southern Wild,86,76,PG-13,"['Drama', 'Fantasy', 'Adventure']",['BenhZeitlin'],"['MichaelGottwald', 'DanJanvey', 'JoshPenn']","['Jun 27', '2012']",12.8M

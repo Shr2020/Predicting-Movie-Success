@@ -1,0 +1,201 @@
+,Release Group,Score_Rotten,Score_Audience,Rating,Genre,Director,Producer,Release Date (Theaters),Box Office (Gross USA)
+0,Avengers: Endgame,94,90,PG-13,"['Fantasy', 'Sci-fi', 'Action', 'Adventure']","['AnthonyRusso', 'JoeRusso']",['KevinFeige'],"['Apr 26', '2019']",858.4M
+1,The Lion King,52,88,PG,"['Kids&family', 'Adventure']",['JonFavreau'],"['JonFavreau', 'JeffreySilver', 'KarenGilchrist']","['Jul 19', '2019']",543.6M
+2,Frozen II,77,92,PG,"['Musical', 'Adventure', 'Kids&family', 'Comedy', 'Animation']","['ChrisBuck', 'JenniferLee']",['PeterDelVecho'],"['Nov 22', '2019']",477.4M
+3,Spider-Man: Far from Home,90,95,PG-13,"['Fantasy', 'Comedy', 'Action', 'Adventure']",['JonWatts'],"['KevinFeige', 'AmyPascal']","['Jul 2', '2019']",390.7M
+4,Captain Marvel,79,45,PG-13,"['Fantasy', 'Sci-fi', 'Action', 'Adventure']","['AnnaBoden', 'RyanFleck']",['KevinFeige'],"['Mar 8', '2019']",426.8M
+5,Joker,68,88,R,"['Drama', 'Crime']",['ToddPhillips'],"['ToddPhillips', 'BradleyCooper', 'EmmaTillingerKoskoff']","['Oct 4', '2019']",335.4M
+6,Star Wars: Episode IX - The Rise of Skywalker,,,,,,,,
+7,Toy Story 4,97,94,G,"['Fantasy', 'Adventure', 'Kids&family', 'Comedy', 'Animation']",['JoshCooley'],"['MarkNielsen', 'JonasRivera', 'GalynSusman']","['Jun 21', '2019']",434.0M
+8,Aladdin,57,94,PG,"['Fantasy', 'Musical', 'Adventure', 'Kids&family', 'Comedy', 'Romance']",['GuyRitchie'],"['DanLin', 'JonathanEirich']","['May 24', '2019']",355.6M
+9,Jumanji: The Next Level,71,87,PG-13,"['Fantasy', 'Comedy', 'Action', 'Adventure']",['JakeKasdan'],"['DanyGarcia', 'HiramGarcia', 'DwayneJohnson', 'JakeKasdan', 'MatthewTolmach']","['Dec 13', '2019']",316.8M
+10,Fast & Furious Presents: Hobbs & Shaw,67,88,PG-13,"['Comedy', 'Action', 'Adventure']",['DavidLeitch'],"['DwayneJohnson', 'JasonStatham', 'ChrisMorgan', 'HiramGarcia']","['Aug 2', '2019']",173.8M
+11,Ne Zha,88,98,,"['Animation', 'Fantasy', 'Adventure']",['YuYang'],,"['Sep 6', '2019']",3.7M
+12,The Wandering Earth,69,48,,['Sci-fi'],['FrantGwo'],['GongGeer'],"['Feb 8', '2019']",2.2M
+13,How to Train Your Dragon: The Hidden World,90,86,PG,"['Kids&family', 'Adventure', 'Fantasy', 'Comedy', 'Animation']",['DeanDeBlois'],"['BradLewis', 'BonnieArnold']","['Feb 22', '2019']",160.8M
+14,Maleficent: Mistress of Evil,39,95,PG,"['Fantasy', 'Adventure']",['JoachimRønning'],"['JoeRoth', 'AngelinaJolie', 'DuncanHenderson']","['Oct 18', '2019']",113.9M
+15,It Chapter Two,62,78,R,"['Horror', 'Mystery&thriller']",['AndyMuschietti'],"['DanLin', 'RoyLee', 'BarbaraMuschietti']","['Sep 6', '2019']",211.6M
+16,"My People, My Country",,68,,['Drama'],"['ChenKaige', 'HuGuan']",['JianxinHuang'],,2.4M
+17,Pokémon Detective Pikachu,68,79,PG,"['Adventure', 'Comedy', 'Kids&family', 'Mystery&thriller']",['RobLetterman'],"['MaryParent', 'CaleBoyter', 'HidenagaKatakami', 'DonMcGowan']","['May 10', '2019']",144.1M
+18,The Secret Life of Pets 2,60,90,PG,"['Kids&family', 'Animation', 'Comedy', 'Adventure']",['ChrisRenaud'],"['ChristopherMeledandri', 'JanetHealy']","['Jun 7', '2019']",158.2M
+19,The Captain,,,,,,,,
+20,Alita: Battle Angel,61,92,PG-13,"['Sci-fi', 'Adventure', 'Fantasy', 'Animation', 'Action']",['RobertRodriguez'],"['JamesCameron', 'JonLandau']","['Feb 14', '2019']",85.8M
+21,Godzilla: King of the Monsters,42,83,PG-13,"['Action', 'Sci-fi', 'Adventure']",['MichaelDougherty'],"['MaryParent', 'AlexGarcia', 'ThomasTull', 'JonJashni', 'BrianRogers']","['May 31', '2019']",110.5M
+22,1917,88,88,R,"['War', 'History', 'Drama']",['SamMendes'],"['SamMendes', 'PippaHarris', 'Jayne-AnnTenggren', 'CallumMcDougall', 'BrianOliver']","['Jan 10', '2020']",159.2M
+23,Once Upon a Time... In Hollywood,85,70,R,"['Drama', 'Comedy']",['QuentinTarantino'],"['DavidHeyman', 'ShannonMcIntosh', 'QuentinTarantino']","['Jul 26', '2019']",142.4M
+24,Shazam!,90,82,PG-13,"['Fantasy', 'Comedy', 'Action', 'Adventure']",['DavidF.Sandberg'],['PeterSafran'],"['Apr 5', '2019']",140.4M
+25,Dumbo,46,48,PG,"['Drama', 'Kids&family', 'Fantasy']",['TimBurton'],"['JustinSpringer', 'EhrenKruger', 'KatterliFrauenfelder', 'DerekFrey']","['Mar 29', '2019']",114.8M
+26,Crazy Alien,,50,,,['UnknownDirector'],,,
+27,John Wick: Chapter 3 - Parabellum,89,86,R,"['Mystery&thriller', 'Action']",['ChadStahelski'],"['BasilIwanyk', 'EricaLee']","['May 17', '2019']",171.0M
+28,Knives Out,97,92,PG-13,"['Mystery&thriller', 'Crime', 'Comedy', 'Drama']",['RianJohnson'],"['RianJohnson', 'RamBergman', 'JonathanGolfman', 'BryeAdler']","['Nov 27', '2019']",165.4M
+29,Terminator: Dark Fate,70,82,R,"['Action', 'Sci-fi']",['TimMiller'],"['JamesCameron', 'DavidEllison']","['Nov 1', '2019']",62.2M
+30,Parasite,,0,R,['Horror'],['AndrewPrendergast'],"['ChrisKingsley', 'JasonKingsley']",,
+31,Pegasus,,,,,,,,
+32,Us,,,,,,,,
+33,Men in Black: International,23,66,PG-13,"['Comedy', 'Action', 'Sci-fi', 'Adventure']",['F.GaryGray'],"['WalterF.Parkes', 'LaurieMacDonald']","['Jun 14', '2019']",80.0M
+34,X-Men: Dark Phoenix,,,,,,,,
+35,Glass,36,67,PG-13,"['Drama', 'Mystery&thriller']",['M.NightShyamalan'],"['JasonBlum', 'M.NightShyamalan', 'AshwinRajan', 'MarcBienstock']","['Jan 18', '2019']",111.0M
+36,The Bravest,,,,"['Action', 'Drama']",['TonyChan'],"['AndrewLauWai-Keung', 'PeggyLeeKam-Man']","['Aug 9', '2019']",278.1K
+37,Annabelle Comes Home,64,70,R,"['Horror', 'Mystery&thriller']",['GaryDauberman'],"['PeterSafran', 'JamesWan']","['Jun 26', '2019']",74.1M
+38,Better Days,97,97,,['Drama'],['DerekTsang'],['Yuet-JanHui'],"['Nov 8', '2019']",1.9M
+39,Ford v Ferrari,92,98,PG-13,"['Drama', 'History', 'Biography']",['JamesMangold'],"['PeterChernin', 'JennoTopping', 'JamesMangold']","['Nov 15', '2019']",117.6M
+40,Little Women,95,92,PG,['Drama'],['GretaGerwig'],"['DeniseDiNovi', 'AmyPascal', 'RobinSwicord']","['Dec 25', '2019']",108.1M
+41,The Addams Family,45,69,PG,"['Kids&family', 'Animation', 'Comedy']","['ConradVernon', 'GregTiernan']","['GailBerman', 'ConradVernon', 'AlexSchwartz', ""AlisonO'Brien""]","['Oct 11', '2019']",673.0K
+42,Rocketman,89,88,R,"['Biography', 'Drama', 'Musical', 'Lgbtq+']",['DexterFletcher'],"['MatthewVaughn', 'DavidFurnish', 'AdamBohling', 'DavidReid']","['May 31', '2019']",96.3M
+43,Weathering with You,92,96,PG-13,"['Drama', 'Fantasy', 'Anime']",['MakotoShinkai'],"['GenkiKawamura', '', 'KôichirôItô', 'NoritakaKawaguchi']","['Jan 15', '2020']",7.8M
+44,Downton Abbey,84,94,PG,['Drama'],['MichaelEngler'],"['GarethNeame', 'JulianFellowes', 'LizTrubridge']","['Sep 20', '2019']",96.8M
+45,The Lego Movie 2: The Second Part,84,68,PG,"['Adventure', 'Kids&family', 'Comedy', 'Animation', 'Action']",['MikeMitchell'],"['DanLin', 'PhilLord', 'ChrisMiller', 'RoyLee', 'JinkoGotoh']","['Feb 8', '2019']",105.8M
+46,Sheep Without a Shepherd,100,,,"['Mystery&thriller', 'Drama', 'Crime']",['SamQuah'],['EricZhaoweiZhang'],"['Dec 19', '2019']",
+47,The White Storm 2: Drug Lords,57,61,,['Action'],['HermanYau'],['AndyLau'],,
+48,Abominable,,12,,"['Horror', 'Mystery&thriller']",['JamaalBurden'],['JustinPrice'],,
+49,Ip Man 4: The Finale,85,95,,"['Sports&fitness', 'Action']",['WilsonYip'],"['DonnieYen', 'WilsonYip', 'RaymondPak-MingWong']","['Dec 25', '2019']",4.0M
+50,Gemini Man,26,83,PG-13,"['Fantasy', 'Sci-fi', 'Action', 'Mystery&thriller']",['AngLee'],"['JerryBruckheimer', 'DavidEllison', 'DanaGoldberg', 'DonGranger']","['Oct 11', '2019']",48.5M
+51,Spies in Disguise,77,92,PG,"['Adventure', 'Kids&family', 'Comedy', 'Animation', 'Action']","['TroyQuane', 'NickBruno']","['PeterChernin', 'JennoTopping', 'MichaelJ.Travers']","['Dec 25', '2019']",66.7M
+52,Hustlers,87,65,R,"['Drama', 'Comedy']",['LoreneScafaria'],"['JessicaElbaum', 'ElaineGoldsmith-Thomas', 'JenniferLopez', 'BennyMedina', 'WillFerrell', 'AdamMcKay']","['Sep 13', '2019']",105.0M
+53,The Climbers,33,80,,"['Drama', 'Adventure']",['DanielLee'],['Zhong-lunRen'],"['Oct 4', '2019']",482.4K
+54,Escape Room,51,51,PG-13,"['Horror', 'Mystery&thriller']",['AdamRobitel'],"['NealH.Moritz', 'OriMarmur']","['Jan 4', '2019']",57.0M
+55,Yesterday,64,89,PG-13,"['Comedy', 'Romance', 'Music']",['DannyBoyle'],"['TimBevan', 'EricFellner', 'BernardBellew', 'MatthewJamesWilkinson', 'RichardCurtis', 'DannyBoyle']","['Jun 28', '2019']",73.2M
+56,The Angry Birds Movie 2,73,84,PG,"['Kids&family', 'Animation', 'Comedy', 'Adventure']",['ThuropVanOrman'],['JohnCohen'],"['Aug 13', '2019']",41.7M
+57,Angel Has Fallen,39,93,R,"['Action', 'Mystery&thriller']",['RicRomanWaugh'],"['GerardButler', 'AlanSiegel', ""MatthewO'Toole"", 'JohnThompson', 'LesWeldon', 'YarivLerner']","['Aug 23', '2019']",69.0M
+58,Ad Astra,83,40,PG-13,"['Mystery&thriller', 'Sci-fi', 'Adventure']",['JamesGray'],"['AnthonyKatagas', 'RodrigoTeixeira', 'ArnonMilchan', 'JamesGray', 'JeremyKleiner', 'DedeGardner', 'BradPitt']","['Sep 20', '2019']",50.2M
+59,Midway,42,92,PG-13,"['Drama', 'History', 'War']",['RolandEmmerich'],"['RolandEmmerich', 'HaraldKloser', 'DongYu']","['Nov 8', '2019']",56.8M
+60,The Upside,43,82,PG-13,"['Drama', 'Comedy']",['NeilBurger'],"['ToddBlack', 'JasonBlumenthal', 'SteveTisch']","['Jan 11', '2019']",108.2M
+61,The Curse of La Llorona,28,35,R,"['Horror', 'Mystery&thriller']",['MichaelChaves'],"['JamesWan', 'GaryDauberman', 'EmileGladstone']","['Apr 19', '2019']",54.7M
+62,Looking Up,,,,['Drama'],['ChaoDeng'],['LengYi'],"['Jul 19', '2019']",
+63,Zombieland: Double Tap,68,88,R,"['Horror', 'Comedy', 'Action']",['RubenFleischer'],['GavinPolone'],"['Oct 18', '2019']",73.1M
+64,Last Christmas,47,81,PG-13,"['Other', 'Romance', 'Comedy']",['PaulFeig'],"['ErikBaiers', 'JessieHenderson', 'DavidLivingstone', 'EmmaThompson']","['Nov 8', '2019']",35.1M
+65,Extreme Job,82,82,,['Comedy'],['LeeByeong-heon'],,"['Jan 25', '2019']",1.6M
+66,Dora and the Lost City of Gold,85,88,PG,"['Mystery&thriller', 'Kids&family', 'Comedy', 'Adventure']",['JamesBobin'],['KristinBurr'],"['Aug 9', '2019']",60.5M
+67,Wonder Park,34,43,PG,"['Fantasy', 'Adventure', 'Kids&family', 'Comedy', 'Animation']",['DylanC.Brown'],"['JoshAppelbaum', 'AndreNemec', 'KendraHaaland']","['Mar 15', '2019']",45.2M
+68,P Storm,,,,['Action'],['DavidLam'],"['RaymondBak-MingWong', 'RenpengZhao']",,
+69,Detective Conan: The Fist of Blue Sapphire,,,,,,,,
+70,The Gentlemen,,,,,,,,
+71,Pet Sematary,57,33,R,"['Horror', 'Mystery&thriller']","['KevinKolsch', 'DennisWidmyer']","['LorenzodiBonaventura', 'StevenSchneider', 'MarkVahradian']","['Apr 5', '2019']",54.7M
+72,Boonie Bears: Blast Into the Past,,,,,,,,
+73,Good Boys,80,86,R,['Comedy'],['GeneStupnitsky'],"['LeeEisenberg', 'EvanGoldberg', 'SethRogen', 'JamesWeaver']","['Aug 16', '2019']",83.1M
+74,Scary Stories to Tell in the Dark,77,72,PG-13,"['Horror', 'Mystery&thriller']",['AndréØvredal'],"['GuillermodelToro', 'SeanDaniel', 'JasonF.Brown', 'J.MilesDale', 'ElizabethGrave']","['Aug 9', '2019']",68.7M
+75,Line Walker 2: Invisible Spy,86,73,,['Action'],['JazzBoon'],,"['Aug 16', '2019']",293.7K
+76,The New King of Comedy,,60,,"['Drama', 'Comedy']",['StephenChow'],,,
+77,The Hustle,13,43,PG-13,['Comedy'],['ChrisAddison'],"['RogerBirnbaum', 'RebelWilson']","['May 10', '2019']",35.4M
+78,Adoring,,,,['Comedy'],['LarryYang'],['VictoriaHon'],,
+79,Crawl,84,75,R,"['Horror', 'Mystery&thriller']",['AlexandreAja'],"['CraigJ.Flores', 'SamRaimi', 'AlexandreAja']","['Jul 12', '2019']",39.0M
+80,Five Feet Apart,53,79,PG-13,"['Drama', 'Romance']",['JustinBaldoni'],"['CathySchulman', 'JustinBaldoni']","['Mar 15', '2019']",45.7M
+81,Rambo: Last Blood,27,81,R,['Action'],['AdrianGrunberg'],"['AviLerner', 'KevinKingTempleton', 'YarivLerner', 'LesWeldon']","['Sep 20', '2019']",44.8M
+82,Jojo Rabbit,80,94,PG-13,"['Drama', 'Comedy']",['TaikaWaititi'],"['CarthewNeal', 'TaikaWaititi', 'ChelseaWinstanley']","['Nov 8', '2019']",33.4M
+83,Serial (Bad) Weddings 2,,67,,"['Drama', 'Comedy']",['PhilippedeChauveron'],['RomainRojtman'],,
+84,One Piece: Stampede,94,99,,"['Fantasy', 'Anime', 'Adventure']",['TakashiOtsuka'],,,
+85,A Dog's Way Home,59,70,PG,"['Drama', 'Kids&family', 'Adventure']",['CharlesMartinSmith'],['GavinPolone'],"['Jan 11', '2019']",42.0M
+86,Cold Pursuit,68,49,R,"['Action', 'Mystery&thriller']",['HansPetterMoland'],"['MichaelShamberg', 'AmeetShukla', 'SteinB.Kvae', 'FinnGjerdrum']","['Feb 8', '2019']",32.1M
+87,A Dog's Journey,51,91,PG,"['Adventure', 'Comedy', 'Fantasy', 'Kids&family', 'Drama']",['GailMancuso'],['GavinPolone'],"['May 17', '2019']",22.5M
+88,A Madea Family Funeral,11,30,PG-13,['Comedy'],['TylerPerry'],"['TylerPerry', 'MarkE.Swinton', 'WillAreu', 'OzzieAreu']","['Mar 1', '2019']",73.2M
+89,Cats,,,,,,,,
+90,Charlie's Angels,52,78,PG-13,"['Comedy', 'Action', 'Adventure']",['ElizabethBanks'],"['DougBelgrad', 'ElizabethCantillon', 'ElizabethBanks', 'MaxHandelman']","['Nov 15', '2019']",17.8M
+91,Doctor Sleep,78,89,R,"['Horror', 'Mystery&thriller']",['MikeFlanagan'],"['TrevorMacy', 'JonBerg']","['Nov 8', '2019']",31.6M
+92,What Men Want,42,33,R,"['Comedy', 'Fantasy', 'Romance']",['AdamShankman'],"['WillPacker', 'JamesLopez']","['Feb 8', '2019']",54.6M
+93,After,88,67,PG,"['Drama', 'Sci-fi']",['Kogonada'],"['AndrewGoldman', 'CarolineKaplan', 'PaulMezey', 'TheresaPark']","['Mar 4', '2022']",
+94,Exit,,46,,['Mystery&thriller'],['PeterLindmark'],"['SteveAalam', 'ThomasAllercrantz', 'DanielCollert', 'StenJohansson', 'PeterLindmark']",,
+95,Playing with Fire,24,77,PG,['Comedy'],['AndyFickman'],"['ToddGarner', 'SeanRobins']","['Nov 8', '2019']",20.5M
+96,A Beautiful Day in the Neighborhood,95,92,PG,"['Drama', 'Biography']",['MarielleHeller'],"['YoureeHenley', 'PeterSaraf', 'MarcTurtletaub', 'LeahHolzer']","['Nov 22', '2019']",61.7M
+97,War,,,,"['Action', 'Mystery&thriller']",['AmarHundal'],['GippyGrewal'],"['Nov 19', '2021']",
+98,Eiga Doraemon: Nobita no getsumen tansaki,,,,,,,,
+99,Happy Death Day 2U,71,58,PG-13,"['Horror', 'Comedy', 'Mystery&thriller']",['ChristopherLandon'],['JasonBlum'],"['Feb 13', '2019']",28.0M
+100,White Snake,70,84,,"['Romance', 'Fantasy', 'Animation']",['AmpWong'],"['StephanieSheh', 'MichaelSinterniklaas']","['Nov 15', '2019']",33.9K
+101,Bombshell,67,84,R,['Drama'],['JayRoach'],"['AaronL.Gilbert', 'JayRoach', 'RobertGraf', 'MichelleGraham', 'CharlesRandolph', 'MargaretRiley', 'CharlizeTheron', 'BethKono', 'A.J.Dix']","['Dec 20', '2019']",31.7M
+102,Ashfall,73,74,,"['Drama', 'Action']","['KimByeong-seo', 'LeeHae-jun']","['KangMyeong-chan', 'LeeHae-jun']","['Dec 20', '2019']",233.0K
+103,Ma,57,,,['Documentary'],"['BenjaminBergmann', 'JonoBergmann']","['KarolMartesko', 'BenjaminBergmann', 'JonoBergmann']","['May 13', '2022']",
+104,My Best Summer,,,,,,,,
+105,Ready or Not,,,,['Documentary'],"['DavidModigliani', 'PalomaMartinez']",,,
+106,Jade Dynasty,,,,,,,,
+107,Das perfekte Geheimnis,,,,,,,,
+108,The Big Shot,,,,['Action'],['BaiWu'],,,
+109,Hellboy,18,48,R,"['Fantasy', 'Adventure', 'Action']",['NeilMarshall'],"['LawrenceGordon', 'LloydLevin', 'MikeRichardson', 'PhilipWestgren', 'CarlHampe', 'JohnThompson', ""MatthewO'Toole"", 'LesWeldon', 'YarivLerner']","['Apr 12', '2019']",21.9M
+110,Long Shot,81,74,R,"['Comedy', 'Romance']",['JonathanLevine'],"['CharlizeTheron', 'A.J.Dix', 'BethKono', 'EvanGoldberg', 'SethRogen', 'JamesWeaver']","['May 3', '2019']",30.3M
+111,Kingdom,51,76,R,"['Mystery&thriller', 'Action', 'Drama']",['PeterBerg'],"['MichaelMann', 'ScottStuber']","['Sep 28', '2007']",47.5M
+112,Breakthrough,63,79,PG,['Drama'],['RoxannDawson'],['DeVonFranklin'],"['Apr 17', '2019']",40.7M
+113,Just Mercy,85,99,PG-13,['Drama'],['DestinDanielCretton'],"['GilNetter', 'AsherGoldstein', 'MichaelB.Jordan']","['Jan 10', '2020']",36.0M
+114,Uncut Gems,92,52,R,"['Comedy', 'Mystery&thriller']","['BenSafdie', 'JoshuaSafdie']","['SebastianBear-McClard', 'OscarBoyson']","['Dec 25', '2019']",50.0M
+115,21 Bridges,54,91,R,"['Drama', 'Crime', 'Action', 'Mystery&thriller']",['BrianKirk'],"['AnthonyRusso', 'JoeRusso', 'MikeLarocca', 'RobertSimonds', 'GigiPritzker', 'ChadwickBoseman', 'LoganColes']","['Nov 22', '2019']",28.5M
+116,Song of Youth,,,,,,,,
+117,The Grudge,20,23,R,"['Horror', 'Mystery&thriller']",['NicolasPesce'],"['SamRaimi', 'RobTapert', 'TakashigeIchise']","['Jan 3', '2020']",21.2M
+118,Little,12,55,PG-13,['Comedy'],['KeenenIvoryWayans'],"['RickAlvarez', 'LeeR.Mayes', 'KeenenIvoryWayans', 'MarlonWayans', 'ShawnWayans', 'JoeRoth']","['Jul 14', '2006']",58.3M
+119,Isn't It Romantic,70,47,PG-13,"['Comedy', 'Fantasy', 'Romance']",['ToddStrauss-Schulson'],"['GinaMatthews', 'GrantScharbo', 'ToddGarner']","['Feb 13', '2019']",48.8M
+120,The Legend of Hei,,91,,"['Fantasy', 'Anime', 'Action']",['MTJJMutou'],"['FangbingCong', 'WenzhuoMa']",,
+121,Countdown,26,72,PG-13,"['Horror', 'Comedy', 'Mystery&thriller']",['JustinDec'],"['JohnRickard', 'ZackSchiller', 'JohnMorris', 'SeanAnders']","['Oct 25', '2019']",25.6M
+122,Midsommar,83,63,R,"['Horror', 'Mystery&thriller']",['AriAster'],"['PatrikAndersson', 'LarsKnudsen']","['Aug 30', '2019']",27.4M
+123,Queen & Slim,83,92,R,"['Drama', 'Romance', 'Crime']",['MelinaMatsoukas'],"['JamesFrey', 'LenaWaithe', 'MelinaMatsoukas', 'MichelleKnudsen', 'AndrewColes', 'BradWeston', 'PamelaAbdy']","['Nov 27', '2019']",43.8M
+124,47 Meters Down: Uncaged,45,68,PG-13,"['Adventure', 'Horror', 'Mystery&thriller']",['JohannesRoberts'],"['JamesHarris', 'MarkLane', 'RobertJones']","['Aug 16', '2019']",22.3M
+125,Chasing the Dragon II: Wild Wild Bunch,78,58,,"['Drama', 'Crime', 'Action', 'Mystery&thriller']","['JingWong', 'JasonKwanChi-Yiu']",['JingWong'],"['Jun 7', '2019']",194.6K
+126,Judy,82,85,PG-13,"['Drama', 'History', 'Biography', 'Music']",['RupertGoold'],['DavidLivingstone'],"['Sep 27', '2019']",24.3M
+127,Child's Play,64,57,R,"['Horror', 'Mystery&thriller']",['LarsKlevberg'],"['DavidKatzenberg', 'SethGrahame-Smith']","['Jun 21', '2019']",29.2M
+128,Richard Jewell,77,96,R,['Drama'],['ClintEastwood'],"['ClintEastwood', 'TimMoore', 'JessicaMeier', 'KevinMisher', 'LeonardoDiCaprio', 'JenniferDavissonKilloran', 'JonahHill']","['Dec 13', '2019']",22.3M
+129,Harriet,73,97,PG-13,"['Drama', 'History', 'Biography']",['KasiLemmons'],"['GregoryAllenHoward', 'DanielaTaplinLundberg', 'DebraMartinChase']","['Nov 1', '2019']",43.0M
+130,A Shaun the Sheep Movie: Farmageddon,96,80,G,"['Sci-fi', 'Adventure', 'Kids&family', 'Comedy', 'Animation']","['RichardPhelan', 'WillBecher']",['PaulKewley'],,
+131,Fighting with My Family,93,86,PG-13,"['Drama', 'Biography', 'Comedy']",['StephenMerchant'],"['KevinMisher', 'DwayneJohnson', 'DanyGarcia', 'StephenMerchant', 'MichaelJ.Luisi']","['Feb 22', '2019']",23.0M
+132,Masquerade Hotel,,,,,,,,
+133,The Last Wish,,,,['Drama'],['Yu-shengTian'],,"['Sep 20', '2019']",
+134,Uri: The Surgical Strike,,,,,,,,
+135,Overcomer,56,98,PG,['Drama'],['AlexKendrick'],"['AaronBurns', 'StephenKendrick', 'JustinTolley']","['Aug 23', '2019']",34.7M
+136,Pain and Glory,96,91,R,['Drama'],['PedroAlmodóvar'],"['AgustínAlmodóvar', 'EstherGarcía']","['Oct 4', '2019']",4.6M
+137,A Witness Out of the Blue,,,,,,,,
+138,The Intruder,33,68,PG-13,"['Drama', 'Mystery&thriller']",['DeonTaylor'],"['RoxanneAvent', 'DeonTaylor', 'MarkBurg', 'JonathanSchwartz', 'BradKaplan']","['May 3', '2019']",35.4M
+139,The Queen's Corgi,0,34,PG,"['Kids&family', 'Animation', 'Comedy']","['VincentKesteloot', 'BenStassen']",,,
+140,Warrior of the Hornor,,,,,,,,
+141,The Battle: Roar to Victory,,100,,"['Drama', 'War']",['WonSinyeon'],['KimTae-won'],"['Aug 16', '2019']",
+142,The Bad Guys: The Movie,,,,,,,,
+143,The Good Liar,63,85,R,"['Drama', 'Crime', 'Mystery&thriller']",['BillCondon'],"['GregYolen', 'BillCondon']","['Nov 15', '2019']",17.1M
+144,The Art of Racing in the Rain,44,96,PG,"['Drama', 'Comedy']",['SimonCurtis'],"['NealH.Moritz', 'PatrickDempsey', 'TaniaLandau']","['Aug 9', '2019']",26.4M
+145,Bharat,32,51,,"['Drama', 'Action']",['AliAbbasZafar'],"['AtulAgnihotri', 'AlviraKhan', 'KrishanKumar']","['Jun 5', '2019']",2.9M
+146,Brightburn,57,67,R,"['Horror', 'Sci-fi', 'Mystery&thriller']",['DavidYarovesky'],"['JamesGunn', 'KennethHuang']","['May 24', '2019']",17.3M
+147,Fly Me to the Saitama,,,,"['Drama', 'Comedy']",['HidekiTakeuchi'],,,
+148,UglyDolls,28,54,PG,"['Musical', 'Adventure', 'Kids&family', 'Comedy', 'Animation']",['KellyAsbury'],"['JaneHartwell', 'RobertRodriguez']","['May 3', '2019']",20.1M
+149,Stuber,42,79,R,"['Comedy', 'Action']",['MichaelDowse'],"['JonathanM.Goldstein', 'JohnFrancisDaley']","['Jul 12', '2019']",22.4M
+150,Hit Me Anyone One More Time!,,,,"['Drama', 'Comedy']",['KokiMitani'],,,
+151,Somewhere Winter,,,,"['Drama', 'Romance']",['Wei-MingWang'],,,
+152,The Kid Who Would Be King,90,55,PG,"['Kids&family', 'Fantasy', 'Adventure']",['JoeCornish'],"['NiraPark', 'TimBevan', 'EricFellner']","['Jan 25', '2019']",16.8M
+153,Two Tigers,,,,['Comedy'],['FeiLi'],,,
+154,Anna,10,60,PG-13,['Drama'],['JustinLin'],"['DamienSaccani', 'MarkVahradian']","['Jan 27', '2006']",17.1M
+155,My Dear Liar,,,,['Drama'],['AoShen'],,"['Nov 8', '2019']",90.5K
+156,The Wild Goose Lake,,,,,,,,
+157,My Hero Academia: Heroes Rising,90,98,PG-13,"['Anime', 'Action', 'Adventure']",['KenjiNagasaki'],,"['Feb 26', '2020']",13.3M
+158,Fall In Love At First Kiss,,,,['Romance'],['FrankieChen'],,,
+159,Gully Boy,96,81,,"['Drama', 'Music']",['ZoyaAkhtar'],"['FarhanAkhtar', 'ZoyaAkhtar', 'RiteshSidhwani']",,5.3M
+160,Kim Ji-young: Born 1982,,,,,,,,
+161,Pokémon: Mewtwo Strikes Back - Evolution,44,44,,"['Kids&family', 'Anime', 'Action', 'Adventure']",['KunihikoYuyama'],,,
+162,Almost a Comedy,,,,,,,,
+163,Total Dhamaal,30,40,,"['Comedy', 'Adventure']",['IndraKumar'],"['AshokThakeria', 'IndraKumar', 'AnandPandit']","['Feb 22', '2019']",2.2M
+164,Missing Link,88,67,PG,"['Adventure', 'Kids&family', 'Comedy', 'Animation']",['ChrisButler'],"['ArianneSutner', 'TravisKnight']","['Apr 12', '2019']",16.6M
+165,No Manches Frida 2,13,27,R,['Comedy'],['NachoG.Velilla'],"['EdwardAllen', 'MarthaHigareda', 'MauricioArgüelles', 'NachoG.Velilla']","['Mar 15', '2019']",9.3M
+166,The Confidence Man JP,,,,,,,,
+167,The Confidence Man JP: The Movie,,,,,,,,
+168,"The Gangster, the Cop, the Devil",97,94,,"['Drama', 'Crime', 'Action', 'Mystery&thriller']",['Won-TaeLee'],"['JangWon-seok', 'BradenAftergood', 'MaDong-seok']","['Jun 7', '2019']",216.5K
+169,Bodies at Rest,83,,,"['Drama', 'Mystery&thriller', 'Action', 'Crime']",['RennyHarlin'],['KimFungCheng'],,
+170,Booksmart,96,77,R,"['Lgbtq+', 'Comedy']",['OliviaWilde'],"['MeganEllison', 'JessicaElbaum', 'KatieSilberman', 'ChelseaBarnard', 'DavidDistenfeld']","['May 24', '2019']",22.7M
+171,Super 30,31,92,,"['Drama', 'Biography']",['VikasBahl'],['SajidNadiadwala'],"['Jul 12', '2019']",2.3M
+172,Son of a Rich,,,,,,,,
+173,Skyfire,52,,,"['Action', 'Mystery&thriller']",['SimonWest'],"['ChrisBremble', 'JenniferDong', 'JibPolhemus', 'EmmaShanWang']","['Feb 12', '2021']",
+174,Start-Up,,,,,,,,
+175,Pinocchio,,,PG-13,"['Fantasy', 'Animation', 'Musical']","['GuillermodelToro', 'MarkGustafson']","['GuillermodelToro', 'LisaHenson', 'CoreyCampodonico', 'GaryUngar']",,
+176,A Rainy Day in New York,47,54,PG-13,['Comedy'],['WoodyAllen'],"['ErikaAronson', 'LettyAronson']","['Oct 9', '2020']",
+177,The Peanut Butter Falcon,95,96,PG-13,"['Drama', 'Comedy', 'Adventure']","['TylerNilson', 'MichaelSchwartz']","['TimZajaros', 'ChristopherLemole', 'AlbertBerger', 'RonYerxa']","['Aug 23', '2019']",20.5M
+178,Little White Lies 2,,,,,,,,
+179,Ossan's Love: Love or Dead,,,,,,,,
+180,Only Cloud Knows,75,78,,"['Drama', 'Romance']",['FengXiao-Gang'],,"['Dec 20', '2019']",
+181,Dark Waters,89,95,PG-13,"['Drama', 'Mystery&thriller']",['ToddHaynes'],"['MarkRuffalo', 'ChristineVachon', 'PamelaKoffler']","['Dec 6', '2019']",11.1M
+182,The Farewell,97,87,PG,"['Drama', 'Comedy']",['LuluWang'],"['ChrisWeitz', 'AndrewMiano', 'PeterSaraf', 'MarcTurtletaub', 'AnitaGou', 'DanieleTateMelia', 'JaneZheng', 'DaniMelia']","['Aug 2', '2019']",17.7M
+183,The Knight of Shadows: Between Yin and Yang,,,,,['VashYanJia'],,,
+184,Black and Blue,52,93,R,"['Crime', 'Action', 'Drama', 'Mystery&thriller']",['DeonTaylor'],['SeanSorensen'],"['Oct 25', '2019']",22.0M
+185,Late Night,80,77,R,"['Comedy', 'Drama']",['NishaGanatra'],"['MindyKaling', 'HowardKlein', 'BenBrowning', 'JillianApfelbaum']","['Jun 14', '2019']",15.5M
+186,Les Misérables,70,79,PG-13,"['Drama', 'History', 'Musical']",['TomHooper'],"['TimBevan', 'EricFellner', 'DebraHayward', 'CameronMackintosh']","['Dec 25', '2012']",148.8M
+187,Crazy Romance,,,,,,,,
+188,Shaft,34,94,R,"['Comedy', 'Action']",['TimStory'],['JohnDavis'],"['Jun 14', '2019']",21.4M
+189,Unplanned,42,94,R,"['Drama', 'Biography']","['CarySolomon', 'ChuckKonzelman']","['ChrisJones', 'JoeKnopp', 'DarylC.Lefever', 'DarylLefever', 'CarySolomon', 'ChuckKonzelman']","['Mar 29', '2019']",19.0M
+190,Hotel Mumbai,76,86,R,"['Mystery&thriller', 'Drama']",['AnthonyMaras'],"['BasilIwanyk', 'GaryHamilton', 'MikeGabrawy', 'JulieRyan', 'AndrewOgilvie', 'JomonThomas']","['Mar 29', '2019']",9.6M
+191,Integrity,,,,,,,,
+192,The Secret Mission,,0,,['Mystery&thriller'],['HaroldFrench'],,,
+193,This Is Tomas,,,,,,,,
+194,The Specials,47,55,R,['Comedy'],['CraigMazin'],"['MarkA.Altman', 'DanBates', 'RickMischel']","['Sep 18', '2000']",13.0K
+195,Always Miss You,,,,['Romance'],['Hung-iChen'],,"['May 3', '2019']",87.1K
+196,An Officer and a Spy,76,83,,"['Drama', 'History']",['RomanPolanski'],['AlainGoldman'],,
+197,Crayon Shin-chan: Honeymoon Hurricane - The Lost Hiroshi,,,,"['Action', 'Adventure', 'Animation', 'Anime']",['MasakazuHashimoto'],,,
+198,Greta,100,,,['Drama'],['ArmandoPraça'],"['NaraAragao', 'MaurícioMacêdo', 'ArmandoPraça']",,
+199,Peppa Celebrates Chinese New Year,,,G,"['Kids&family', 'Animation', 'Comedy', 'Adventure']","['DapengZhang', 'MarkBaker', 'NevilleAstley', 'JorisvanHulzen', 'SarahRoper']",,"['Feb 5', '2019']",114.1K

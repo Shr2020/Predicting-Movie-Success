@@ -1,0 +1,201 @@
+,Release Group,Score_Rotten,Score_Audience,Rating,Genre,Director,Producer,Release Date (Theaters),Box Office (Gross USA)
+0,Frozen,90,85,PG,"['Fantasy', 'Musical', 'Adventure', 'Kids&family', 'Comedy', 'Animation']","['ChrisBuck', 'JenniferLee']","['MikeHuang', 'PeterDelVecho', 'KristinYadamec', 'AngelaFrancesDanna', 'DaraMcgarry', 'KellyEisert', 'JamesEHasman', 'NathanCurtis', 'JulieBaner', 'SheriPatterson']","['Nov 27', '2013']",401.0M
+1,Iron Man 3,79,78,PG-13,"['Sci-fi', 'Fantasy', 'Adventure', 'Action']",['ShaneBlack'],['KevinFeige'],"['May 3', '2013']",409.0M
+2,Despicable Me 2,75,85,PG,"['Kids&family', 'Animation', 'Comedy', 'Adventure']","['ChrisRenaud', 'PierreCoffin']","['ChristopherMeledandri', 'JanetHealy']","['Jul 3', '2013']",368.0M
+3,The Hobbit: The Desolation of Smaug,74,85,PG-13,"['Fantasy', 'Adventure']",['PeterJackson'],"['CarolynneCunningham', 'ZaneWeiner', 'FranWalsh', 'PeterJackson']","['Dec 13', '2013']",258.4M
+4,The Hunger Games: Catching Fire,90,89,PG-13,"['Action', 'Sci-fi', 'Adventure']",['FrancisLawrence'],"['JonKilik', 'NinaJacobson']","['Nov 22', '2013']",
+5,Fast & Furious 6,71,84,PG-13,['Action'],['JustinLin'],"['NealH.Moritz', 'VinDiesel', 'ClaytonTownsend']","['May 24', '2013']",238.7M
+6,Monsters University,80,81,G,"['Adventure', 'Comedy', 'Fantasy', 'Animation', 'Kids&family']",['DanScanlon'],['KoriRae'],"['Jun 21', '2013']",268.5M
+7,Gravity,,,,,,,,
+8,Man of Steel,56,75,PG-13,"['Fantasy', 'Sci-fi', 'Action', 'Adventure']",['ZackSnyder'],"['CharlesRoven', 'ChristopherNolan', 'EmmaThomas', 'DeborahSnyder']","['Jun 14', '2013']",291.0M
+9,Thor: The Dark World,66,75,PG-13,"['Fantasy', 'Action', 'Adventure']",['AlanTaylor'],['KevinFeige'],"['Nov 8', '2013']",206.4M
+10,The Croods,72,77,PG,"['Kids&family', 'Animation', 'Comedy', 'Adventure']","['ChristopherSanders', 'KirkDeMicco']","['KristineBelson', 'JaneHartwell']","['Mar 22', '2013']",187.2M
+11,World War Z,66,72,PG-13,"['Horror', 'Action', 'Adventure']",['MarcForster'],"['BradPitt', 'DedeGardner', 'JeremyKleiner', 'IanBryce']","['Jun 21', '2013']",202.4M
+12,Oz the Great and Powerful,57,56,PG,"['Kids&family', 'Fantasy', 'Adventure']",['SamRaimi'],['JoeRoth'],"['Mar 8', '2013']",234.9M
+13,Star Trek Into Darkness,84,89,PG-13,"['Sci-fi', 'Fantasy', 'Adventure', 'Action']",['J.J.Abrams'],"['J.J.Abrams', 'BryanBurk', 'DamonLindelof', 'AlexKurtzman', 'RobertoOrci']","['May 16', '2013']",228.8M
+14,The Wolverine,71,69,PG-13,"['Fantasy', 'Sci-fi', 'Action', 'Adventure']",['JamesMangold'],"['LaurenShulerDonner', 'HutchParker', 'HughJackman']","['Jul 26', '2013']",132.5M
+15,Pacific Rim,72,77,PG-13,"['Adventure', 'Sci-fi', 'Action']",['GuillermodelToro'],"['ThomasTull', 'JonJashni', 'GuillermodelToro', 'MaryParent']","['Jul 12', '2013']",101.8M
+16,The Wolf of Wall Street,79,83,R,"['Drama', 'Biography', 'Comedy']",['MartinScorsese'],"['MartinScorsese', 'LeonardoDiCaprio', 'RizaAziz', 'JoeyMcFarland', 'EmmaTillingerKoskoff']","['Dec 25', '2013']",116.9M
+17,G.I. Joe: Retaliation,29,48,PG-13,"['Adventure', 'Action']",['JonM.Chu'],"['LorenzodiBonaventura', 'BrianGoldner']","['Mar 28', '2013']",122.5M
+18,The Hangover Part III,20,44,R,['Comedy'],['ToddPhillips'],"['ToddPhillips', 'DanGoldberg']","['May 23', '2013']",112.2M
+19,The Great Gatsby,48,67,PG-13,['Drama'],['BazLuhrmann'],"['BazLuhrmann', 'CatherineMartin', 'DouglasWick', 'LucyFisher', 'CatherineKnapman']","['May 10', '2013']",144.8M
+20,Now You See Me,51,70,PG-13,"['Drama', 'Comedy', 'Mystery&thriller']",['LouisLeterrier'],"['AlexKurtzman', 'RobertoOrci', 'BobbyCohen', 'BoazYakin']","['May 31', '2013']",117.7M
+21,The Smurfs 2,14,56,PG,"['Kids&family', 'Fantasy', 'Comedy', 'Adventure']",['RajaGosnell'],['JordanKerner'],"['Jul 31', '2013']",71.0M
+22,The Conjuring,86,83,R,"['Horror', 'Mystery&thriller']",['JamesWan'],"['TonyDeRosa-Grund', 'PeterSafran', 'RobCowan']","['Jul 19', '2013']",137.4M
+23,A Good Day to Die Hard,15,40,R,"['Action', 'Mystery&thriller']",['JohnMoore'],"['AlexYoung', 'WyckGodfrey']","['Feb 14', '2013']",67.3M
+24,Oblivion,,,,,,,,
+25,Elysium,65,58,R,"['Drama', 'Action', 'Sci-fi']",['NeillBlomkamp'],"['BillBlock', 'NeillBlomkamp', 'SimonKinberg']","['Aug 9', '2013']",93.1M
+26,Turbo,67,65,PG,"['Kids&family', 'Animation', 'Comedy', 'Adventure']",['DavidSoren'],['LisaStewart'],"['Jul 17', '2013']",83.0M
+27,Cloudy with a Chance of Meatballs 2,71,66,PG,"['Animation', 'Kids&family', 'Comedy']","['CodyCameron', 'KrisPearn']","['KirkBodyfelt', 'PamMarsden']","['Sep 27', '2013']",119.8M
+28,Epic,65,65,PG,"['Fantasy', 'Adventure', 'Kids&family', 'Comedy', 'Animation', 'Action']",['ChrisWedge'],"['LoriForte', 'JerryDavis']","['May 24', '2013']",107.5M
+29,The Lone Ranger,31,51,PG-13,"['Western', 'Action', 'Adventure']",['GoreVerbinski'],"['JerryBruckheimer', 'GoreVerbinski']","['Jul 3', '2013']",89.3M
+30,American Hustle,92,74,R,"['Drama', 'Crime']",['DavidO.Russell'],"['CharlesRoven', 'RichardSuckle', 'MeganEllison', 'JonathanGordon']","['Dec 20', '2013']",150.1M
+31,Grown Ups 2,8,53,PG-13,['Comedy'],['DennisDugan'],"['AdamSandler', 'JackGiarraputo']","['Jul 12', '2013']",133.7M
+32,After Earth,12,36,PG-13,"['Action', 'Sci-fi', 'Adventure']",['M.NightShyamalan'],"['CaleebPinkett', 'JadaPinkettSmith', 'WillSmith', 'JamesLassiter', 'M.NightShyamalan']","['May 31', '2013']",60.5M
+33,Planes,,,,,,,,
+34,Hansel & Gretel: Witch Hunters,,,,,,,,
+35,Captain Phillips,93,89,PG-13,"['Drama', 'Action', 'Mystery&thriller']",['PaulGreengrass'],"['ScottRudin', 'DanaBrunetti', 'MichaelDeLuca']","['Oct 11', '2013']",107.1M
+36,Journey to the West,,,,,,,,
+37,White House Down,52,62,PG-13,"['Action', 'Mystery&thriller']",['RolandEmmerich'],"['BradleyJ.Fischer', 'HaraldKloser', 'JamesVanderbilt', 'LarryJ.Franco', 'LaetaKalogridis']","['Jun 28', '2013']",73.1M
+38,Percy Jackson: Sea of Monsters,42,55,PG,"['Kids&family', 'Fantasy', 'Adventure']",['ThorFreudenthal'],"['KarenRosenfelt', 'MichaelBarnathan']","['Aug 7', '2013']",68.5M
+39,Jack the Giant Slayer,52,55,PG-13,"['Fantasy', 'Adventure']",['BryanSinger'],"['NealH.Moritz', 'DavidDobkin', 'BryanSinger', 'PatrickMcCormick', 'OriMarmur']","['Mar 1', '2013']",
+40,The Secret Life of Walter Mitty,75,80,,['Comedy'],['NormanZ.McLeod'],['SamuelGoldwyn'],"['Sep 1', '1947']",
+41,12 Years a Slave,95,90,R,"['Drama', 'History', 'Biography']",['SteveMcQueen'],"['BradPitt', 'DedeGardner', 'JeremyKleiner', 'BillPohlad', 'SteveMcQueen', 'ArnonMilchan', 'AnthonyKatagas']","['Oct 18', '2013']",56.7M
+42,Lee Daniels' The Butler,72,78,PG-13,"['History', 'Drama']",['LeeDaniels'],"['PamelaOasWilliams', 'LauraZiskin', 'LeeDaniels', 'BuddyPatrick', 'CassianElwes']","['Aug 16', '2013']",116.6M
+43,Identity Thief,19,53,R,['Comedy'],['SethGordon'],"['JasonBateman', 'PamelaAbdy', 'ScottStuber']","['Feb 8', '2013']",134.5M
+44,Anchorman 2: The Legend Continues,75,52,PG-13,['Comedy'],['AdamMcKay'],"['JuddApatow', 'WillFerrell', 'AdamMcKay']","['Dec 18', '2013']",127.3M
+45,Olympus Has Fallen,50,66,R,"['Action', 'Mystery&thriller']",['AntoineFuqua'],"['AlanSiegel', 'EdCathellIII', 'DannyLerner']","['Mar 22', '2013']",98.9M
+46,Insidious: Chapter 2,39,57,PG-13,"['Horror', 'Mystery&thriller']",['JamesWan'],"['JasonBlum', 'OrenPeli']","['Sep 13', '2013']",83.6M
+47,Lone Survivor,75,87,R,"['Drama', 'War']",['PeterBerg'],"['PeterBerg', 'SarahAubrey', 'RandallEmmett', 'NortonHerrick', 'BarrySpikings', 'AkivaGoldsman', 'MarkWahlberg', 'StephenLevinson', 'VitalyGrigoriants']","['Jan 10', '2014']",125.1M
+48,Jackass Presents: Bad Grandpa,61,60,R,['Comedy'],['JeffTremaine'],"['JeffTremaine', 'SpikeJonze', 'JohnnyKnoxville', 'DerekFreda']","['Oct 25', '2013']",102.0M
+49,47 Ronin,16,48,PG-13,"['Fantasy', 'Adventure', 'Action']",['CarlRinsch'],"['PamelaAbdy', 'EricMcLeod']","['Dec 25', '2013']",38.3M
+50,RED 2,44,63,PG-13,"['Action', 'Comedy']",['DeanParisot'],"['LorenzodiBonaventura', 'MarkVahradian']","['Jul 19', '2013']",53.2M
+51,Mama,63,55,PG-13,"['Horror', 'Mystery&thriller']",['AndyMuschietti'],"['J.MilesDale', 'BarbaraMuschietti']","['Jan 18', '2013']",71.6M
+52,Escape Plan,50,55,R,"['Mystery&thriller', 'Action']",['MikaelHåfström'],"['MarkCanton', 'RandallEmmett', 'RemingtonChase', 'RobbieBrenner', 'KevinKingTempleton']","['Oct 18', '2013']",25.1M
+53,2 Guns,65,66,R,"['Comedy', 'Action', 'Mystery&thriller']",['BaltasarKormákur'],"['MarcPlatt', 'RandallEmmett', 'NortonHerrick', 'AdamSiegel', 'GeorgeFurla', 'RossRichie', 'AndrewCosby']","['Aug 2', '2013']",75.6M
+54,This Is the End,83,71,R,"['Fantasy', 'Comedy']","['SethRogen', 'EvanGoldberg']","['SethRogen', 'EvanGoldberg', 'JamesWeaver']","['Jun 12', '2013']",101.5M
+55,Ender's Game,62,65,PG-13,"['Action', 'Sci-fi', 'Adventure']",['GavinHood'],"['GigiPritzker', 'LindaMcDonough', 'AlexKurtzman', 'RobertoOrci', 'RobertChartoff', 'LynnHendee', 'OrsonScottCard', 'EdUlbrich']","['Nov 1', '2013']",61.7M
+56,Prisoners,81,87,R,"['Drama', 'Crime', 'Mystery&thriller']",['DenisVilleneuve'],"['BroderickJohnson', 'KiraDavis', 'AndrewA.Kosove', 'AdamKolbrenner']","['Sep 20', '2013']",61.0M
+57,Jurassic Park 2013 Re-release,,,,,,,,
+58,Saving Mr. Banks,79,84,PG-13,"['Drama', 'Comedy']",['JohnLeeHancock'],"['AlisonOwen', 'IanCollie', 'PhilipSteuer']","['Dec 20', '2013']",83.3M
+59,Warm Bodies,81,73,PG-13,"['Horror', 'Comedy', 'Romance']",['JonathanLevine'],"['BrunaPapandrea', 'DavidHoberman', 'ToddLieberman']","['Feb 1', '2013']",66.4M
+60,Personal Tailor,,53,,"['Drama', 'Comedy']",['FengXiao-Gang'],['EvaCao'],"['Dec 20', '2013']",375.8K
+61,So Young,,36,,"['Drama', 'Lgbtq+']",['BernardVorhaus'],"['EdwardJ.Danziger', 'HarryLeeDanziger']",,
+62,Free Birds,20,44,PG,"['Adventure', 'Other', 'Kids&family', 'Comedy', 'Animation']",['JimmyHayward'],['ScottMosier'],"['Nov 1', '2013']",55.7M
+63,Gangster Squad,31,57,R,"['Drama', 'Action', 'Crime']",['RubenFleischer'],"['DanLin', 'KevinMcCormick', 'MichaelTadross']","['Jan 11', '2013']",46.0M
+64,Instructions Not Included,57,89,PG-13,"['Drama', 'Comedy']",['EugenioDerbez'],['EugenioDerbez'],"['Aug 30', '2013']",44.5M
+65,Philomena,91,89,PG-13,['Drama'],['StephenFrears'],"['GabrielleTana', 'SteveCoogan', 'TraceySeaward']","['Nov 22', '2013']",37.7M
+66,Blue Jasmine,91,77,PG-13,['Drama'],['WoodyAllen'],"['LettyAronson', 'StephenTenenbaum', 'EdwardWalson']","['Jul 26', '2013']",33.4M
+67,Young Detective Dee: Rise of the Sea Dragon,,53,,"['Drama', 'Sports&fitness', 'Adventure', 'History', 'Action', 'Mystery&thriller']",['HarkTsui'],"['Kuo-fuChen', 'NansunShi', 'HarkTsui']",,
+68,Riddick,57,56,R,"['Adventure', 'Action', 'Sci-fi', 'Mystery&thriller']",['DavidTwohy'],"['VinDiesel', 'TedField']","['Sep 6', '2013']",42.0M
+69,Safe Haven,14,67,PG-13,"['Drama', 'Romance', 'Mystery&thriller']",['LasseHallström'],"['RyanKavanaugh', 'WyckGodfrey', 'MartyBowen', 'NicholasSparks']","['Feb 14', '2013']",71.3M
+70,Evil Dead,63,63,R,"['Horror', 'Mystery&thriller']",['FedeAlvarez'],"['RobTapert', 'SamRaimi', 'BruceCampbell']","['Apr 5', '2013']",54.2M
+71,42,81,85,PG-13,"['Drama', 'History', 'Biography']",['BrianHelgeland'],['ThomasTull'],"['Apr 12', '2013']",95.1M
+72,The Mortal Instruments: City of Bones,13,58,PG-13,"['Fantasy', 'Action', 'Adventure']",['HaraldZwart'],"['RobertKulzer', 'DonCarmody']","['Aug 21', '2013']",31.2M
+73,Rush,89,88,R,"['Drama', 'Action']",['RonHoward'],"['AndrewEaton', 'EricFellner', 'BrianOliver', 'PeterMorgan', 'BrianGrazer', 'RonHoward']","['Sep 27', '2013']",26.9M
+74,Police Story: Lockdown,25,33,,"['Drama', 'Crime', 'Action', 'Mystery&thriller']",['ShengDing'],['JackieChan'],"['Jun 5', '2015']",
+75,The Internship,35,51,PG-13,['Comedy'],['ShawnLevy'],"['VinceVaughn', 'ShawnLevy']","['Jun 7', '2013']",44.7M
+76,The Purge,39,36,R,"['Horror', 'Mystery&thriller']",['JamesDeMonaco'],"['JasonBlum', 'SebastienK.Lemercier', 'MichaelBay', 'AndrewForm', 'BradFuller']","['Jun 7', '2013']",
+77,Dhoom 3,74,48,,"['Action', 'Mystery&thriller']",['VijayKrishnaAcharya'],['AdityaChopra'],"['Dec 20', '2013']",8.0M
+78,Pain & Gain,50,47,R,"['Drama', 'Comedy', 'Action']",['MichaelBay'],"['DonaldDeLine', 'MichaelBay', 'IanBryce']","['Apr 26', '2013']",49.9M
+79,About Time,70,81,R,"['Comedy', 'Fantasy', 'Romance']",['RichardCurtis'],"['TimBevan', 'EricFellner', 'NickyKentishBarnes']","['Nov 8', '2013']",15.3M
+80,American Dreams in China,,77,,['Drama'],['PeterHo-SunChan'],"['PeterHo-SunChan', 'Yuet-JanHui']",,
+81,Snowpiercer,94,72,R,"['Action', 'Sci-fi', 'Mystery&thriller']",['BongJoonHo'],"['JeongTae-seong', 'StevenNam', 'ParkChan-wook', 'LeeTaeheon']","['Jun 27', '2014']",4.6M
+82,Carrie,50,44,R,['Horror'],['KimberlyPeirce'],['KevinMisher'],"['Oct 18', '2013']",35.3M
+83,Finding Mr. Right,,70,,['Romance'],['XiaoLuXue'],"['ShanTam', 'MatthewTang']",,879.8K
+84,The Fighter Pilot,,,,,,,,
+85,Miracle in Cell No. 7,,84,,['Drama'],['MehmetAdaÖztekin'],"['SanerAyar', 'SinanTuran']",,
+86,The Attorney,77,87,,['Drama'],['YangWoo-suk'],,,
+87,The Family,28,41,R,"['Action', 'Comedy']",['LucBesson'],"['VirginieSilla', 'RyanKavanaugh']","['Sep 13', '2013']",114.5K
+88,Scary Movie V,4,38,PG-13,['Comedy'],['MalcolmD.Lee'],"['DavidZucker', 'PhilDornfeld']","['Apr 12', '2013']",32.0M
+89,R.I.P.D.,12,38,PG-13,"['Comedy', 'Action', 'Fantasy']",['RobertSchwentke'],"['NealH.Moritz', 'MikeRichardson', 'MichaelFottrell']","['Jul 19', '2013']",33.6M
+90,Tiny Times,,38,,"['Drama', 'Romance', 'Comedy']",['JingmingGuo'],"['LiLi', 'XiaofenAn', 'AdamTsuei', 'ZhouQiang', 'AngieChai']","['Jul 26', '2013']",
+91,Suck Me Shakespeer,,,,,,,,
+92,The Book Thief,48,73,PG-13,"['Drama', 'History']",['BrianPercival'],"['KarenRosenfelt', 'KenBlancato']","['Nov 8', '2013']",21.4M
+93,Escape from Planet Earth,,,PG,"['Sci-fi', 'Adventure', 'Kids&family', 'Comedy', 'Animation']",,,,
+94,August: Osage County,67,65,R,"['Drama', 'Comedy']",['JohnWells'],"['SteveTraxler', 'JeanDoumanian', 'GeorgeClooney', 'GrantHeslov']","['Jan 10', '2014']",37.7M
+95,The Best Man Holiday,70,83,R,"['Drama', 'Other', 'Comedy']",['MalcolmD.Lee'],"['SeanDaniel', 'MalcolmD.Lee']","['Nov 15', '2013']",70.5M
+96,The Counselor,34,23,R,"['Crime', 'Mystery&thriller', 'Drama']",['RidleyScott'],"['RidleyScott', 'NickWechsler', 'SteveSchwartz', 'PaulaMaeSchwartz']","['Oct 25', '2013']",16.9M
+97,Sole a catinelle,,,,,,,,
+98,The Call,44,65,R,['Mystery&thriller'],['BradAnderson'],"['JeffreyGraup', 'MichaelJ.Luisi', 'RobertL.Stein', 'MichaelA.Helfant', 'BradleyGallo']","['Mar 15', '2013']",51.9M
+99,One Direction: This Is Us,63,79,PG,['Documentary'],['MorganSpurlock'],"['SimonCowell', 'AdamMilano', 'MorganSpurlock', 'BenWinston']","['Aug 30', '2013']",28.9M
+100,Stalingrad,50,41,R,"['Drama', 'History', 'War']",['FedorBondarchuk'],"['SergeyMelkumov', 'AntonZlatopolskiy', 'DmitriyRudovskiy', 'AlexanderRodnyansky']",,1.0M
+101,Thunder and the House of Magic,73,54,,"['Kids&family', 'Animation', 'Comedy', 'Adventure']","['JeremyDegruson', 'BenStassen']","['NadiaKhamlichi', 'AdrianPolitowski', 'BenStassen', 'CarolineVanIseghem', 'GillesWaterkeyn']","['Sep 5', '2014']",
+102,The Grandmaster,78,59,PG-13,"['Drama', 'Biography', 'Sports&fitness']",['Kar-WaiWong'],['JackyYeeWahPang'],"['Aug 23', '2013']",6.6M
+103,Side Effects,81,70,R,"['Drama', 'Mystery&thriller']",['StevenSoderbergh'],"['LorenzodiBonaventura', 'GregoryJacobs', 'ScottZ.Burns']","['Feb 8', '2013']",32.2M
+104,The Host,25,76,R,"['Drama', 'Mystery&thriller', 'Crime']",['AndyNewbery'],['ZacharyWeckstein'],"['Jan 17', '2020']",
+105,Runner Runner,7,33,R,"['Drama', 'Crime', 'Mystery&thriller']",['BradFurman'],"['BrianKoppelman', 'DavidLevien', 'ArnonMilchan', 'JenniferDavissonKilloran', 'LeonardoDiCaprio', 'MichaelShamberg', 'StaceySher']","['Oct 4', '2013']",19.3M
+106,The Face Reader,,74,,['Drama'],['HanJae-rim'],['KimU-jae'],"['Oct 4', '2013']",
+107,The Legend of Hercules,5,33,PG-13,"['Fantasy', 'Action', 'Adventure']",['RennyHarlin'],"['DannyLerner', 'LesWeldon', 'BoazDavidson', 'RennyHarlin']","['Jan 10', '2014']",18.8M
+108,Kick-Ass 2,32,57,R,"['Comedy', 'Action']",['JeffWadlow'],"['MatthewVaughn', 'AdamBohling', 'TarquinPack', 'DavidReid']","['Aug 16', '2013']",28.8M
+109,A Haunted House,9,51,R,"['Horror', 'Comedy']",['MikeTiddes'],"['MarlonWayans', 'RickAlvarez']","['Jan 11', '2013']",40.0M
+110,Beautiful Creatures,47,54,PG-13,"['Fantasy', 'Romance']",['RichardLaGravenese'],"['ErwinStoff', 'AndrewA.Kosove', 'BroderickJohnson', 'MollySmith', 'DavidValdes']","['Feb 14', '2013']",19.4M
+111,Snitch,57,61,PG-13,"['Drama', 'Crime']",['RicRomanWaugh'],"['NigelSinclair', 'MattJackson', 'JonathanKing', 'DwayneJohnson', 'DanyGarcia', 'AlexanderYvesBrunner', 'TobinArmbrust']","['Feb 22', '2013']",42.9M
+112,The Physician,,73,R,"['Drama', 'History']",['PhilippStölzl'],,"['Dec 5', '2014']",
+113,Firestorm,,47,,"['Drama', 'Action', 'Crime']",['AlanYuen'],,,
+114,Dallas Buyers Club,92,91,R,"['Drama', 'Lgbtq+']",['Jean-MarcVallée'],"['RachelWinter', 'RobbieBrenner']","['Nov 1', '2013']",27.3M
+115,A Madea Christmas,,,,,,,,
+116,Temptation: Confessions of a Marriage Counselor,,,,,,,,
+117,Delivery Man,40,47,PG-13,['Comedy'],['KenScott'],['AndreRouleau'],"['Nov 22', '2013']",30.7M
+118,The 100 Year-Old Man Who Climbed Out the Window and Disappeared,68,69,R,"['Comedy', 'Adventure']",['FelixHerngren'],"['MalteForssell', 'FelixHerngren', 'HenrikJansson-Schweizer', 'PatrickNebout']","['May 1', '2015']",923.9K
+119,Dragon Ball Z: Battle of Gods,88,80,,"['Kids&family', 'Fantasy', 'Anime', 'Action']",['MasahiroHosoda'],,,
+120,The Berlin File,43,58,,"['Drama', 'Action', 'Mystery&thriller']",['RyooSeung-wan'],"['HanJae-deok', 'Su-RanKuk']","['Feb 15', '2013']",
+121,Her,94,82,R,"['Comedy', 'Drama', 'Romance']",['SpikeJonze'],"['MeganEllison', 'SpikeJonze', 'VincentLanday']","['Jan 10', '2014']",25.6M
+122,Homefront,42,61,R,"['Action', 'Mystery&thriller']",['GaryFleder'],"['SylvesterStallone', 'KevinKingTempleton', 'JohnThompson']","['Nov 27', '2013']",20.1M
+123,The Last Stand,61,53,R,['Action'],['KimJee-woon'],['LorenzodiBonaventura'],"['Jan 18', '2013']",12.0M
+124,21 & Over,27,46,R,['Comedy'],"['JonLucas', 'ScottMoore']","['DavidHoberman', 'ToddLieberman', 'RyanKavanaugh', 'HugoShong']","['Mar 1', '2013']",25.7M
+125,Texas Chainsaw,19,40,R,['Horror'],['JohnLuessenhop'],['CarlMazzocone'],"['Jan 4', '2013']",
+126,Tiny Times 2.0,,27,,['Drama'],['JingmingGuo'],"['JingmingGuo', 'ChaiZhiPing']",,
+127,Switch,33,41,,"['Drama', 'Comedy', 'Crime']",['FrédéricSchoendoerffer'],"['Jean-ChristopheGrangé', 'ÉricNévé', 'FrédéricSchoendoerffer']",,
+128,The Place Beyond the Pines,78,75,R,"['Drama', 'Mystery&thriller', 'Crime']",['DerekCianfrance'],"['JamiePatricof', 'LynetteHowellTaylor', 'AlexOrlovsky', 'SidneyKimmel']","['Mar 29', '2013']",21.4M
+129,Parker,40,48,R,"['Drama', 'Mystery&thriller', 'Action', 'Crime']",['TaylorHackford'],"['TaylorHackford', 'LesAlexander', 'SteveChasman', 'SidneyKimmel', 'JonathanMitchell']","['Jan 25', '2013']",17.6M
+130,The Big Wedding,7,40,R,"['Comedy', 'Romance']",['JustinZackham'],"['ClayPecorin', 'HarryJ.Ufland', 'AnthonyKatagas', 'JustinZackham', 'RichardSalvatore']","['Apr 26', '2013']",21.8M
+131,Badges of Fury,,23,,"['Drama', 'Comedy', 'Action', 'Crime']",['TszMingWong'],['ChuiBo-Chu'],,
+132,The World's End,89,71,R,"['Comedy', 'Sci-fi']",['EdgarWright'],"['NiraPark', 'TimBevan', 'EricFellner']","['Aug 23', '2013']",26.0M
+133,Grudge Match,31,46,PG-13,['Comedy'],['PeterSegal'],"['BillGerber', 'MarkStevenJohnson', 'MichaelEwing', 'PeterSegal', 'RaviMehta']","['Dec 25', '2013']",29.8M
+134,The White Storm,,60,R,"['Drama', 'Action', 'Crime']",['BennyChanChi-Shun'],,,
+135,Tarzan,20,33,PG,"['Kids&family', 'Animation', 'Adventure']",['ReinhardKlooss'],"['RobertKulzer', 'ReinhardKlooss']","['May 9', '2014']",
+136,Secretly Greatly,,,,,,,,
+137,"The Chef, The Actor, The Scoundrel",,50,,"['Drama', 'War', 'Comedy', 'Action']",['HuGuan'],['AiminJiao'],,
+138,Doraemon: Nobita's Secret Gadget Museum,,,,,,,,
+139,Jobs,28,40,PG-13,"['Drama', 'Biography']",['JoshuaMichaelStern'],"['MarkHulme', 'JoshuaMichaelStern']","['Aug 16', '2013']",16.1M
+140,No Man's Land,38,72,PG-13,"['Drama', 'Western']",['ConorAllyn'],"['RobAllyn', 'ConorAllyn', 'JakeAllyn', 'VictorAlmeida', 'JoelShapiro']","['Jan 22', '2021']",138.8K
+141,Lupin III vs. Detective Conan: The Movie,,,,,,,,
+142,Yolki 3,,,,,,,,
+143,Don Jon,80,58,R,"['Drama', 'Romance', 'Comedy']",['JosephGordon-Levitt'],['RamBergman'],"['Sep 27', '2013']",24.5M
+144,Antoine and Sebastian,,,,,,,,
+145,Cold Eyes,,,,,,,,
+146,"Like Father, Like Son",87,89,,['Drama'],['HirokazuKoreeda'],,"['Jan 17', '2014']",278.4K
+147,Detective Conan: Private Eye in the Distant Sea,,,,,,,,
+148,Dügün Dernek,,,,['Comedy'],['SelçukAydemir'],['NecatiAkpinar'],,
+149,The Terror Live,,73,,['Mystery&thriller'],['KimByung-woo'],['Choon-YeonLee'],"['Aug 9', '2013']",
+150,Hide and Seek,13,33,R,['Mystery&thriller'],['JoelDavidMoore'],"['DeclanBaldwin', 'FrancisChung', 'Tae-sungJeong']","['Nov 19', '2021']",
+151,Blind Detective,55,48,,"['Drama', 'Crime']",['JohnnieTo'],"['JohnnieTo', 'Ka-FaiWai']",,
+152,Broken City,28,40,R,"['Drama', 'Mystery&thriller', 'Crime']",['AllenHughes'],"['RandallEmmett', 'MarkWahlberg', 'StephenLevinson', 'ArnonMilchan', 'TeddySchwartzman', 'AllenHughes', 'RemingtonChase']","['Jan 18', '2013']",19.7M
+153,Inside Llewyn Davis,92,74,R,"['Drama', 'Comedy', 'Music']","['JoelCoen', 'EthanCoen']","['ScottRudin', 'EthanCoen', 'JoelCoen']","['Dec 20', '2013']",13.2M
+154,Serial Teachers,,,,,,,,
+155,Mud,97,80,PG-13,"['Drama', 'Adventure']",['JeffNichols'],"['LisaMariaFalcone', 'SarahGreen', 'AaronRyder']","['May 10', '2013']",21.6M
+156,Midsummer's Equation,,59,,['Mystery&thriller'],['HiroshiNishitani'],['YoshihiroSuzuki'],,
+157,Kevin Hart: Let Me Explain,61,72,R,['Comedy'],"['LeslieSmall', 'TimStory']",['JeffClanagan'],"['Jul 3', '2013']",32.2M
+158,Pokémon,16,54,G,"['Kids&family', 'Animation', 'Adventure']","['KunihikoYuyama', 'JimMalone']","['ChojiYoshikawa', 'YukakoMatsusako', 'TakemotoMori', 'KathrynA.Borland']","['Oct 11', '2002']",1.7M
+159,The After-Dinner Mysteries,,,,,,,,
+160,Underdogs,,54,PG,['Drama'],['DougDearth'],"['DougDearth', 'BillFishman', 'TomRooker', 'DaveLatham']","['Nov 1', '2013']",33.9K
+161,Spring Breakers,67,38,R,"['Drama', 'Comedy', 'Crime']",['HarmonyKorine'],"['Charles-MarieAnthonioz', 'JordanGertner', 'ChrisHanley', 'DavidZander']","['Mar 15', '2013']",14.1M
+162,New World,63,86,,['Mystery&thriller'],['ParkHoon-jung'],"['Woo-TaekKim', 'ParkMin-jung']","['Mar 22', '2013']",291.0K
+163,101 Proposals,,,,,,,,
+164,A Wedding Invitation,,57,,['Romance'],['OhKi-hwan'],"['SanpingHan', 'SeoJonghae']",,
+165,Silent Witness,,,,,,,,
+166,Special ID,56,26,R,"['Drama', 'Mystery&thriller', 'Action', 'Crime']",['ClarenceFok'],"['PeterPauTak-Hai', 'DonnieYen']","['Mar 7', '2014']",
+167,Kokowääh 2,,,,,,,,
+168,The Suspect,,63,,['Mystery&thriller'],['StuartConnelly'],"['ScottAronson', 'MaryJoBarthmaier', 'PaulBarthmaier', 'RobynK.Bennett']",,
+169,The Four 2,,,,,,,,
+170,The Kiyosu Conference,,62,,"['History', 'Drama']",['KokiMitani'],"['KazutoshiWadakura', 'KugaMaeda']",,
+171,I Give It a Year,51,38,R,"['Comedy', 'Romance']",['DanMazer'],"['TimBevan', 'EricFellner', 'JaneHooks', 'KrisThykier']","['Aug 9', '2013']",32.5K
+172,Mandela: Long Walk to Freedom,62,68,PG-13,"['History', 'Drama', 'Biography']",['JustinChadwick'],"['AnantSingh', 'DavidM.Thompson']","['Dec 25', '2013']",8.3M
+173,Dark Skies,41,49,PG-13,"['Sci-fi', 'Horror', 'Mystery&thriller']",['ScottStewart'],['JasonBlum'],"['Feb 22', '2013']",17.4M
+174,Nebraska,91,83,R,['Drama'],['AlexanderPayne'],"['AlbertBerga', 'RonYerxa']","['Nov 15', '2013']",17.6M
+175,The Incredible Burt Wonderstone,38,33,PG-13,['Comedy'],['DonScardino'],"['ChrisBender', 'SteveCarell', 'JakeWeiner', 'TylerMitchell']","['Mar 15', '2013']",22.5M
+176,Gorko!,,,,,,,,
+177,Khumba,44,44,,"['Adventure', 'Kids&family', 'Animation']",['AnthonySilverston'],"['StuartForrest', 'JamesMiddleton', 'MikeBuckland', 'Jean-MichelKoenig']","['Dec 6', '2013']",
+178,You're Next,79,60,R,"['Horror', 'Comedy', 'Mystery&thriller']",['AdamWingard'],"['KeithCalder', 'JessicaCalder', 'SimonBarrett', 'KimSherman']","['Aug 23', '2013']",18.5M
+179,Mr. Go,,,,,,,,
+180,The Break Up Man,,,,,,,,
+181,The Way Way Back,83,84,PG-13,"['Drama', 'Comedy']","['NatFaxon', 'JimRash']","['KevinJ.Walsh', 'TomRice']","['Jul 26', '2013']",21.4M
+182,We Are the Nobles,,,,,,,,
+183,The Stolen Years,,92,,"['Drama', 'Comedy']",['FernandoColomo'],"['FernandoColomo', 'BeatrizdelaGándara']","['Sep 11', '1998']",
+184,One Night Surprise,,17,,"['Comedy', 'Romance']",,,,
+185,Platinum Data,,50,,"['Sci-fi', 'Mystery&thriller']",['KeishiOhtomo'],,,
+186,Gekijouban SPEC: Kurôzu - Zen no hen,,,,,,,,
+187,Unbeatable,,,PG-13,"['Romance', 'Comedy']",['AriPalitz'],,"['Jun 12', '2009']",
+188,Man on the Edge,,,,['Comedy'],['Jin-gyuCho'],,,
+189,Enough Said,95,75,PG-13,"['Comedy', 'Romance']",['NicoleHolofcener'],"['AnthonyBregman', 'StefanieAzpiazu']","['Sep 18', '2013']",17.5M
+190,The Last Exorcism Part II,15,26,PG-13,"['Horror', 'Mystery&thriller']",['EdGass-Donnelly'],"['EricNewman', 'EliRoth', 'MarcAbraham', 'ThomasA.Bliss']","['Mar 1', '2013']",15.2M
+191,"Me, Myself and Mum",83,67,,['Comedy'],['GuillaumeGallienne'],"['CyrilColbeau-Justin', 'Jean-BaptisteDupont', 'GuillaumeGallienne', 'AliceGirard']",,
+192,Drug War,94,77,R,"['Drama', 'Action', 'Crime']",['JohnnieTo'],"['JohnnieTo', 'Ka-FaiWai']","['Jul 26', '2013']",127.9K
+193,The Tale of The Princess Kaguya,100,90,PG,"['Fantasy', 'Anime']",['IsaoTakahata'],"['GeoffreyWexler', 'SeiichirôUjiie']","['Oct 17', '2014']",681.1K
+194,The Great Beauty,91,80,,"['Drama', 'Comedy']",['PaoloSorrentino'],"['FrancescaCima', 'FabioConversi', 'NicolaGiuliano', 'JérômeSeydoux']",,2.8M
+195,Trance,68,62,R,"['Drama', 'Mystery&thriller', 'Crime']",['DannyBoyle'],['ChristianColson'],"['Apr 5', '2013']",2.3M
+196,The Railway Man,66,68,R,"['Drama', 'History', 'Biography']",['JonathanTeplitzky'],"['ChrisBrown', 'BillCurbishley']","['Apr 11', '2014']",4.4M
+197,Out of Inferno,,40,PG-13,"['Drama', 'Action']","['OxideChunPang', 'DannyPang']",,,
+198,Bring Happiness Home,,,,,,,,
+199,Baggage Claim,15,48,PG-13,"['Comedy', 'Romance']",['DavidE.Talbert'],"['StevenJ.Wolfe', 'DavidE.Talbert']","['Sep 27', '2013']",21.6M

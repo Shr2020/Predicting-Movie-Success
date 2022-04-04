@@ -1,0 +1,201 @@
+,Release Group,Score_Rotten,Score_Audience,Rating,Genre,Director,Producer,Release Date (Theaters),Box Office (Gross USA)
+0,Transformers: Age of Extinction,17,50,PG-13,"['Sci-fi', 'Action', 'Adventure']",['MichaelBay'],"['DonMurphy', 'TomDeSanto', 'LorenzodiBonaventura', 'IanBryce']","['Jun 27', '2014']",245.4M
+1,The Hobbit: The Battle of the Five Armies,59,74,PG-13,"['Fantasy', 'Action', 'Adventure']",['PeterJackson'],"['CarolynneCunningham', 'ZaneWeiner', 'FranWalsh', 'PeterJackson']","['Dec 17', '2014']",255.1M
+2,Guardians of the Galaxy,92,92,PG-13,"['Adventure', 'Action', 'Comedy', 'Fantasy', 'Sci-fi']",['JamesGunn'],['KevinFeige'],"['Aug 1', '2014']",333.7M
+3,Maleficent,54,70,PG,"['Action', 'Fantasy', 'Adventure']",['RobertStromberg'],['JoeRoth'],"['May 30', '2014']",241.4M
+4,The Hunger Games: Mockingjay - Part 1,69,71,PG-13,"['Adventure', 'Sci-fi', 'Action']",['FrancisLawrence'],"['NinaJacobson', 'JonKilik']","['Nov 21', '2014']",
+5,X-Men: Days of Future Past,90,91,PG-13,"['Fantasy', 'Sci-fi', 'Action', 'Adventure']",['BryanSinger'],"['LaurenShulerDonner', 'BryanSinger', 'SimonKinberg', 'HutchParker']","['May 23', '2014']",233.9M
+6,Captain America: The Winter Soldier,90,92,PG-13,"['Fantasy', 'Adventure', 'Action']","['AnthonyRusso', 'JoeRusso']",['KevinFeige'],"['Apr 4', '2014']",259.7M
+7,Dawn of the Planet of the Apes,90,88,PG-13,"['Action', 'Sci-fi', 'Adventure']",['MattReeves'],"['PeterChernin', 'DylanClark', 'RickJaffa', 'AmandaSilver']","['Jul 11', '2014']",208.5M
+8,The Amazing Spider-Man 2,51,64,PG-13,"['Action', 'Adventure']",['MarcWebb'],"['AviArad', 'MatthewTolmach']","['May 2', '2014']",202.8M
+9,Interstellar,72,86,PG-13,"['Action', 'Sci-fi', 'Adventure']",['ChristopherNolan'],"['EmmaThomas', 'ChristopherNolan', 'LyndaObst']","['Nov 7', '2014']",188.0M
+10,Big Hero 6,90,91,PG,"['Sci-fi', 'Kids&family', 'Adventure', 'Comedy', 'Animation', 'Action']","['DonHall', 'ChrisWilliams']",['RoyConli'],"['Nov 7', '2014']",222.5M
+11,How to Train Your Dragon 2,91,89,PG,"['Adventure', 'Animation', 'Comedy', 'Kids&family', 'Fantasy']","['DeanDeBlois', 'TomOwens']",['BonnieArnold'],"['Jun 13', '2014']",177.0M
+12,American Sniper,72,84,R,"['Drama', 'Biography', 'War']",['ClintEastwood'],"['ClintEastwood', 'RobertLorenz', 'AndrewLazar', 'BradleyCooper', 'PeterMorgan']","['Jan 16', '2015']",350.1M
+13,Godzilla,76,66,PG-13,"['Action', 'Sci-fi', 'Adventure']",['GarethEdwards'],"['ThomasTull', 'JonJashni', 'MaryParent', 'BrianRogers']","['May 16', '2014']",200.7M
+14,Rio 2,48,58,G,"['Kids&family', 'Adventure', 'Musical', 'Comedy', 'Animation']",['CarlosSaldanha'],"['JohnC.Donkin', 'BruceAnderson']","['Apr 11', '2014']",
+15,Teenage Mutant Ninja Turtles,21,50,PG-13,"['Comedy', 'Action', 'Adventure']",['JonathanLiebesman'],"['MichaelBay', 'AndrewForm', 'BradFuller', 'GalenWalker', 'ScottMednick', 'IanBryce']","['Aug 8', '2014']",191.2M
+16,The Lego Movie,90,80,PG,"['Adventure', 'Kids&family', 'Comedy', 'Animation', 'Action']",['ChrisMcKay'],"['DanLin', 'PhilLord', 'ChrisMiller', 'RoyLee']","['Feb 10', '2017']",175.7M
+17,Lucy,67,47,R,"['Sci-fi', 'Action', 'Mystery&thriller']",['LucBesson'],['VirginieSilla'],"['Jul 25', '2014']",126.5M
+18,Penguins of Madagascar,74,63,PG,"['Kids&family', 'Animation', 'Comedy', 'Adventure']","['EricDarnell', 'SimonJ.Smith']","['LaraBreay', 'MarkSwift']","['Nov 26', '2014']",83.3M
+19,Edge of Tomorrow,,,,"['Drama', 'Mystery&thriller']","['GeorgeCoogan', 'JackieCoogan']","['GeorgeCoogan', 'EgonC.Nielsen', 'TageNielsen']",,
+20,Gone Girl,87,87,R,"['Drama', 'Crime', 'Mystery&thriller']",['DavidFincher'],"['CeánChaffin', 'ArnonMilchan', 'JoshuaDonen', 'ReeseWitherspoon']","['Oct 3', '2014']",167.8M
+21,Night at the Museum: Secret of the Tomb,47,57,PG,"['Kids&family', 'Fantasy', 'Comedy', 'Adventure']",['ShawnLevy'],"['ShawnLevy', 'ChrisColumbus']","['Dec 19', '2014']",113.6M
+22,Noah,,,,,,,,
+23,The Maze Runner,65,68,PG-13,"['Mystery&thriller', 'Action', 'Sci-fi', 'Adventure']",['WesBall'],"['EllenGoldsmith-Vein', 'WyckGodfrey', 'MartyBowen', 'LeeStollman']","['Sep 19', '2014']",81.3M
+24,300: Rise of an Empire,45,51,R,"['Drama', 'Action', 'Adventure']",['NoamMurro'],"['GianniNunnari', 'MarkCanton', 'ZackSnyder', 'DeborahSnyder', 'BernieGoldmann']","['Mar 7', '2014']",106.6M
+25,22 Jump Street,84,77,R,"['Comedy', 'Action']","['PhilLord', 'ChrisMiller']","['NealH.Moritz', 'JonahHill', 'ChanningTatum']","['Jun 13', '2014']",191.7M
+26,The Fault in Our Stars,81,85,PG-13,"['Drama', 'Romance']",['JoshBoone'],"['WyckGodfrey', 'MartyBowen']","['Jun 6', '2014']",124.9M
+27,Divergent,41,69,PG-13,"['Action', 'Sci-fi', 'Adventure']",['NeilBurger'],"['DouglasWick', 'LucyFisher', 'PouyaShahbazian']","['Mar 21', '2014']",150.8M
+28,Paddington,97,80,PG,"['Kids&family', 'Comedy', 'Adventure']",['PaulKing'],['DavidHeyman'],"['Jan 16', '2015']",
+29,Mr. Peabody & Sherman,81,73,PG,"['Sci-fi', 'Adventure', 'Kids&family', 'Comedy', 'Animation']",['RobMinkoff'],"['AlexSchwartz', 'DeniseNolanCascino']","['Mar 7', '2014']",111.5M
+30,Neighbors,73,63,R,['Comedy'],['NicholasStoller'],"['SethRogen', 'EvanGoldberg', 'JamesWeaver']","['May 9', '2014']",150.1M
+31,Exodus: Gods and Kings,30,35,PG-13,"['Drama', 'History', 'Action', 'Adventure']",['RidleyScott'],"['PeterChernin', 'RidleyScott', 'JennoTopping', 'MichaelSchaefer', 'MarkHuffam']","['Dec 12', '2014']",65.0M
+32,Annabelle,29,35,R,"['Horror', 'Mystery&thriller']",['JohnR.Leonetti'],"['PeterSafran', 'JamesWan']","['Oct 3', '2014']",84.4M
+33,Hercules,58,48,PG-13,"['Adventure', 'Fantasy', 'Action']",['BrettRatner'],"['BeauFlynn', 'BarryLevine', 'BrettRatner']","['Jul 25', '2014']",72.7M
+34,RoboCop,48,49,PG-13,"['Action', 'Sci-fi']",['JoséPadilha'],"['MarcAbraham', 'EricNewman']","['Feb 12', '2014']",58.6M
+35,The Imitation Game,89,91,PG-13,"['Drama', 'History', 'Lgbtq+', 'Biography']",['MortenTyldum'],"['NoraGrossman', 'IdoOstrowsky', 'TeddySchwarzman']","['Dec 25', '2014']",91.1M
+36,Non-Stop,62,63,PG-13,"['Action', 'Mystery&thriller']",['JaumeCollet-Serra'],"['JoelSilver', 'AlexHeineman', 'AndrewRona']","['Feb 28', '2014']",91.7M
+37,Dracula Untold,25,58,PG-13,"['Horror', 'Fantasy', 'Action']",['GaryShore'],['MichaelDeLuca'],"['Oct 10', '2014']",55.9M
+38,The Expendables 3,32,48,PG-13,"['Adventure', 'Action']",['PatrickHughes'],"['AviLerner', 'KevinKingTempleton', 'DannyLerner', 'LesWeldon', 'JohnThompson']","['Aug 15', '2014']",39.3M
+39,Into the Woods,71,49,PG,"['Fantasy', 'Musical']",['RobMarshall'],"['JohnDeLuca', 'RobMarshall', 'MarcPlatt', 'CallumMcDougall']","['Dec 25', '2014']",128.0M
+40,Fury,76,84,R,"['History', 'War', 'Drama']",['DavidAyer'],"['BillBlock', 'DavidAyer', 'EthanSmith', 'JohnLesher']","['Oct 17', '2014']",85.8M
+41,Need for Speed,22,57,PG-13,['Action'],['ScottWaugh'],"['JohnGatins', ""PatrickO'Brien"", 'MarkSourian']","['Mar 14', '2014']",43.6M
+42,The Other Woman,26,57,PG-13,"['Romance', 'Comedy']",['NickCassavetes'],['JulieYorn'],"['Apr 25', '2014']",83.9M
+43,The Equalizer,60,76,R,"['Action', 'Mystery&thriller']",['AntoineFuqua'],"['ToddBlack', 'JasonBlumenthal', 'DenzelWashington', 'AlexSiskin', 'SteveTisch', 'MaceNeufeld', 'TonyEldridge', 'MichaelSloan']","['Sep 26', '2014']",101.5M
+44,Breakup Buddies,,70,,"['Drama', 'Comedy', 'Romance']",['HaoNing'],"['YangDu', 'HongLing', 'YibingWang']",,775.0K
+45,Stand by Me Doraemon,,100,,"['Anime', 'Sci-fi', 'Drama', 'Comedy']","['RyûichiYagi', 'TakashiYamazaki']",,,
+46,Serial (Bad) Weddings,,61,,['Comedy'],['PhilippedeChauveron'],['RomainRojtman'],,
+47,The Monkey King Havoc in Heavens Palace,,,,,,,,
+48,The Grand Budapest Hotel,92,86,R,"['Drama', 'Comedy']",['WesAnderson'],"['WesAnderson', 'ScottRudin', 'StevenRales', 'JeremyDawson']","['Mar 7', '2014']",59.1M
+49,Dumb and Dumber To,30,35,PG-13,['Comedy'],"['PeterFarrelly', 'RobertFarrelly']","['PeterFarrelly', 'RobertFarrelly', 'RizaAziz', 'JoeyMcFarland', 'CharlesB.Wessler', 'BradleyThomas']","['Nov 14', '2014']",86.2M
+50,Into the Storm,,63,TVPG,"['Drama', 'Biography']","[""ThaddeusO'Sullivan""]",,,
+51,Unbroken,,,,['Documentary'],['DanGrin'],"['IldarKrimcheev', 'DanGrin', 'RickIrvin']",,
+52,The Monuments Men,30,44,PG-13,"['Drama', 'History', 'War']",['GeorgeClooney'],"['GrantHeslov', 'GeorgeClooney']","['Feb 7', '2014']",78.0M
+53,Ride Along,18,58,PG-13,"['Comedy', 'Action']",['TimStory'],"['WillPacker', 'IceCube', 'MattAlvarez', 'LarryBrezner']","['Jan 17', '2014']",134.1M
+54,Planes: Fire & Rescue,45,56,PG,"['Kids&family', 'Animation', 'Comedy', 'Adventure']",['BobsGannaway'],['FerrellBarron'],"['Jul 18', '2014']",59.2M
+55,The Taking of Tiger Mountain,71,66,,"['Action', 'Adventure']",['HarkTsui'],['JianxinHuang'],,223.0K
+56,The Admiral: Roaring Currents,86,79,,"['Drama', 'History', 'Action', 'War']",['KimHan-min'],"['KimJu-kyung', 'JungByung-wook']","['Aug 8', '2014']",2.6M
+57,Let's Be Cops,18,51,R,"['Comedy', 'Action']",['LukeGreenfield'],"['SimonKinberg', 'LukeGreenfield']","['Aug 13', '2014']",82.4M
+58,Annie,28,59,PG,"['Kids&family', 'Musical', 'Comedy']",['WillGluck'],"['JadaPinkettSmith', 'WillSmith', 'CaleebPinkett', 'Jay-Z', 'Laurence""Jay""Brown', 'TyranSmith']","['Dec 19', '2014']",85.9M
+59,Jack Ryan: Shadow Recruit,54,53,PG-13,"['Action', 'Mystery&thriller']",['KennethBranagh'],"['MaceNeufeld', 'LorenzodiBonaventura', 'DavidBarron', 'MarkVahradian']","['Jan 17', '2014']",50.5M
+60,Blended,15,64,PG-13,"['Comedy', 'Romance']",['FrankCoraci'],"['MikeKarz', 'AdamSandler', 'JackGiarraputo']","['May 23', '2014']",46.3M
+61,Sex Tape,16,33,R,['Comedy'],['JakeKasdan'],"['ToddBlack', 'JasonBlumenthal', 'SteveTisch']","['Jul 18', '2014']",38.5M
+62,The Theory of Everything,80,84,PG-13,"['Drama', 'Biography', 'Romance']",['JamesMarsh'],"['TimBevan', 'EricFellner', 'LisaBruce', 'AnthonyMcCarten']","['Nov 7', '2014']",35.9M
+63,The Nut Job,13,43,PG,"['Kids&family', 'Animation', 'Comedy', 'Adventure']",['PeterLepeniotis'],"['WookyungJung', 'GrahamMoloy']","['Jan 17', '2014']",64.2M
+64,Pompeii,27,34,PG-13,"['Adventure', 'History', 'Drama', 'Action']",['PaulW.S.Anderson'],"['JeremyBolt', 'PaulW.S.Anderson', 'RobertKulzer', 'DonCarmody']","['Feb 21', '2014']",23.2M
+65,Seventh Son,12,34,PG-13,"['Adventure', 'Fantasy', 'Action']",['SergeyBodrov'],"['BasilIwanyk', 'ThomasTull', 'LionelWigram']","['Feb 6', '2015']",17.2M
+66,The Purge: Anarchy,57,56,R,"['Mystery&thriller', 'Horror', 'Action']",['JamesDeMonaco'],"['JasonBlum', 'MichaelBay', 'AndrewForm', 'BradFuller', 'SebastienK.Lemercier']","['Jul 18', '2014']",71.5M
+67,"Dad, Where Are We Going?",,,,,,,,
+68,The Boxtrolls,78,63,PG,"['Fantasy', 'Adventure', 'Kids&family', 'Comedy', 'Animation']","['AnthonyStacchi', 'GrahamAnnable']","['DavidBleimanIchioka', 'TravisKnight']","['Sep 26', '2014']",50.8M
+69,Horrible Bosses 2,35,47,R,['Comedy'],['SeanAnders'],"['BrettRatner', 'JayStern', 'ChrisBender', 'JohnRickard', 'JohnMorris']","['Nov 26', '2014']",54.4M
+70,The Breakup Guru,,45,,"['Comedy', 'Romance']",['ChaoDeng'],,,209.0K
+71,Ouija,6,24,PG-13,"['Horror', 'Mystery&thriller']",['StilesWhite'],"['MichaelBay', 'AndrewForm', 'BradFuller', 'JasonBlum', 'BennettSchneir']","['Oct 24', '2014']",50.8M
+72,Birdman or (The Unexpected Virtue of Ignorance),,,,,,,,
+73,Transcendence,19,37,PG-13,"['Action', 'Sci-fi', 'Mystery&thriller']",['WallyPfister'],"['AndrewA.Kosove', 'BroderickJohnson', 'KateCohen', 'MarisaPolvino', 'AnnieMarter', 'DavidValdes', 'AaronRyder']","['Apr 18', '2014']",23.0M
+74,Heaven Is for Real,51,66,PG,['Drama'],['RandallWallace'],"['JoeRoth', 'ThomasDexterJakesSr.']","['Apr 16', '2014']",91.4M
+75,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",62,58,PG,"['Kids&family', 'Comedy']",['MiguelArteta'],"['ShawnLevy', 'LisaHenson', 'DanLevine']","['Oct 10', '2014']",67.0M
+76,Tammy,24,36,R,['Comedy'],['BenFalcone'],"['WillFerrell', 'AdamMcKay', 'MelissaMcCarthy']","['Jul 2', '2014']",84.5M
+77,PK,77,85,,"['Drama', 'Fantasy', 'Comedy']",['RajkumarHirani'],"['VidhuVinodChopra', 'RajkumarHirani']","['Dec 19', '2014']",10.6M
+78,The Continent,,53,,['Drama'],['HanHan'],,,
+79,The Book of Life,83,77,PG,"['Fantasy', 'Adventure', 'Kids&family', 'Comedy', 'Animation']",['JorgeR.Gutierrez'],"['GuillermodelToro', 'AaronD.Berger', 'BradBooker', 'CarinaSchulze']","['Oct 17', '2014']",50.1M
+80,Ode to My Father,71,85,,['Drama'],['YoonJe-kyoon'],,"['Jan 9', '2015']",2.3M
+81,Fleet of Time,,,,,,,,
+82,The Man from Macau,,19,,['Drama'],['JingWong'],['AndrewLauWai-Keung'],,
+83,Paranormal Activity: The Marked Ones,39,34,R,"['Horror', 'Mystery&thriller']",['ChristopherLandon'],"['JasonBlum', 'OrenPeli']","['Jan 3', '2014']",32.5M
+84,The Hundred-Foot Journey,68,81,PG,"['Drama', 'Comedy']",['LasseHallström'],"['StevenSpielberg', 'OprahWinfrey', 'JulietBlake']","['Aug 8', '2014']",54.2M
+85,Deliver Us from Evil,29,42,R,"['Horror', 'Mystery&thriller']",['ScottDerrickson'],['JerryBruckheimer'],"['Jul 2', '2014']",30.6M
+86,A Million Ways to Die in the West,33,41,R,"['Western', 'Comedy']",['SethMacFarlane'],"['ScottStuber', 'SethMacFarlane', 'JasonClark']","['May 30', '2014']",42.6M
+87,Step Up All In,42,57,PG-13,['Drama'],['TrishSie'],"['AdamShankman', 'JenniferGibgot', 'PatrickWachsberger', 'ErikFeig']","['Aug 8', '2014']",14.9M
+88,John Wick,86,81,R,"['Action', 'Mystery&thriller']",['ChadStahelski'],"['BasilIwanyk', 'DavidLeitch', 'EvaLongoria']","['Oct 24', '2014']",43.0M
+89,The Judge,100,,,['Documentary'],['ErikaCohn'],['ErikaCohn'],"['Apr 13', '2018']",
+90,Tiny Times 3.0,,,,,,,,
+91,Gone with the Bullets,,,,,,,,
+92,Muppets Most Wanted,80,58,PG,"['Kids&family', 'Comedy', 'Adventure']",['JamesBobin'],"['DavidHoberman', 'ToddLieberman']","['Mar 21', '2014']",51.2M
+93,Spanish Affair,,,,['Drama'],"['LuisMarquina', 'DonSiegel']",['BruceOdlum'],,
+94,If I Stay,35,61,PG-13,"['Drama', 'Romance']",['R.J.Cutler'],['AlisonGreenspan'],"['Aug 22', '2014']",50.5M
+95,Head Full of Honey,0,75,PG-13,['Drama'],['TilSchweiger'],"['TilSchweiger', 'ChristianSpecht']","['Nov 30', '2018']",8.7K
+96,"I, Frankenstein",5,38,PG-13,"['Fantasy', 'Action']",['StuartBeattie'],"['TomRosenberg', 'GaryLucchesi', 'RichardS.Wright', 'AndrewMason', 'SidneyKimmel']","['Jan 24', '2014']",19.1M
+97,Crimson Peak,72,55,R,"['Horror', 'Romance', 'Mystery&thriller']",['GuillermodelToro'],"['ThomasTull', 'JonJashni', 'GuillermodelToro', 'CallumGreene']","['Oct 16', '2015']",31.1M
+98,My Old Classmate,,,,['Romance'],['FrantGwo'],,,
+99,The Bélier Family,83,75,,"['Drama', 'Comedy']",['ÉricLartigau'],"['EricJehelmann', 'NadiaKhamlichi', 'AdrianPolitowski', 'PhilippeRousselet', 'GillesWaterkeyn', 'StéphanieBermann']",,
+100,Brick Mansions,26,47,PG-13,"['Drama', 'Action', 'Crime']",['CamilleDelamarre'],"['ClaudeLéger', 'JonathanVanger']","['Apr 25', '2014']",20.4M
+101,Son of God,21,73,PG-13,"['Drama', 'History']","['ChristopherSpencer', 'TonyMitchell', 'CrispinReece']","['RomaDowney', 'MarkBurnett', 'RichardBedser']","['Feb 28', '2014']",59.7M
+102,Think Like a Man Too,23,59,PG-13,"['Comedy', 'Romance']",['TimStory'],['WillPacker'],"['Jun 20', '2014']",65.1M
+103,Jersey Boys,51,62,R,"['Drama', 'Musical', 'Biography']",['ClintEastwood'],"['ClintEastwood', 'GrahamKing', 'RobertLorenz']","['Jun 20', '2014']",47.0M
+104,The Giver,35,55,PG-13,"['Drama', 'Sci-fi', 'Action']",['PhillipNoyce'],"['NikkiSilver', 'JeffBridges', 'NeilKoenigsberg']","['Aug 15', '2014']",45.1M
+105,Selma,99,86,PG-13,"['Drama', 'History']",['AvaDuVernay'],"['ChristianColson', 'OprahWinfrey', 'DedeGardner', 'JeremyKleiner']","['Jan 9', '2015']",52.1M
+106,Beijing Love Story,33,53,,"['Drama', 'Comedy', 'Romance']",['ChenSiCheng'],['LiChen'],"['Feb 14', '2014']",427.9K
+107,The House That Never Dies,,20,,"['Horror', 'Mystery&thriller']",['JoeChien'],['GordonChan'],,
+108,The Pirates,81,83,G,['Musical'],['WilfordLeach'],"['TimothyBurrill', 'JosephPapp']","['Feb 18', '1983']",
+109,God's Not Dead,12,75,PG,['Drama'],['HaroldCronk'],"['MichaelScott', 'RussellWolfe', 'DavidA.R.White', 'AnnaZielinski', 'ElizabethTravis']","['Mar 21', '2014']",20.6M
+110,The Pirate Fairy,81,70,G,"['Kids&family', 'Fantasy', 'Animation', 'Adventure']",['PeggyHolmes'],['JenniMagee-Cook'],,
+111,The Inbetweeners 2,69,60,,['Comedy'],"['DamonBeesley', 'IainMorris']",,,
+112,Begin Again,,80,,['Drama'],"['BillGillane', 'JoshuaSamson']","['BillGillane', 'LisaSpurrier']",,
+113,The White Haired Witch of Lunar Kingdom,13,22,,['Fantasy'],"['ChiLeung""Jacob""Cheung']",['JianxinHuang'],,
+114,The Walk,83,77,PG,"['Drama', 'Biography', 'Adventure']",['RobertZemeckis'],"['SteveStarkey', 'RobertZemeckis', 'JackRapke']","['Oct 9', '2015']",10.1M
+115,Miss Granny,,,,"['Fantasy', 'Comedy']",['JoyceBernal'],"['NeilArce', 'VicenteG.delRosarioIII', 'VeroniqueDelRosario-Corpus']",,
+116,A Walk Among the Tombstones,68,53,R,"['Crime', 'Action', 'Mystery&thriller', 'Drama']",['ScottFrank'],"['DannyDeVito', 'MichaelShamberg', 'StaceySher', 'TobinArmbrust', 'BrianOliver']","['Sep 19', '2014']",26.0M
+117,Dolphin Tale 2,66,72,PG,"['Drama', 'Kids&family', 'Adventure']",['CharlesMartinSmith'],"['BroderickJohnson', 'RichardIngber', 'AndrewA.Kosove', 'StevenP.Wegner']","['Sep 12', '2014']",42.0M
+118,St. Vincent,77,78,PG-13,"['Drama', 'Comedy']",['TheodoreMelfi'],"['PeterChernin', 'JennoTopping', 'TheodoreMelfi', 'FredRoos']","['Oct 24', '2014']",44.1M
+119,No Good Deed,12,55,PG-13,['Mystery&thriller'],['SamMiller'],"['WillPacker', 'LeeClay']","['Sep 12', '2014']",52.5M
+120,Overheard 3,,33,,['Mystery&thriller'],"['FelixChong', 'AlanMak']","['RonaldWong', 'Tung-ShingYee']",,
+121,Supercondriaque,,32,,['Comedy'],['DanyBoon'],"['EricHubert', 'PatrickQuinet', 'JérômeSeydoux']",,
+122,3 Days to Kill,28,43,PG-13,"['Adventure', 'Action', 'Mystery&thriller']",['McG'],"['MarcLibert', 'RyanKavanaugh']","['Feb 21', '2014']",30.7M
+123,Rurouni Kenshin Part II: Kyoto Inferno,,,,,,,,
+124,Wild,88,75,R,"['Biography', 'Drama', 'Adventure']",['Jean-MarcVallée'],"['ReeseWitherspoon', 'BrunaPapandrea', 'BillPohlad']","['Dec 3', '2014']",37.7M
+125,Magic in the Moonlight,51,45,PG-13,"['Comedy', 'Romance']",['WoodyAllen'],"['LettyAronson', 'StephenTenenbaum', 'EdwardWalson']","['Jul 25', '2014']",10.5M
+126,About Last Night,,,,,['TonyDiMarco'],,,
+127,Dearest 2014 Re-release,,,,,,,,
+128,Whiplash,94,94,R,"['Drama', 'Music']",['DamienChazelle'],"['HelenEstabrook', 'JasonBlum', 'MichelLitvak', 'DavidLancaster']","['Oct 10', '2014']",13.2M
+129,Chef,45,50,,"['Drama', 'Comedy']",['RajaKrishnaMenon'],,,53.6K
+130,Boyhood,97,80,R,['Drama'],['RichardLinklater'],"['RichardLinklater', 'CathleenSutherland']","['Jul 18', '2014']",25.4M
+131,Coming Home,,,,['Drama'],['W.LayneMcdonald'],,,
+132,Beauty and the Beast,71,80,PG,"['Fantasy', 'Musical', 'Kids&family', 'Romance']",['BillCondon'],"['DavidHoberman', 'ToddLieberman']","['Mar 17', '2017']",504.0M
+133,Nightcrawler,95,86,R,"['Drama', 'Crime', 'Mystery&thriller']",['DanGilroy'],"['MichelLitvak', 'JakeGyllenhaal', 'DavidLancaster', 'JenniferFox', 'TonyGilroy']","['Oct 31', '2014']",32.4M
+134,Earth to Echo,50,47,PG,"['Drama', 'Kids&family', 'Sci-fi', 'Adventure']",['DaveGreen'],"['RyanKavanaugh', 'AndrewPanay']","['Jul 2', '2014']",38.9M
+135,That Awkward Moment,22,46,R,"['Comedy', 'Romance']",['TomGormican'],"['JustinNappi', ""AndrewO'Connor"", 'ScottAversano', 'KevinTuren']","['Jan 31', '2014']",26.0M
+136,Love on the Cloud,,69,,['Comedy'],['ChangweiGu'],,,
+137,Oculus,75,53,R,"['Horror', 'Mystery&thriller']",['MikeFlanagan'],"['TrevorMacy', 'MarcD.Evans']","['Apr 11', '2014']",27.7M
+138,The Great Hypnotist,,,,,,,,
+139,Kick,46,50,,"['Romance', 'Action']",['SajidNadiadwala'],['SajidNadiadwala'],"['Jul 25', '2014']",2.5M
+140,Asterix and Obelix: Mansion of the Gods,71,63,,"['Comedy', 'Animation']","['LouisClichy', 'AlexandreAstier']","['ThomasValentin', 'PhilippeBony', 'JanGoossen']",,
+141,Thermae Romae II,,40,,['Comedy'],['HidekiTakeuchi'],,,
+142,Bang Bang,14,53,,"['Comedy', 'Romance', 'Action', 'Adventure']",['SiddharthAnand'],['PrashantShah'],"['Oct 2', '2014']",2.5M
+143,Detective Conan: The Sniper from Another Dimension,,70,,"['Anime', 'Action', 'Adventure']",['KobunShizuno'],['MichihikoSuwa'],,
+144,Rurouni Kenshin: The Legend Ends,,80,,['Action'],['KeishiOhtomo'],['SatoshiFukushima'],,
+145,"As Above, So Below",26,40,R,"['Horror', 'Mystery&thriller']",['JohnErickDowdle'],"['ThomasTull', 'JonJashni', 'DrewDowdle', 'PatrickAiello']","['Aug 29', '2014']",21.2M
+146,This Is Where I Leave You,44,59,R,"['Drama', 'Comedy']",['ShawnLevy'],"['PaulaWeinstein', 'ShawnLevy', 'JeffLevine']","['Sep 19', '2014']",34.3M
+147,Boonie Bears: To the Rescue,,,,"['Animation', 'Action']","['LeonDing', 'FuyuanLiu']","['MingLi', 'FuyuanLiu']",,
+148,The November Man,36,46,R,"['Action', 'Mystery&thriller']",['RogerDonaldson'],"['BeauSt.Clair', 'SriramDas']","['Aug 27', '2014']",25.0M
+149,Recep Ivedik 4,,47,,['Comedy'],['ToganGökbakar'],"['EmrahCoban', 'SahanGökbakar']",,
+150,Sin City: A Dame to Kill For,42,44,R,"['Crime', 'Action', 'Mystery&thriller', 'Drama']","['RobertRodriguez', 'FrankMiller']","['RobertRodriguez', 'AaronKaufman', ""StephenL'Heureux"", 'AlexanderRodyansky', 'MarkC.Manuel']","['Aug 22', '2014']",13.8M
+151,The Gambler,,,,"['Sci-fi', 'Action', 'Mystery&thriller']",['TomEmmatty'],,,
+152,Samba,61,54,R,"['Drama', 'Comedy']","['EricToledano', 'OlivierNakache']","['NicolasDuval-Adassovsky', 'YannZenou', 'LaurentZeitoun']","['Jul 24', '2015']",149.8K
+153,Women Who Flirt,40,48,,['Comedy'],['Ho-CheungPang'],,"['Nov 26', '2014']",141.0K
+154,Forbidden Empire 2014 Re-release,,,,,,,,
+155,The Best of Me,,0,,,['RoserAguilar'],,,
+156,Million Dollar Arm,64,68,PG,['Drama'],['CraigGillespie'],"['MarkCiardi', 'GordonGray', 'JoeRoth']","['May 16', '2014']",36.4M
+157,The Water Diviner,62,60,R,"['Drama', 'History', 'War']",['RussellCrowe'],"['AndrewMason', 'KeithRodger', 'TroyLum']","['Apr 24', '2015']",34.6M
+158,But Always,14,54,,"['Drama', 'Romance']",['SnowZou'],['YibaiZhang'],"['Sep 5', '2014']",417.6K
+159,Devil's Due,18,21,R,['Horror'],"['MattBettinelli-Olpin', 'TylerGillett']",['JohnDavis'],"['Jan 17', '2014']",15.8M
+160,A Most Wanted Man,85,65,R,"['Drama', 'Mystery&thriller']",['AntonCorbijn'],"['StephenCornwell', 'GailEgan', 'MalteGrunert', 'SimonCornwell', 'AndreaCalderwood']","['Aug 1', '2014']",17.2M
+161,Kundo: Age of the Rampant,82,68,,['Action'],['YoonJong-bin'],['KangHyeon'],,276.8K
+162,Doraemon the Movie: The New Records of Nobita's Spaceblazer 2014 Re-release,,,,,,,,
+163,When Marnie Was There,91,88,PG,"['Drama', 'Fantasy', 'Anime', 'Kids&family', 'Mystery&thriller']",['HiromasaYonebayashi'],"['YoshiakiNishimura', 'KojiHoshino']","['May 22', '2015']",314.3K
+164,Endless Love,16,58,PG-13,"['Drama', 'Romance']",['ShanaFeste'],"['ScottStuber', 'PamelaAbdy', 'JoshSchwartz', 'StephanieSavage']","['Feb 14', '2014']",23.4M
+165,Black & White: The Dawn of Justice,,,,,,,,
+166,"My Love, Don't Cross That River",77,65,,['Documentary'],['Mo-YoungJin'],,"['Jun 17', '2016']",86.3K
+167,Don't Go Breaking My Heart 2,,31,,"['Comedy', 'Romance']",['JohnnieTo'],,,
+168,Get on Up,80,68,PG-13,"['Biography', 'Drama']",['TateTaylor'],"['BrianGrazer', 'MickJagger', 'VictoriaPearman', 'EricaHuggins', 'TateTaylor']","['Aug 1', '2014']",30.5M
+169,Girls,84,66,PG-13,['Comedy'],['MarkWaters'],['LorneMichaels'],"['Apr 30', '2004']",86.1M
+170,The Crossing,,,,,,,,
+171,Old Boys: The Way of the Dragon,,44,,['Comedy'],['YangXiao'],,,
+172,Tinker Bell and the Legend of the NeverBeast,,,,,,,,
+173,The Four 3,,,,,,,,
+174,Tazza: The Hidden Card,,72,,"['Drama', 'Crime']",['KangHyeong-cheol'],,,24.1K
+175,Mrs. Brown's Boys D'Movie,6,43,,['Comedy'],['BenKellett'],['StephenMcCrum'],,
+176,Rise of the Legend,,,,,,,,
+177,Winter's Tale,13,43,PG-13,"['Fantasy', 'Romance']",['AkivaGoldsman'],"['AkivaGoldsman', 'MarcPlatt', 'MichaelTadross', 'TonyAllard']","['Feb 14', '2014']",12.6M
+178,Wild Tales,94,92,R,"['Comedy', 'Drama']",['DamiánDavidSzifron'],"['HugoSigman', 'PedroAlmodóvar', 'AgustínAlmodóvar', 'EstherGarcía', 'MatíasMosteirín']","['Feb 20', '2015']",3.1M
+179,When the Game Stands Tall,20,72,PG,['Drama'],['ThomasCarter'],['DavidZelon'],"['Aug 22', '2014']",30.1M
+180,Draft Day,60,65,PG-13,['Drama'],['IvanReitman'],"['IvanReitman', 'AliBell', 'JoeMedjuck']","['Apr 11', '2014']",28.8M
+181,Big Eyes,72,68,PG-13,"['Drama', 'Biography']",['TimBurton'],"['TimBurton', 'LynetteHowellTaylor', 'ScottAlexander', 'LarryKaraszewski']","['Dec 25', '2014']",14.5M
+182,The Fatal Encounter,60,78,,"['Drama', 'Action']",['LeeJae-gyu'],['ChoiNak-kwon'],,
+183,Maya the Bee Movie,47,46,G,"['Adventure', 'Comedy', 'Kids&family', 'Animation']","['AlexsStadermann', 'SimonPickard']","['BarbaraStephen', 'ThorstenWegener']","['May 1', '2015']",
+184,Pokémon the Movie: Diancie and the Cocoon of Destruction,,57,,"['Kids&family', 'Anime', 'Adventure']",['KunihikoYuyama'],"['TakemotoMori', 'KenichiArai', ""Jun'yaOkamoto"", 'NobuyukiHosoya']",,
+185,The Divine Move,,57,,"['Drama', 'Action', 'Crime']",['JoBeomgu'],['SeoKang-ho'],,
+186,Nicholas on Holiday,,,,,,,,
+187,Grace of Monaco,9,25,,"['Drama', 'Biography']",['OlivierDahan'],"['Pierre-AngeLePogam', 'UdayChopra', 'ArashAmel']",,
+188,Left Behind,0,2,PG-13,"['Mystery&thriller', 'Sci-fi', 'Action']",['VicArmstrong'],"['PaulLalonde', 'EdClydesdale']","['Oct 3', '2014']",14.0M
+189,Joy of Fatherhood,,,,,,,,
+190,A Hard Day,83,77,,"['Action', 'Mystery&thriller']",['KimSeong-hun'],,"['Jul 17', '2015']",
+191,Top Five,86,64,R,['Comedy'],['ChrisRock'],"['ScottRudin', 'EliBush']","['Dec 12', '2014']",25.3M
+192,Iceman,83,65,,"['Drama', 'Adventure']",['FelixRandau'],['JanKrüger'],"['Mar 15', '2019']",2.1K
+193,Meet Miss Anxiety,,,,,,,,
+194,"Love, Rosie",32,63,R,"['Comedy', 'Romance']",['ChristianDitter'],"['SimonBrooks', 'DonCarmody', 'JamesFlynn', 'RobertKulzer']","['Feb 6', '2015']",14.9K
+195,A Haunted House 2,8,43,R,"['Horror', 'Comedy']",['MikeTiddes'],"['RickAlvarez', 'MarlonWayans']","['Apr 18', '2014']",17.3M
+196,And So It Goes,18,40,PG-13,"['Drama', 'Comedy', 'Romance']",['RobReiner'],"['RobReiner', 'AlanGreisman', 'MarkDamon']","['Jul 25', '2014']",15.2M
+197,Kung Fu Jungle,,,,,,,,
+198,Hot Road,,,,['Drama'],['TakahiroMiki'],,,
+199,Fading Gigolo,54,41,R,"['Drama', 'Romance', 'Comedy']",['JohnTurturro'],"['BillBlock', 'PaulHanson', 'JeffreyKusama-Hinte', 'JamesDebbs']","['Apr 18', '2014']",3.8M

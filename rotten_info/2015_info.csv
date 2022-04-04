@@ -1,0 +1,201 @@
+,Release Group,Score_Rotten,Score_Audience,Rating,Genre,Director,Producer,Release Date (Theaters),Box Office (Gross USA)
+0,Star Wars: Episode VII - The Force Awakens,93,85,PG-13,"['Adventure', 'Fantasy', 'Sci-fi', 'Action']",['J.J.Abrams'],"['KathleenKennedy', 'J.J.Abrams', 'BryanBurk']","['Dec 18', '2015']",123
+1,Jurassic World,71,78,PG-13,"['Mystery&thriller', 'Sci-fi', 'Action', 'Adventure']",['ColinTrevorrow'],"['FrankMarshall', 'PatrickCrowley']","['Jun 12', '2015']",652.6M
+2,Furious 7,82,82,PG-13,"['Adventure', 'Mystery&thriller', 'Action']",['JamesWan'],"['NealH.Moritz', 'VinDiesel', 'MichaelFottrell']","['Apr 3', '2015']",350.8M
+3,Avengers: Age of Ultron,76,83,PG-13,"['Fantasy', 'Adventure', 'Sci-fi', 'Action']",['JossWhedon'],['KevinFeige'],"['May 1', '2015']",459.0M
+4,Minions,55,49,PG,"['Kids&family', 'Animation', 'Comedy', 'Adventure']","['PierreCoffin', 'KyleBalda']","['ChristopherMeledandri', 'JanetHealy']","['Jul 10', '2015']",336.0M
+5,Spectre,63,61,PG-13,"['Mystery&thriller', 'Action', 'Adventure']",['SamMendes'],"['MichaelG.Wilson', 'BarbaraBroccoli']","['Nov 6', '2015']",200.1M
+6,Inside Out,,,,,,,,
+7,Mission: Impossible - Rogue Nation,94,87,PG-13,"['Adventure', 'Action', 'Mystery&thriller']",['ChristopherMcQuarrie'],"['TomCruise', 'J.J.Abrams', 'BryanBurk', 'DavidEllison', 'DanaGoldberg', 'DonGranger']","['Jul 31', '2015']",
+8,The Hunger Games: Mockingjay - Part 2,70,66,PG-13,"['Adventure', 'Sci-fi', 'Action']",['FrancisLawrence'],"['NinaJacobson', 'JonKilik']","['Nov 20', '2015']",281.7M
+9,The Martian,91,91,PG-13,"['Drama', 'Sci-fi', 'Adventure']",['RidleyScott'],"['SimonKinberg', 'RidleyScott', 'MichaelSchaefer', 'AdityaSood', 'MarkHuffam']","['Oct 2', '2015']",228.4M
+10,Fifty Shades of Grey,25,41,R,"['Drama', 'Romance']",['SamTaylor-Johnson'],"['MichaelDeLuca', 'E.L.James', 'DanaBrunetti']","['Feb 13', '2015']",166.1M
+11,Cinderella,84,78,PG,"['Kids&family', 'Fantasy', 'Romance']",['KennethBranagh'],"['SimonKinberg', 'AllisonShearmur', 'DavidBarron']","['Mar 13', '2015']",201.2M
+12,The Revenant,78,84,R,"['Western', 'Adventure']",,"['ArnonMilchan', 'SteveGolin', 'MaryParent', 'KeithRedmon', 'JamesW.Skotchdopole']","['Jan 8', '2016']",183.6M
+13,Ant-Man,83,85,PG-13,"['Fantasy', 'Comedy', 'Action', 'Adventure']",['PeytonReed'],['KevinFeige'],"['Jul 17', '2015']",180.2M
+14,Hotel Transylvania 2,55,63,PG,"['Kids&family', 'Fantasy', 'Comedy', 'Animation']",['GenndyTartakovsky'],['MichelleMurdocca'],"['Sep 25', '2015']",
+15,San Andreas,48,52,PG-13,"['Mystery&thriller', 'Action', 'Adventure']",['BradPeyton'],['BeauFlynn'],"['May 29', '2015']",155.2M
+16,Terminator Genisys,27,52,PG-13,"['Action', 'Sci-fi']",['AlanTaylor'],"['DavidEllison', 'DanaGoldberg']","['Jul 1', '2015']",89.8M
+17,Kingsman: The Secret Service,75,84,R,"['Comedy', 'Action', 'Adventure']",['MatthewVaughn'],"['MatthewVaughn', 'DavidReid', 'AdamBohling']","['Feb 13', '2015']",128.2M
+18,Monster Hunt,45,70,PG-13,"['Fantasy', 'Adventure', 'Action']",['PaulW.S.Anderson'],"['PaulW.S.Anderson', 'DennisBerardi', 'JeremyBolt', 'KenKamins', 'RobertKulzer', 'MartinMoszkowicz']","['Dec 18', '2020']",15.1M
+19,Home,52,64,PG,"['Comedy', 'Adventure', 'Animation', 'Sci-fi', 'Kids&family']",['TimJohnson'],"['MireilleSoria', 'SuzanneBuirgy', 'ChristopherJenkins']","['Mar 27', '2015']",177.3M
+20,Mad Max: Fury Road,97,86,R,"['Action', 'Adventure']",['GeorgeMiller'],"['DougMitchell', 'GeorgeMiller', 'P.J.Voeten']","['May 15', '2015']",153.6M
+21,The Good Dinosaur,76,64,PG,"['Kids&family', 'Animation', 'Comedy', 'Adventure']",['PeterSohn'],['DeniseReam'],"['Nov 25', '2015']",123.1M
+22,Taken 3,13,43,PG-13,"['Action', 'Mystery&thriller']",['OlivierMegaton'],['LucBesson'],"['Jan 9', '2015']",89.3M
+23,The SpongeBob Movie: Sponge Out of Water,81,54,PG,"['Kids&family', 'Comedy', 'Adventure']","['PaulTibbitt', 'MikeMitchell']","['PaulTibbitt', 'MaryParent']","['Feb 6', '2015']",163.4M
+24,Maze Runner: The Scorch Trials,48,54,PG-13,"['Adventure', 'Mystery&thriller', 'Sci-fi', 'Action']",['WesBall'],"['EllenGoldsmith-Vein', 'WyckGodfrey', 'MartyBowen', 'LeeStollman', 'JoeHartwickJr.']","['Sep 18', '2015']",81.7M
+25,The Divergent Series: Insurgent,,,,,,,,
+26,Pitch Perfect 2,65,64,PG-13,"['Musical', 'Comedy']",['ElizabethBanks'],"['PaulBrooks', 'MaxHandelman', 'ElizabethBanks']","['May 15', '2015']",183.7M
+27,Mojin: The Lost Legend,56,56,,"['Horror', 'Fantasy', 'Action', 'Adventure']",['Wuershan'],,"['Dec 18', '2015']",1.1M
+28,Lost in Hong Kong,60,49,,"['Comedy', 'Adventure']",['ZhengXu'],['ZhengXu'],"['Sep 25', '2015']",1.3M
+29,The Peanuts Movie,87,76,G,"['Kids&family', 'Comedy', 'Animation', 'Adventure']",['SteveMartino'],"['CraigSchulz', 'BryanSchulz', 'CorneliusUliano', 'PaulFeig', 'MichaelJ.Travers']","['Nov 6', '2015']",130.1M
+30,Pixels,18,46,PG-13,"['Fantasy', 'Sci-fi', 'Adventure', 'Comedy', 'Action']",['ChrisColumbus'],"['AllenCovert', 'MarkRadcliffe', 'ChrisColumbus', 'AdamSandler']","['Jul 24', '2015']",78.7M
+31,Daddy's Home,30,49,PG-13,['Comedy'],['SeanAnders'],"['WillFerrell', 'AdamMcKay', 'ChrisHenchy', 'JohnMorris']","['Dec 25', '2015']",150.3M
+32,Spy,95,78,R,"['Comedy', 'Action']",['PaulFeig'],"['PeterChernin', 'JennoTopping', 'PaulFeig', 'JessieHenderson']","['Jun 5', '2015']",
+33,Alvin and the Chipmunks: The Road Chip,15,51,PG,"['Kids&family', 'Comedy', 'Adventure']",['WaltBecker'],"['JaniceKarman', 'RossBagdasarianJr.']","['Dec 18', '2015']",85.9M
+34,Goodbye Mr. Loser,,80,,['Comedy'],"['Da-MoPeng', 'FeiYan']",,"['Oct 9', '2015']",1.3M
+35,Ted 2,44,50,R,"['Fantasy', 'Comedy']",['SethMacFarlane'],"['ScottStuber', 'SethMacFarlane', 'JasonClark', 'JohnJacobs']","['Jun 26', '2015']",81.3M
+36,Tomorrowland,50,49,PG,"['Mystery&thriller', 'Sci-fi', 'Adventure']",['BradBird'],"['DamonLindelof', 'BradBird', 'JeffreyChernov']","['May 22', '2015']",93.4M
+37,Everest,72,68,PG-13,"['Drama', 'Mystery&thriller', 'Adventure']",['BaltasarKormákur'],"['TimBevan', 'EricFellner', 'BaltasarKormákur', 'NickyKentishBarnes', 'BrianOliver', 'TylerThompson']","['Sep 25', '2015']",43.2M
+38,Straight Outta Compton,89,91,R,"['Drama', 'Biography', 'Music']",['F.GaryGray'],"['IceCube', 'TomicaWoods-Wright', 'MattAlvarez', 'F.GaryGray', 'ScottBernstein', 'Dr.Dre']","['Aug 14', '2015']",161.0M
+39,The Intern,59,73,PG-13,"['Comedy', 'Drama']",['NancyMeyers'],"['NancyMeyers', 'SuzanneFarwell']","['Sep 25', '2015']",75.6M
+40,Jian Bing Man,,55,,['Comedy'],['DaPeng'],,,300.0K
+41,Jupiter Ascending,28,38,PG-13,"['Action', 'Sci-fi', 'Adventure']","['LillyWachowski', 'LanaWachowski']","['GrantHill', 'LillyWachowski', 'LanaWachowski']","['Feb 6', '2015']",47.4M
+42,Creed,95,89,PG-13,['Drama'],['RyanCoogler'],"['IrwinWinkler', 'RobertChartoff', 'CharlesWinkler', 'WilliamChartoff', 'DavidWinkler', 'KevinKingTempleton', 'SylvesterStallone']","['Nov 25', '2015']",109.7M
+43,Fantastic Four,9,18,PG-13,"['Fantasy', 'Sci-fi', 'Action', 'Adventure']",['JoshTrank'],"['SimonKinberg', 'MatthewVaughn', 'HutchParker', 'RobertKulzer', 'GregoryGoodman']","['Aug 7', '2015']",56.0M
+44,Bridge of Spies,91,87,PG-13,"['Drama', 'History', 'Mystery&thriller']",['StevenSpielberg'],"['StevenSpielberg', 'MarcPlatt', 'KristieMacoskoKrieger']","['Oct 16', '2015']",72.3M
+45,From Vegas to Macau II,,,,,,,,
+46,Focus,,,,['Comedy'],['ChristopherYoung'],,,
+47,Goosebumps,78,62,PG,"['Fantasy', 'Adventure', 'Comedy']",['RobLetterman'],"['DeborahA.Forte', 'NealH.Moritz']","['Oct 16', '2015']",80.1M
+48,Ip Man 3,76,73,PG-13,"['Sports&fitness', 'Action']",['WilsonYip'],['RaymondPak-MingWong'],"['Jan 22', '2016']",2.5M
+49,The Hateful Eight,74,76,R,['Western'],['QuentinTarantino'],"['RichardN.Gladstein', 'StaceySher', 'ShannonMcIntosh']","['Dec 30', '2015']",54.1M
+50,Monkey King: Hero Is Back,,52,PG,"['Animation', 'Fantasy', 'Adventure']",['TianXiaoPeng'],"['WeiLu', 'HuiLiang', 'NingLin', 'YonganXu', 'FengYi']","['Jul 29', '2016']",
+51,Gods of Egypt,15,37,PG-13,"['Fantasy', 'Adventure', 'Action']",['AlexProyas'],"['BasilIwanyk', 'AlexProyas']","['Feb 26', '2016']",31.1M
+52,The Last Witch Hunter,18,43,PG-13,"['Fantasy', 'Action', 'Adventure']",['BreckEisner'],"['MarkCanton', 'VinDiesel', 'BernieGoldmann']","['Oct 23', '2015']",27.4M
+53,Trainwreck,84,66,R,"['Romance', 'Comedy']",['JuddApatow'],"['JuddApatow', 'BarryMendel']","['Jul 17', '2015']",
+54,Mr. Six,,,,,,,,
+55,Point Break,11,29,,,['EricsonCore'],,,
+56,The Big Short,89,88,R,"['Drama', 'Comedy']",['AdamMcKay'],"['BradPitt', 'DedeGardner', 'JeremyKleiner', 'ArnonMilchan']","['Dec 23', '2015']",70.2M
+57,Pan,27,40,PG,"['Action', 'Kids&family', 'Fantasy', 'Adventure']",['JoeWright'],"['GregBerlanti', 'SarahSchechter', 'PaulWebster']","['Oct 9', '2015']",35.1M
+58,Detective Chinatown,,73,,"['Comedy', 'Action', 'Mystery&thriller']",['SichengChen'],['ZhiXiChen'],"['Jan 15', '2016']",435.7K
+59,Wolf Totem,67,50,PG-13,"['Drama', 'Action', 'Adventure']",['Jean-JacquesAnnaud'],,"['Sep 11', '2015']",
+60,Ride Along 2,14,48,PG-13,"['Comedy', 'Action']",['TimStory'],"['WillPacker', 'IceCube', 'MattAlvarez', 'LarryBrezner']","['Jan 15', '2016']",90.8M
+61,Dragon Blade,,,,,,,,
+62,Magic Mike XXL,65,55,R,"['Comedy', 'Drama']",['GregoryJacobs'],"['NickWechsler', 'GregoryJacobs', 'ChanningTatum', 'ReidCarolin']","['Jul 1', '2015']",66.0M
+63,Insidious: Chapter 3,58,51,PG-13,"['Horror', 'Mystery&thriller']",['LeighWhannell'],"['JasonBlum', 'OrenPeli', 'JamesWan']","['Jun 5', '2015']",52.2M
+64,Get Hard,28,45,R,['Comedy'],['EtanCohen'],"['WillFerrell', 'AdamMcKay', 'ChrisHenchy']","['Mar 27', '2015']",90.4M
+65,The 5th Wave,16,38,PG-13,"['Adventure', 'Sci-fi', 'Mystery&thriller']",['JBlakeson'],"['TobeyMaguire', 'GrahamKing', 'MatthewPlouffe', 'LynnHarris']","['Jan 22', '2016']",34.9M
+66,Paul Blart: Mall Cop 2,6,33,PG,['Comedy'],['AndyFickman'],"['ToddGarner', 'KevinJames', 'AdamSandler', 'JackGiarraputo']","['Apr 17', '2015']",71.0M
+67,Vacation,27,45,R,"['Adventure', 'Comedy']","['JonathanM.Goldstein', 'JohnFrancisDaley']","['DavidDobkin', 'ChrisBender']","['Jul 29', '2015']",58.9M
+68,The Man from U.N.C.L.E.,68,73,PG-13,"['Comedy', 'Action', 'Adventure']",['GuyRitchie'],"['JohnDavis', 'LionelWigram', 'GuyRitchie', 'SteveClark-Hall']","['Aug 14', '2015']",45.4M
+69,Chronicles of the Ghostly Tribe,,,,,,,,
+70,Shaun the Sheep Movie,99,81,PG,"['Adventure', 'Kids&family', 'Comedy', 'Animation']","['MarkBurton', 'RichardStarzak']","['JulieLockhart', 'PaulKewley']","['Aug 5', '2015']",19.4M
+71,Sisters,,,,['Drama'],['YaminaBenguigui'],['PhilippeDupuis-Mendel'],"['Oct 29', '2021']",
+72,Chappie,32,56,R,"['Action', 'Sci-fi', 'Mystery&thriller']",['NeillBlomkamp'],"['NeillBlomkamp', 'SimonKinberg']","['Mar 6', '2015']",31.6M
+73,Joy,60,57,PG-13,"['Drama', 'Comedy']",['DavidO.Russell'],"['JohnDavis', 'KenMok', 'MeganEllison', 'JonathanGordon', 'DavidO.Russell']","['Dec 25', '2015']",56.4M
+74,Black Mass,73,68,R,"['Biography', 'Crime', 'Drama']",['ScottCooper'],"['JohnLesher', 'BrianOliver', 'ScottCooper', 'PatrickMcCormick', 'TylerThompson']","['Sep 18', '2015']",62.6M
+75,Spotlight,97,93,R,['Drama'],['TomMcCarthy'],"['MichaelSugar', 'SteveGolin', 'NicoleRocklin', 'BlyePagonFaust']","['Nov 20', '2015']",45.0M
+76,Devil and Angel,,,,,,,,
+77,The Visit,68,51,PG-13,"['Horror', 'Comedy', 'Mystery&thriller']",['M.NightShyamalan'],"['M.NightShyamalan', 'JasonBlum', 'MarcBienstock']","['Sep 11', '2015']",65.1M
+78,The Little Prince,93,84,PG,"['Fantasy', 'Animation', 'Adventure']",['MarkOsborne'],"['DimitriRassam', 'AtonSoumache', 'AlexisVonarb']","['Aug 5', '2016']",1.3M
+79,Assassination,83,84,,"['Adventure', 'History', 'Drama']",['ChoiDong-hoon'],['AhnSuhyeon'],"['Aug 7', '2015']",1.9M
+80,Poltergeist,30,22,PG-13,"['Horror', 'Mystery&thriller']",['GilKenan'],"['SamRaimi', 'RobTapert', 'RoyLee']","['May 22', '2015']",47.3M
+81,Veteran,90,78,,"['Crime', 'Comedy', 'Action', 'Drama']",['RyooSeung-wan'],,,1.0M
+82,In the Heart of the Sea,42,53,PG-13,"['Adventure', 'History', 'Drama', 'Action']",['RonHoward'],"['PaulaWeinstein', 'JoeRoth', 'WillWard', 'BrianGrazer', 'RonHoward']","['Dec 11', '2015']",23.1M
+83,Kill Zone 2,,,,,,,,
+84,Southpaw,60,75,R,['Drama'],['AntoineFuqua'],"['ToddBlack', 'JasonBlumenthal', 'AntoineFuqua', 'AlanRiche', 'PeterRiche', 'SteveTisch', 'JerryYe']","['Jul 24', '2015']",52.4M
+85,The Second Best Exotic Marigold Hotel,65,59,PG,"['Drama', 'Comedy']",['JohnMadden'],"['GrahamBroadbent', 'PeterCzernin']","['Mar 6', '2015']",33.0M
+86,Paper Towns,58,47,PG-13,"['Adventure', 'Comedy', 'Drama', 'Mystery&thriller']",['JakeSchreier'],"['WyckGodfrey', 'MartyBowen']","['Jul 24', '2015']",31.9M
+87,Sicario,92,85,R,"['Drama', 'Crime', 'Mystery&thriller']",['DenisVilleneuve'],"['BasilIwanyk', 'EdwardL.McDonnell', 'MollySmith', 'ThadLuckinbill', 'TrentLuckinbill']","['Oct 2', '2015']",46.9M
+88,Our Times,,79,,['Romance'],['YuShanChen'],['Ju-fengYeh'],,722.5K
+89,Suck Me Shakespeer 2,,,,,,,,
+90,Hitman: Agent 47,8,40,R,"['Action', 'Adventure']",['AleksanderBach'],"['CharlesGordon', 'AdrianAskarieh', 'AlexYoung', 'SkipWoods']","['Aug 21', '2015']",22.4M
+91,Wolf Warrior,,23,,"['War', 'Action']",['JingWu'],['LivJianmin'],,
+92,Go Away Mr. Tumor,,80,,['Comedy'],['HanYan'],,"['Aug 14', '2015']",284.4K
+93,The Wedding Ringer,29,63,R,['Comedy'],['JeremyGarelick'],"['AdamFields', 'WillPacker']","['Jan 16', '2015']",64.5M
+94,Paranormal Activity: The Ghost Dimension,14,27,R,"['Horror', 'Mystery&thriller']",['GregoryPlotkin'],"['JasonBlum', 'OrenPeli']","['Oct 23', '2015']",18.3M
+95,The Left Ear,,50,,['Drama'],['AlecSu'],,,
+96,Tiny Times 4.0,,,,,,,,
+97,Bajrangi Bhaijaan,88,86,,"['Drama', 'Comedy', 'Action', 'Adventure']",['KabirKhan'],"['AmarButala', 'KabirKhan', 'SalmanKhan', 'SunilLulla', 'RocklineVenkatesh']",,7.7M
+98,War Room,34,87,PG,['Drama'],['AlexKendrick'],['StephenKendrick'],"['Aug 28', '2015']",67.8M
+99,The Transporter Refueled,15,30,PG-13,"['Action', 'Mystery&thriller']",['CamilleDelamarre'],"['LucBesson', 'MarkGao']","['Sep 4', '2015']",16.0M
+100,Run All Night,59,56,R,"['Drama', 'Crime', 'Action', 'Mystery&thriller']",['JaumeCollet-Serra'],"['RoyLee', 'BrooklynWeaver', 'MichaelTadross']","['Mar 13', '2015']",26.5M
+101,13 Hours,,,,,,,,
+102,Running Man,,18,,"['Comedy', 'Adventure']",,,"['Jan 30', '2015']",278.5K
+103,A Violent Prosecutor,,71,,"['Drama', 'Crime']",['LeeIl-hyeong'],,,
+104,The Age of Adaline,55,67,PG-13,"['Drama', 'Fantasy', 'Romance']",['LeeTolandKrieger'],"['SidneyKimmel', 'TomRosenberg', 'GaryLucchesi']","['Apr 24', '2015']",42.6M
+105,Monk Comes Down the Mountain,,41,,"['Drama', 'History', 'Action']",['ChenKaige'],['ChenHong'],,
+106,Zhongkui: Snow Girl and the Dark Crystal,,,,,,,,
+107,The Danish Girl,66,72,R,"['Drama', 'History', 'Biography']",['TomHooper'],"['TomHooper', 'GailMutrux', 'AnneHarrison', 'TimBevan', 'EricFellner']","['Dec 25', '2015']",11.1M
+108,The Boy,75,85,R,"['Horror', 'Comedy']",['JoelSchumacher'],['HarveyBernhard'],"['Jul 31', '1987']",31.7M
+109,The Hundred Regiments Offensive,,,,,,,,
+110,The Longest Ride,31,71,PG-13,"['Romance', 'Drama']",['GeorgeTillmanJr.'],"['NicholasSparks', 'MartyBowen', 'WyckGodfrey', 'TheresaPark']","['Apr 10', '2015']",37.4M
+111,Unfriended,62,37,R,"['Horror', 'Mystery&thriller']",['LevanGabriadze'],"['TimurBekmambetov', 'NelsonGreaves']","['Apr 17', '2015']",32.4M
+112,Brooklyn,97,87,PG-13,"['Drama', 'History', 'Romance']",['JohnCrowley'],"['FinolaDwyer', 'AmandaPosey']","['Nov 25', '2015']",38.3M
+113,"Dragon Ball Z: Resurrection ""F""",83,84,,"['Fantasy', 'Anime', 'Adventure', 'Kids&family', 'Action']",['TadayoshiYamamuro'],,"['Aug 4', '2015']",7.9M
+114,Woman in Gold,57,79,PG-13,['Drama'],['SimonCurtis'],"['DavidM.Thompson', 'KrisThykier']","['Apr 10', '2015']",33.3M
+115,Krampus,67,51,PG-13,"['Fantasy', 'Comedy', 'Horror', 'Other']",['MichaelDougherty'],"['ThomasTull', 'JonJashni', 'MichaelDougherty', 'AlexGarcia']","['Dec 4', '2015']",42.7M
+116,The Perfect Guy,18,51,PG-13,['Mystery&thriller'],['DavidM.Rosenthal'],"['NicoleRocklin', 'WendyRhoads', 'DarrylTaja', 'TommyOliver']","['Sep 11', '2015']",57.0M
+117,Forever Young,,,,"['Romance', 'Comedy']",['FaustoBrizzi'],,,
+118,Miss Granny,,,,"['Fantasy', 'Comedy']",['JoyceBernal'],"['NeilArce', 'VicenteG.delRosarioIII', 'VeroniqueDelRosario-Corpus']",,
+119,The Gift,91,75,R,['Mystery&thriller'],['JoelEdgerton'],"['JasonBlum', 'RebeccaYeldham', 'JoelEdgerton']","['Aug 7', '2015']",43.8M
+120,You Are My Sunshine,,,,,,,,
+121,No Escape,48,62,R,"['Action', 'Mystery&thriller']",['JohnErickDowdle'],"['DrewDowdle', 'MichelLitvak', 'DavidLancaster']","['Aug 26', '2015']",27.3M
+122,Sinister 2,15,31,R,"['Horror', 'Mystery&thriller']",['CiaránFoy'],"['JasonBlum', 'ScottDerrickson']","['Aug 21', '2015']",27.7M
+123,Detective Conan: Sunflowers of Inferno,,,,,,,,
+124,Prem Ratan Dhan Payo,45,47,,['Romance'],['SoorajR.Barjatya'],"['KamalKumarBarjatya', 'RajkumarBarjatya', 'AjitKumarBarjatya']","['Nov 12', '2015']",4.3M
+125,The Boy Next Door,12,33,R,['Mystery&thriller'],['RobCohen'],"['JasonBlum', 'JohnJacobs', 'ElaineGoldsmith-Thomas', 'BennyMedina', 'JenniferLopez']","['Jan 23', '2015']",35.4M
+126,The Night Before,,,,,,,,
+127,Hollywood Adventures,,21,,"['Comedy', 'Action', 'Adventure']",['TimothyKendall'],"['AnneClements', 'TroyCraigPoon', 'JustinLin', 'JohnPierson']",,
+128,"Yo-kai Watch Movie: It's the Secret of Birth, Meow!",,,,,,,,
+129,Hot Pursuit,8,35,PG-13,"['Comedy', 'Action']",['AnneFletcher'],"['BrunaPapandrea', 'ReeseWitherspoon', 'DanaFox']","['May 8', '2015']",34.6M
+130,The Himalayas,43,56,,['Drama'],['LeeSeok-hoon'],,,696.7K
+131,The Boy and the Beast,88,88,PG-13,"['Animation', 'Fantasy', 'Action', 'Adventure']",['MamoruHosoda'],"['AtsushiChiba', 'TakuyaItô', 'GenkiKawamura', 'YuichiroSato', 'DaisukeKadoya']",,446.1K
+132,Surprise,,,,['Drama'],['LeslieBumgarner'],['GabrielaGonzalez'],,
+133,Entourage,33,57,R,['Comedy'],['DougEllin'],"['MarkWahlberg', 'StephenLevinson', 'DougEllin']","['Jun 3', '2015']",32.4M
+134,The Woman in Black 2: Angel of Death,23,24,PG-13,"['Horror', 'Mystery&thriller']",['TomHarper'],"['RichardJackson', 'SimonOakes', 'BenHolden', 'TobinArmbrust']","['Jan 2', '2015']",26.5M
+135,Concussion,58,74,PG-13,"['Drama', 'Biography']",['PeterLandesman'],"['RidleyScott', 'GianninaFacio', 'DavidWolthoff', 'LarryShuman', 'ElizabethCantillon']","['Dec 25', '2015']",33.8M
+136,Inside Men,,,,['Documentary'],"['JeanRobertViallet', 'AliceOdiot']",['BrunoNahon'],,
+137,The Dead End,75,59,R,"['Horror', 'Mystery&thriller']","['Jean-BaptisteAndrea', 'FabriceCanepa']","['JamesHuth', 'GabriellaStollenwerck']",,
+138,Boonie Bears Winter,,,,,,,,
+139,Mortdecai,12,30,R,"['Comedy', 'Action', 'Adventure']",['DavidKoepp'],"['AndrewLazar', 'JohnnyDepp', 'PatrickMcCormick']","['Jan 23', '2015']",7.7M
+140,Let's Get Married,,62,,"['Comedy', 'Romance']",,,,
+141,Somewhere Only We Know,,53,,"['Drama', 'Romance']",['JingleiXu'],,"['Feb 13', '2015']",477.5K
+142,"McFarland, USA",80,88,PG,"['Drama', 'Biography']",['NikiCaro'],"['GordonGray', 'MarkCiardi']","['Feb 20', '2015']",44.5M
+143,Hero,67,50,PG-13,"['Drama', 'Comedy']",['StephenFrears'],['LauraZiskin'],"['Oct 2', '1992']",18.2M
+144,Still Alice,85,85,PG-13,['Drama'],"['RichardGlatzer', 'WashWestmoreland']","['LexLutzus', 'JamesBrown', 'PamelaKoffler']","['Jan 16', '2015']",18.8M
+145,Max,38,70,PG,"['Adventure', 'Drama']",['BoazYakin'],"['KarenRosenfelt', 'KenBlancato']","['Jun 26', '2015']",42.7M
+146,The DUFF,73,66,PG-13,"['Comedy', 'Romance']",['AriSandel'],"['McG', 'MaryViola', 'SusanCartsonis']","['Feb 20', '2015']",34.0M
+147,Legend,68,68,PG-13,"['Horror', 'Drama', 'Sci-fi']",['FrancisLawrence'],"['AkivaGoldsman', 'JamesLassiter', 'DavidHeyman', 'NeilMoritz']","['Dec 14', '2007']",256.4M
+148,The Gallows,14,22,R,"['Horror', 'Mystery&thriller']","['ChrisLofing', 'TravisCluff']","['JasonBlum', 'GuymonCasady', 'DeanSchnider', 'BenjaminForkner', 'ChrisLofing', 'TravisCluff']","['Jul 10', '2015']",22.8M
+149,Love the Coopers,18,36,PG-13,"['Drama', 'Other', 'Comedy']",['JessieNelson'],"['MichaelLondon', 'JessieNelson', 'JaniceWilliams']","['Nov 13', '2015']",26.3M
+150,The Throne,,77,,['Drama'],['LeeJoon-ik'],,,
+151,The Lady in the Van,89,64,PG-13,"['Drama', 'Biography', 'Comedy']",['NicholasHytner'],"['NicholasHytner', 'DamianJones', 'KevinLoader']","['Feb 19', '2016']",10.0M
+152,Ricki and the Flash,65,43,PG-13,"['Drama', 'Comedy']",['JonathanDemme'],"['MarcPlatt', 'GaryGoetzman', 'DiabloCody', 'MasonNovick']","['Aug 7', '2015']",26.8M
+153,Spanish Affair 2,,,,,,,,
+154,Carol,94,74,R,"['Lgbtq+', 'Romance', 'Drama']",['ToddHaynes'],"['ElizabethKarlsen', 'StephenWoolley', 'ChristineVachon']","['Jan 8', '2016']",12.7M
+155,Northern Limit Line,,71,,"['Drama', 'History', 'War']",['KimHak-sun'],"['KimHak-sun', 'JeongMun-gu']","['Jul 17', '2015']",249.9K
+156,Ex-Files 2: The Backup Strikes Back,,83,,"['Comedy', 'Romance']",['TianYuSheng'],,,105.0K
+157,Criminal,30,47,R,"['Action', 'Mystery&thriller']",['ArielVromen'],"['J.C.Spink', 'JakeWeiner', ""MatthewO'Toole"", 'MarkGill', 'ChristaCampbell']","['Apr 15', '2016']",14.7M
+158,Boruto: Naruto The Movie,,93,,"['Comedy', 'Anime', 'Action', 'Adventure']",['HiroyukiYamashita'],,,
+159,The Lazarus Effect,16,23,PG-13,"['Horror', 'Mystery&thriller']",['DavidGelb'],"['JasonBlum', 'JimmyMiller', 'CodyZwieg']","['Feb 27', '2015']",25.8M
+160,Helios,,,,,,,,
+161,A Walk in the Woods,47,48,R,"['Adventure', 'Comedy']",['KenKwapis'],"['RobertRedford', 'BillHolderman', 'ChipDiggins']","['Sep 2', '2015']",29.5M
+162,Ex Machina,92,86,R,"['Drama', 'Sci-fi', 'Mystery&thriller']",['AlexGarland'],"['AndrewMacdonald', 'AllonReich']","['Apr 24', '2015']",25.4M
+163,Burnt,28,44,R,['Drama'],['JohnWells'],"['StaceySher', 'ErwinStoff', 'JohnWells']","['Oct 30', '2015']",13.7M
+164,The Priests,,54,PG,"['Drama', 'Comedy']",['DinoRisi'],"['PioAngeletti', 'AdrianoDeMicheli']",,
+165,The New Adventures of Aladdin,,21,,,['LionelSteketee'],,,
+166,Heidi,100,81,,"['Drama', 'Kids&family', 'Adventure']",['AlainGsponer'],"['LukasHobi', 'UlrikePutz', 'JakobClaussen', 'RetoSchärli']",,
+167,Room,93,93,R,['Drama'],['LennyAbrahamson'],"['EdGuiney', 'DavidGross']","['Jan 22', '2016']",14.7M
+168,Lost and Love,50,49,,['Drama'],['SanyuanPeng'],['DajunZhang'],"['Mar 20', '2015']",187.0K
+169,Secret in Their Eyes,39,41,PG-13,['Mystery&thriller'],['BillyRay'],"['MarkJohnson', 'MattJackson']","['Nov 20', '2015']",20.2M
+170,"Dad, Where Are We Going 2",,,,,,,,
+171,Doraemon: Nobita and the Space Heroes,,,,,,,,
+172,Steve Jobs,85,73,R,"['Biography', 'Drama']",['DannyBoyle'],"['MarkGordon', 'GuymonCasady', 'ScottRudin', 'DannyBoyle', 'ChristianColson']","['Oct 23', '2015']",17.8M
+173,Victor Frankenstein,26,35,PG-13,"['Horror', 'Drama', 'Sci-fi', 'Mystery&thriller']",['PaulMcGuigan'],['JohnDavis'],"['Nov 10', '2015']",5.7M
+174,The Witness,90,77,,['Documentary'],['JamesD.Solomon'],['JamesD.Solomon'],"['Jun 3', '2016']",159.0K
+175,Project Almanac,37,45,PG-13,"['Sci-fi', 'Mystery&thriller']",['DeanIsraelite'],"['MichaelBay', 'AndrewForm', 'BradFuller']","['Jan 30', '2015']",22.3M
+176,Dilwale,20,46,,"['Romance', 'Drama']",['RohitShetty'],['GauriKhan'],"['Dec 18', '2015']",4.8M
+177,Suffragette,73,68,PG-13,"['Drama', 'History', 'Biography']",['SarahGavron'],"['AlisonOwen', 'FayeWard']","['Nov 13', '2015']",4.7M
+178,Self/less,,,R,['Mystery&thriller'],['JacobPander'],"['ArnoldPander', 'JohnPearson-Denning']",,
+179,Saving Mr. Wu,100,67,,"['Drama', 'Mystery&thriller', 'Crime']",['ShengDing'],,"['Oct 2', '2015']",92.7K
+180,Attack on Titan Part 1,47,34,,"['Fantasy', 'Action', 'Adventure']",['ShinjiHiguchi'],"['YujiIshida', 'GenkiKawamura']",,
+181,A Man Called Ove,,,,,,,,
+182,Far from the Madding Crowd,43,,,"['Drama', 'Romance']",['LaurenceTrimble'],['LaurenceTrimble'],,
+183,Mr. Holmes,88,70,PG,"['Drama', 'Mystery&thriller']",['BillCondon'],"['AnneCarey', 'IainCanning', 'EmileSherman']","['Jul 24', '2015']",17.7M
+184,Love & Mercy,89,85,PG-13,"['Drama', 'Biography']",['BillPohlad'],"['BillPohlad', 'ClaireRudnickPolstein', 'JohnWells']","['Jun 5', '2015']",12.5M
+185,Flying Colors,,,,,,,,
+186,Triumph in the Skies,,21,,['Drama'],"['MattChow', 'WilsonYip']","['TommyGa-shuLeung', 'JacksonPat']",,
+187,The 33,48,59,PG-13,['Drama'],['PatriciaRiggen'],"['MikeMedavoy', 'EdwardMcGurn', 'RobertKatz']","['Nov 13', '2015']",12.0M
+188,Bride Wars,11,51,PG,['Comedy'],['GaryWinick'],"['JulieYorn', 'KateHudson', 'AlanRiche']","['Jan 9', '2009']",58.7M
+189,Irrational Man,46,46,R,['Comedy'],['WoodyAllen'],"['LettyAronson', 'StephenTenenbaum', 'EdwardWalson']","['Jul 17', '2015']",4.0M
+190,Detective K: Secret of the Lost Island,,,,,,,,
+191,To the Fore,,56,,['Drama'],['DanteLam'],"['Nga-BokLei', 'CandyLeung']","['Aug 7', '2015']",
+192,American Ultra,44,45,R,"['Comedy', 'Action']",['NimaNourizadeh'],"['AnthonyBregman', 'KevinScottFrakes', 'RajBrinderSingh', 'DavidAlpert', 'BrittonRizzio']","['Aug 21', '2015']",14.4M
+193,Orange,,,,,,,,
+194,Aloha,20,28,PG-13,"['Romance', 'Comedy']",['CameronCrowe'],"['ScottRudin', 'CameronCrowe']","['May 29', '2015']",
+195,Huevos: Little Rooster's Egg-cellent Adventure,,56,PG,"['Kids&family', 'Animation', 'Comedy', 'Adventure']","['GabrielRivaPalacioAlatriste', 'RodolfoRivaPalacioAlatriste']","['IgnacioMartínezCasares', 'GabrielRivaPalacioAlatriste', 'RodolfoRivaPalacioAlatriste']",,
+196,Dügün Dernek 2: Sünnet,,,,,,,,
+197,Look Who's Back,,80,,['Comedy'],['DavidWnendt'],"['LarsDittrich', 'ChristophMüller']",,
+198,Serial Teachers 2,,,,,,,,
+199,Wild City,50,35,,"['Action', 'Mystery&thriller']",['RingoLam'],"['RingoLam', 'JingChrisLiu']","['Jul 31', '2015']",
