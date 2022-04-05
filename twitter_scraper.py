@@ -1,4 +1,5 @@
 from calendar import month
+from operator import index
 import snscrape.modules.twitter as sntwitter
 import pandas as pd
 import glob
@@ -60,11 +61,11 @@ for file in files:
             for i,tweet in enumerate(sntwitter.TwitterSearchScraper(query_txt).get_items()):
                 if i>5000:
                     break
-                tweets.append([movie, tweet.date, tweet.id, tweet.content, tweet.user.username])
+                tweets.append([movie['Release Group'], tweet.date, tweet.id, tweet.content, tweet.user.username])
 
-    tweets_df = pd.DataFrame(tweets, columns=['Movie Name', 'Datetime', 'Tweet Id', 'Text', 'Username'], index=False)
-    tweets_df.to_csv("Twitter/tweets_%s" % file.split('\\')[1])
-    # break
+    tweets_df = pd.DataFrame(tweets, columns=['Movie Name', 'Datetime', 'Tweet Id', 'Text', 'Username'])
+    tweets_df.to_csv("Twitter/tweets_%s" % file.split('\\')[1], index=False)
+    break
 # print("Box Office ", c, count)
 
 # folderpath = "rotten_info/*"
