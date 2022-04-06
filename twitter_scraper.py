@@ -64,7 +64,7 @@ for file in files:
                 tweets.append([movie['Release Group'], tweet.date, tweet.id, tweet.content, tweet.user.username])
 
     tweets_df = pd.DataFrame(tweets, columns=['Movie Name', 'Datetime', 'Tweet Id', 'Text', 'Username'])
-    tweets_df.to_csv("Twitter/tweets_%s" % file.split('\\')[1], index=False, escapechar=r',')
+    tweets_df.to_csv("Twitter/tweets_%s" % file.split('\\')[1], index=False, escapechar=r'|')
     break
 # print("Box Office ", c, count)
 
