@@ -1,0 +1,201 @@
+movie,tmdbid,imdbid,actor1,actor1_popularity,actor2,actor2_popularity,actor3,actor3_popularity,actor4,actor4_popularity,actor5,actor5_popularity
+Star Wars: Episode VII - The Force Awakens,140607,tt2488496,Harrison Ford,17.858,Mark Hamill,19.041,Carrie Fisher,9.03,Adam Driver,18.735,Daisy Ridley,20.045
+Jurassic World,135397,tt0369610,Chris Pratt,27.826,Bryce Dallas Howard,24.741,Ty Simpkins,16.558,Nick Robinson,16.14,Vincent D'Onofrio,25.932
+Furious 7,168259,tt2820852,Vin Diesel,29.696,Paul Walker,20.93,Dwayne Johnson,29.99,Michelle Rodriguez,23.481,Tyrese Gibson,8.218
+Avengers: Age of Ultron,99861,tt2395427,Robert Downey Jr.,38.361,Chris Hemsworth,36.221,Mark Ruffalo,9.185,Chris Evans,15.319,Scarlett Johansson,38.188
+Minions,211672,tt2293640,Sandra Bullock,32.612,Jon Hamm,16.214,Michael Keaton,17.975,Allison Janney,8.247,Steve Coogan,8.401
+Spectre,206647,tt2379713,Daniel Craig,18.56,Christoph Waltz,18.156,Léa Seydoux,24.524,Ralph Fiennes,32.618,Naomie Harris,15.392
+Inside Out,150540,tt2096673,Amy Poehler,8.768,Phyllis Smith,11.695,Bill Hader,16.702,Kaitlyn Dias,5.892,Richard Kind,11.545
+Mission: Impossible - Rogue Nation,177677,tt2381249,Tom Cruise,34.075,Jeremy Renner,47.118,Simon Pegg,15.527,Rebecca Ferguson,48.521,Ving Rhames,12.542
+The Hunger Games: Mockingjay - Part 2,131634,tt1951266,Jennifer Lawrence,26.491,Josh Hutcherson,9.872,Liam Hemsworth,10.599,Woody Harrelson,19.341,Elizabeth Banks,14.855
+The Martian,286217,tt3659388,Matt Damon,23.323,Jessica Chastain,17.001,Kristen Wiig,16.468,Jeff Daniels,12.197,Michael Peña,22.593
+Fifty Shades of Grey,216015,tt2322441,Dakota Johnson,13.949,Jamie Dornan,12.431,Jennifer Ehle,16.44,Eloise Mumford,12.652,Victor Rasuk,7.266
+Cinderella,11224,tt0042332,Ilene Woods,5.431,Eleanor Audley,5.452,Verna Felton,4.662,Claire Du Brey,2.285,Rhoda Williams,3.937
+The Revenant,281957,tt1663202,Leonardo DiCaprio,24.953,Tom Hardy,59.898,Domhnall Gleeson,17.251,Will Poulter,28.358,Forrest Goodluck,6.45
+Ant-Man,102899,tt0478970,Paul Rudd,34.179,Michael Douglas,9.193,Evangeline Lilly,22.94,Bobby Cannavale,12.744,Corey Stoll,14.996
+Hotel Transylvania 2,159824,tt2510894,Adam Sandler,14.625,Andy Samberg,40.034,Selena Gomez,16.258,Kevin James,18.227,Steve Buscemi,24.572
+San Andreas,254128,tt2126355,Dwayne Johnson,29.99,Alexandra Daddario,42.013,Carla Gugino,32.469,Ioan Gruffudd,18.035,Archie Panjabi,12.746
+Terminator Genisys,87101,tt1340138,Arnold Schwarzenegger,30.027,Jason Clarke,23.125,Emilia Clarke,17.338,Jai Courtney,10.934,J.K. Simmons,17.78
+Kingsman: The Secret Service,207703,tt2802144,Taron Egerton,16.392,Colin Firth,13.147,Mark Strong,25.911,Samuel L. Jackson,56.705,Sophie Cookson,17.032
+Monster Hunt,458576,tt6475714,Milla Jovovich,16.232,Tony Jaa,13.728,Ron Perlman,19.305,T.I.,6.628,Diego Boneta,11.424
+Home,634649,tt10872600,Tom Holland,128.32,Zendaya,47.236,Benedict Cumberbatch,39.658,Jacob Batalon,23.293,Jon Favreau,13.562
+Mad Max: Fury Road,76341,tt1392190,Tom Hardy,59.898,Charlize Theron,40.523,Nicholas Hoult,25.64,Hugh Keays-Byrne,4.0,Josh Helman,11.785
+The Good Dinosaur,105864,tt1979388,Frances McDormand,16.265,Raymond Ochoa,3.328,Jeffrey Wright,26.649,Steve Zahn,28.971,Sam Elliott,17.503
+Taken 3,260346,tt2446042,Liam Neeson,33.989,Forest Whitaker,11.654,Famke Janssen,25.542,Maggie Grace,22.642,Dougray Scott,12.676
+The SpongeBob Movie: Sponge Out of Water,228165,tt2279373,Tom Kenny,9.65,Bill Fagerbakke,10.333,Rodger Bumpass,8.167,Clancy Brown,29.504,Carolyn Lawrence,6.689
+Maze Runner: The Scorch Trials,294254,tt4046784,Dylan O'Brien,14.5,Ki Hong Lee,14.637,Kaya Scodelario,44.822,Thomas Brodie-Sangster,21.827,Dexter Darden,3.252
+The Divergent Series: Insurgent,262500,tt2908446,Shailene Woodley,25.831,Theo James,20.465,Octavia Spencer,10.21,Jai Courtney,10.934,Ray Stevenson,6.964
+Pitch Perfect 2,254470,tt2848292,Anna Kendrick,18.19,Brittany Snow,19.663,Rebel Wilson,10.1,Hailee Steinfeld,55.775,Skylar Astin,9.985
+Mojin: The Lost Legend,299824,tt4276752,Chen Kun,8.38,Huang Bo,13.595,Shu Qi,15.112,AngelaBaby,14.419,Xia Yu,3.416
+Lost in Hong Kong,361613,tt4242158,Xu Zheng,4.063,Zhao Wei,7.423,Bao Bei Er,7.902,Du Juan,2.266,Eric Kot Man-Fai,3.514
+The Peanuts Movie,227973,tt2452042,Noah Schnapp,12.615,Bill Melendez,2.499,Marleik 'Mar Mar' Walker,0.996,Alex Garfin,6.028,Hadley Belle Miller,1.4
+Pixels,257344,tt2120120,Adam Sandler,14.625,Kevin James,18.227,Michelle Monaghan,23.375,Peter Dinklage,14.994,Josh Gad,11.913
+Daddy's Home,274167,tt1528854,Will Ferrell,13.839,Mark Wahlberg,49.465,Linda Cardellini,17.794,Thomas Haden Church,11.267,Scarlett Estevez,17.808
+Spy,238713,tt3079380,Melissa McCarthy,16.592,Jason Statham,69.651,Rose Byrne,23.36,Jude Law,24.842,Miranda Hart,6.801
+Alvin and the Chipmunks: The Road Chip,258509,tt2974918,Jason Lee,14.74,Justin Long,18.509,Bella Thorne,13.724,Matthew Gray Gubler,14.777,Jesse McCartney,9.311
+Goodbye Mr. Loser,362682,tt5061814,Allen Ai Lun,5.557,Ma Li,1.565,Shen Teng,10.846,Yin Zheng,6.387,Chang Yuan,1.849
+Ted 2,214756,tt2637276,Mark Wahlberg,49.465,Seth MacFarlane,9.493,Amanda Seyfried,37.184,Morgan Freeman,23.816,Jessica Barth,11.396
+Tomorrowland,158852,tt1964418,George Clooney,20.782,Hugh Laurie,13.418,Britt Robertson,23.536,Raffey Cassidy,17.097,Tim McGraw,11.318
+Everest,253412,tt2719848,Jason Clarke,23.125,Josh Brolin,39.186,Jake Gyllenhaal,21.848,John Hawkes,4.738,Sam Worthington,21.962
+Straight Outta Compton,277216,tt1398426,O'Shea Jackson Jr.,3.87,Corey Hawkins,6.796,Jason Mitchell,6.259,Neil Brown Jr.,10.805,Aldis Hodge,10.583
+The Intern,257211,tt2361509,Robert De Niro,28.296,Anne Hathaway,36.931,Rene Russo,14.105,Anders Holm,7.627,JoJo Kushner,2.564
+Jian Bing Man,348595,tt4818250,Dong Chengpeng,8.089,Yuan Shanshan,2.557,Liu Yan,10.959,Sandra Ng Kwun-Yu,4.617,Eric Tsang,9.064
+Jupiter Ascending,76757,tt1617661,Channing Tatum,22.942,Mila Kunis,20.107,Sean Bean,24.223,Eddie Redmayne,33.428,Douglas Booth,15.673
+Creed,312221,tt3076658,Michael B. Jordan,17.315,Sylvester Stallone,32.593,Tessa Thompson,9.288,Phylicia Rashād,6.543,Andre Ward,1.96
+Fantastic Four,166424,tt1502712,Miles Teller,12.138,Michael B. Jordan,17.315,Kate Mara,18.864,Jamie Bell,19.222,Toby Kebbell,12.326
+Bridge of Spies,296098,tt3682448,Tom Hanks,27.299,Mark Rylance,24.088,Amy Ryan,12.139,Alan Alda,5.956,Sebastian Koch,5.482
+From Vegas to Macau II,329984,tt4310772,Chow Yun-Fat,13.342,Shawn Yue,6.16,Carina Lau,12.2,Nick Cheung,6.488,David Chiang,11.376
+Focus,256591,tt2381941,Will Smith,33.966,Margot Robbie,29.861,Rodrigo Santoro,21.957,Gerald McRaney,12.632,Adrian Martinez,6.818
+Goosebumps,257445,tt1051904,Jack Black,23.771,Dylan Minnette,19.996,Odeya Rush,18.647,Amy Ryan,12.139,Ryan Lee,7.979
+Ip Man 3,365222,tt2888046,Donnie Yen,16.207,Lynn Hung,1.905,Zhang Jin,10.693,Patrick Tam,2.793,Karena Ng,7.753
+The Hateful Eight,273248,tt3460252,Samuel L. Jackson,56.705,Kurt Russell,18.08,Jennifer Jason Leigh,22.271,Walton Goggins,15.255,Demián Bichir,6.129
+Monkey King: Hero Is Back,351694,tt4644382,Zhang Lei,0.6,Lin Zijie,0.6,Tong Zirong,0.895,Liu Beichen,2.593,Zhou Shuai,0.672
+Gods of Egypt,205584,tt2404233,Nikolaj Coster-Waldau,21.517,Brenton Thwaites,15.373,Gerard Butler,18.085,Chadwick Boseman,13.943,Élodie Yung,20.156
+The Last Witch Hunter,274854,tt1618442,Vin Diesel,29.696,Rose Leslie,17.039,Elijah Wood,14.181,Ólafur Darri Ólafsson,6.688,Rena Owen,5.062
+Trainwreck,271718,tt3152624,Amy Schumer,4.455,Bill Hader,16.702,Brie Larson,26.14,Colin Quinn,5.426,John Cena,15.948
+Mr. Six,357940,tt4701702,Feng Xiaogang,3.077,Zhang Hanyu,8.378,Xu Qing,8.666,Kris Wu,11.815,Li Yifeng,3.414
+Point Break,257088,tt2058673,Edgar Ramírez,6.615,Luke Bracey,18.742,Teresa Palmer,17.413,Ray Winstone,9.559,Max Thieriot,11.918
+The Big Short,318846,tt1596363,Christian Bale,26.638,Steve Carell,18.584,Ryan Gosling,12.098,Brad Pitt,26.942,Melissa Leo,8.257
+Pan,10693,tt0046183,Bobby Driscoll,2.357,Kathryn Beaumont,3.164,Hans Conried,4.111,Bill Thompson,4.419,Heather Angel,2.344
+Detective Chinatown,373200,tt5290882,Baoqiang Wang,6.389,Liu Haoran,8.529,Tong Liya,7.164,Chen He,7.261,Xiao Shenyang,2.725
+Wolf Totem,417613,tt5562074,,,,,,,,,,
+Ride Along 2,323675,tt2869728,Kevin Hart,13.481,Ice Cube,15.963,Olivia Munn,14.805,Tika Sumpter,8.203,Ken Jeong,12.382
+Dragon Blade,946370,tt10467288,Xiang Yuxing,0.6,,,,,,,,
+Magic Mike XXL,264999,tt2268016,Channing Tatum,22.942,Matt Bomer,11.562,Joe Manganiello,12.123,Kevin Nash,10.815,Adam Rodríguez,15.233
+Insidious: Chapter 3,280092,tt3195644,Stefanie Scott,10.332,Lin Shaye,13.745,Dermot Mulroney,22.46,Leigh Whannell,8.22,Angus Sampson,18.463
+Get Hard,257091,tt2561572,Will Ferrell,13.839,Kevin Hart,14.271,Alison Brie,26.876,Craig T. Nelson,11.53,T.I.,6.628
+The 5th Wave,299687,tt2304933,Chloë Grace Moretz,56.69,Nick Robinson,16.14,Ron Livingston,18.183,Maggie Siff,18.136,Alex Roe,15.553
+Paul Blart: Mall Cop 2,256961,tt3450650,Kevin James,18.227,Daniella Alonso,10.637,Neal McDonough,25.17,David Henrie,6.696,Eduardo Verástegui,8.321
+Vacation,653349,tt3626476,John Cena,15.948,Lil Rel Howery,8.914,Meredith Hagner,8.372,Yvonne Orji,3.318,Robert Wisdom,9.421
+The Man from U.N.C.L.E.,203801,tt1638355,Henry Cavill,46.737,Armie Hammer,23.554,Alicia Vikander,17.078,Elizabeth Debicki,15.707,Luca Calvani,2.648
+Chronicles of the Ghostly Tribe,364324,tt4819498,Yao Chen,4.785,Mark Chao,8.873,Rhydian Vaughan,11.134,Jerry Lee,1.725,Tang Yan,11.231
+Shaun the Sheep Movie,263109,tt2872750,Justin Fletcher,2.938,Omid Djalili,6.655,Richard Webber,0.611,Kate Harbour,2.363,Tim Hands,0.6
+Sisters,266294,tt1850457,Amy Poehler,8.768,Tina Fey,7.139,Maya Rudolph,11.778,Dianne Wiest,11.509,John Leguizamo,11.213
+Chappie,198184,tt1823672,Sharlto Copley,11.098,Dev Patel,9.853,Hugh Jackman,23.696,Ninja,2.79,Yolandi Visser,11.993
+Joy,10866,tt0206314,Paul Walker,23.079,Steve Zahn,34.291,Leelee Sobieski,25.113,Michael McCleery,1.22,Dell Yount,2.618
+Black Mass,261023,tt1355683,Johnny Depp,50.461,Joel Edgerton,9.409,Julianne Nicholson,11.825,Dakota Johnson,13.949,Kevin Bacon,9.167
+Spotlight,314365,tt1895587,Mark Ruffalo,9.185,Michael Keaton,17.975,Rachel McAdams,23.696,Liev Schreiber,11.287,John Slattery,11.025
+Devil and Angel,601852,tt0202852,Michael Rosenbaum,15.891,Sylvia Kelegian,0.6,Sean Patrick Reilly,1.4,Tina Wiseman,0.624,Brendan Sexton III,10.62
+The Visit,298312,tt3567288,Olivia DeJonge,8.456,Ed Oxenbould,14.167,Deanna Dunagan,1.193,Peter McRobbie,6.805,Kathryn Hahn,18.867
+The Little Prince,309809,tt1754656,Jeff Bridges,17.346,Mackenzie Foy,11.474,Rachel McAdams,23.696,Marion Cotillard,18.028,Riley Osborne,3.47
+Assassination,71677,tt1436568,Jean-Claude Van Damme,32.21,Scott Adkins,15.83,Ivan Kaye,4.76,Kevin Chapman,7.42,Marija Karan,2.548
+Poltergeist,243688,tt1029360,Sam Rockwell,13.281,Rosemarie DeWitt,12.507,Saxon Sharbino,7.298,Kyle Catlett,3.461,Kennedi Clements,5.574
+Veteran,70196,tt1653700,Toby Kebbell,12.326,Adi Bielski,0.6,Brian Cox,9.913,Tony Curran,11.689,Ashley Thomas,3.894
+In the Heart of the Sea,205775,tt1390411,Chris Hemsworth,36.221,Benjamin Walker,13.001,Cillian Murphy,59.74,Brendan Gleeson,28.448,Ben Whishaw,16.436
+Kill Zone 2,13127,tt0478024,Donnie Yen,16.207,Sammo Hung,17.837,Simon Yam,12.039,Wu Jing,19.876,Ken Chang,4.81
+Southpaw,307081,tt1798684,Jake Gyllenhaal,21.848,Rachel McAdams,23.696,Forest Whitaker,11.654,Oona Laurence,6.071,50 Cent,8.708
+The Second Best Exotic Marigold Hotel,268238,tt2555736,Dev Patel,9.853,Judi Dench,8.949,Richard Gere,31.048,Maggie Smith,17.595,Bill Nighy,22.155
+Paper Towns,286565,tt3622592,Nat Wolff,11.21,Cara Delevingne,21.982,Justice Smith,14.942,Austin Abrams,13.859,Halston Sage,19.551
+Sicario,273481,tt3397884,Emily Blunt,22.529,Benicio del Toro,15.254,Josh Brolin,39.186,Daniel Kaluuya,9.859,Victor Garber,8.911
+Our Times,519600,tt7806518,Trevor Moore,2.102,Esther Povitsky,13.051,Alana Johnston,0.6,Amanda Seales,3.504,Theo Von,3.198
+Suck Me Shakespeer 2,329263,tt3702996,Elyas M'Barek,12.524,Jella Haase,10.517,Karoline Herfurth,12.648,Katja Riemann,4.839,Volker Bruch,5.257
+Hitman: Agent 47,249070,tt2679042,Rupert Friend,21.396,Zachary Quinto,7.86,Hannah Ware,7.094,Emilio Rivera,5.988,Rolf Kanies,2.649
+Wolf Warrior,335462,tt3540136,Wu Jing,19.876,Nan Yu,5.911,Ni Dahong,5.372,Scott Adkins,15.83,Zhaoqi Shi,4.603
+Go Away Mr. Tumor,354128,tt4819514,Bai Baihe,3.959,Daniel Wu,17.042,Zhang Zixuan,2.43,Li Yuan,2.156,Shen Teng,10.846
+The Wedding Ringer,252838,tt0884732,Kevin Hart,14.271,Josh Gad,11.913,Kaley Cuoco,19.179,Affion Crockett,2.654,Olivia Thirlby,15.337
+Paranormal Activity: The Ghost Dimension,146301,tt2473510,Cara Pifko,6.184,Olivia Taylor Dudley,17.826,Brit Shaw,4.779,Chloe Csengery,2.52,Chris J. Murray,1.642
+The Left Ear,334973,tt4545806,Chen Duling,4.252,Oho Ou,10.438,Ma Sichun,9.16,Yang Yang,11.131,Guan Xiaotong,7.396
+Tiny Times 4.0,,,,,,,,,,,,
+Bajrangi Bhaijaan,348892,tt3863552,Salman Khan,5.875,Kareena Kapoor Khan,10.167,Harshaali Malthotra,1.774,Nawazuddin Siddiqui,5.592,Rajesh Sharma,1.4
+War Room,323272,tt3832914,Karen Abercrombie,4.994,Priscilla C. Shirer,1.844,T.C. Stallings,1.4,Tenae Downing,2.356,Alena Pitts,1.102
+The Transporter Refueled,287948,tt2938956,Ed Skrein,13.665,Ray Stevenson,6.964,Loan Chabanol,6.686,Gabriella Wright,7.868,Tatiana Pajković,10.098
+Run All Night,241554,tt2199571,Liam Neeson,33.989,Ed Harris,14.475,Boyd Holbrook,15.462,Joel Kinnaman,24.116,Bruce McGill,26.999
+13 Hours,300671,tt4172430,John Krasinski,23.724,James Badge Dale,16.587,Dominic Fumusa,9.728,Max Martini,10.693,Pablo Schreiber,50.525
+Running Man,865,tt0093894,Arnold Schwarzenegger,30.027,Richard Dawson,3.224,María Conchita Alonso,7.801,Yaphet Kotto,5.398,Jim Brown,2.401
+A Violent Prosecutor,378348,tt5442308,Hwang Jung-min,8.721,Gang Dong-won,7.914,Lee Sung-min,6.154,Park Sung-woong,13.089,Kim Eung-soo,6.238
+The Age of Adaline,293863,tt1655441,Blake Lively,12.53,Michiel Huisman,10.773,Harrison Ford,17.858,Ellen Burstyn,4.285,Kathy Baker,11.475
+Monk Comes Down the Mountain,345235,tt3594826,Baoqiang Wang,6.389,Aaron Kwok,11.474,Chang Chen,9.659,Lin Chiling,8.389,Yuen Wah,11.142
+Zhongkui: Snow Girl and the Dark Crystal,299822,tt3585004,Chen Kun,8.38,Li Bingbing,28.462,Bao Bei Er,7.902,Summer Jike,0.6,Winston Chao,5.169
+The Danish Girl,306819,tt0810819,Eddie Redmayne,33.428,Alicia Vikander,17.078,Matthias Schoenaerts,13.053,Ben Whishaw,16.436,Sebastian Koch,5.482
+The Boy,321258,tt3882082,Lauren Cohan,25.017,Rupert Evans,6.4,James Russell,4.665,Jim Norton,3.706,Diana Hardcastle,5.764
+The Hundred Regiments Offensive,360644,tt4976086,Tang Guoqiang,4.926,Wang Wufu,1.813,Tao Zeru,0.965,Liu Zhibing,1.375,Deng Chao,6.787
+The Longest Ride,228205,tt2726560,Scott Eastwood,19.778,Britt Robertson,23.536,Lolita Davidovich,11.322,Melissa Benoist,20.596,Jack Huston,6.136
+Unfriended,277685,tt3713166,Shelley Hennig,12.964,Heather Sossaman,2.065,Renee Olstead,7.517,Matthew Bohrer,1.38,Moses Storm,2.512
+Brooklyn,167073,tt2381111,Saoirse Ronan,21.955,Domhnall Gleeson,17.251,Emory Cohen,13.879,Jim Broadbent,13.829,Julie Walters,11.734
+"Dragon Ball Z: Resurrection ""F""",303857,tt3819668,Masako Nozawa,10.188,Ryou Horikawa,6.233,Ryusei Nakao,6.7,Koichi Yamadera,9.389,Masakazu Morita,3.179
+Woman in Gold,304357,tt2404425,Helen Mirren,17.793,Ryan Reynolds,40.796,Tatiana Maslany,10.552,Katie Holmes,8.929,Max Irons,12.482
+Krampus,287903,tt3850590,Adam Scott,23.828,Toni Collette,24.141,Allison Tolman,9.86,David Koechner,8.727,Emjay Anthony,7.969
+The Perfect Guy,304372,tt3862750,Michael Ealy,11.7,Sanaa Lathan,17.056,Morris Chestnut,7.735,Kathryn Morris,8.265,Rutina Wesley,4.123
+Forever Young,10326,tt0104291,Mel Gibson,25.645,Jamie Lee Curtis,15.757,Elijah Wood,14.181,Isabel Glasser,6.725,George Wendt,6.593
+Miss Granny,516671,tt8368032,Sarah Geronimo,5.416,James Reid,6.175,Xian Lim,1.953,Nova Villa,1.774,Boboy Garovillo,1.96
+The Gift,328425,tt4178092,Jason Bateman,20.664,Rebecca Hall,32.632,Joel Edgerton,13.173,Allison Tolman,9.86,Tim Griffin,3.563
+You Are My Sunshine,583135,tt7161712,Simon Bamford,2.11,Charles O'Neill,0.716,Ernest Vernon,0.6,Steve Salt,0.6,Jonathan Butler,2.041
+No Escape,192141,tt1781922,Owen Wilson,46.143,Lake Bell,17.226,Pierce Brosnan,42.595,Sterling Jerins,10.429,Claire Geare,5.274
+Sinister 2,283445,tt2752772,James Ransone,11.416,Shannyn Sossamon,15.4,Robert Daniel Sloan,1.434,Dartanian Sloan,1.975,Lea Coco,2.552
+Detective Conan: Sunflowers of Inferno,316873,tt3737650,Minami Takayama,10.806,Kappei Yamaguchi,11.26,Wakana Yamazaki,3.604,Rikiya Koyama,7.883,Megumi Hayashibara,7.296
+Prem Ratan Dhan Payo,362136,tt3595298,Salman Khan,5.875,Sonam Kapoor,2.46,Neil Nitin Mukesh,1.125,Anupam Kher,4.827,Swara Bhaskar,1.4
+The Boy Next Door,241251,tt3181822,Jennifer Lopez,10.12,Ryan Guzman,12.596,Ian Nelson,6.586,John Corbett,7.988,Kristin Chenoweth,8.922
+The Night Before,296100,tt3530002,Joseph Gordon-Levitt,20.585,Seth Rogen,19.602,Anthony Mackie,17.839,Lizzy Caplan,12.73,Jillian Bell,8.74
+Hollywood Adventures,343059,tt4115932,Zhao Wei,7.423,Huang Xiaoming,10.146,Tong Dawei,3.997,Simon Helberg,15.655,Missi Pyle,10.805
+"Yo-kai Watch Movie: It's the Secret of Birth, Meow!",358651,tt4168022,Haruka Tomatsu,19.934,Tomokazu Seki,12.709,Etsuko Kozakura,3.332,Romi Park,7.273,Yuki Kaji,13.997
+Hot Pursuit,268920,tt2967224,Reese Witherspoon,14.224,Sofía Vergara,10.101,Michael Mosley,8.359,John Carroll Lynch,7.528,Richard T. Jones,11.012
+The Himalayas,186079,tt2467442,Gerlinde Kaltenbrunner,0.6,Simone Leorin,1.105,Jake Meyer,0.6,Chris Szymiec,0.6,Fabrizio Zangrilli,0.6
+The Boy and the Beast,315465,tt4272866,Koji Yakusho,8.861,Aoi Miyazaki,12.041,Shota Sometani,13.331,Suzu Hirose,15.097,Lily Franky,3.297
+Surprise,882206,tt15576986,Ayla Rae Neal,0.626,Sonya Krueger,1.4,Ashley Angione,0.6,Tickwanya Jones,1.116,Paris Anderson,1.012
+Entourage,188222,tt1674771,Jeremy Piven,6.451,Adrian Grenier,14.267,Jerry Ferrara,4.033,Kevin Connolly,5.169,Kevin Dillon,6.831
+The Woman in Black 2: Angel of Death,288158,tt2339741,Phoebe Fox,10.081,Helen McCrory,16.673,Jeremy Irvine,10.122,Oaklee Pendergast,7.155,Ned Dennehy,10.48
+Concussion,321741,tt3322364,Will Smith,33.966,Alec Baldwin,17.182,Albert Brooks,14.991,Gugu Mbatha-Raw,12.915,David Morse,17.145
+Inside Men,293413,tt3779028,Lee Byung-hun,18.029,Cho Seung-woo,9.218,Baek Yoon-sik,5.558,Lee Kyung-young,10.791,Kim Hong-pa,6.527
+The Dead End,351015,tt3181178,Sandy Collora,1.164,Clark Bartram,0.6,Steve Wang,0.6,,,,
+Boonie Bears Winter,335832,tt4412240,Zhang Bingjun,0.6,Tan Xiao,1.4,张伟,1.025,,,,
+Mortdecai,210860,tt3045616,Johnny Depp,50.461,Gwyneth Paltrow,15.957,Ewan McGregor,15.899,Paul Bettany,20.208,Olivia Munn,10.575
+Let's Get Married,248944,tt0029135,Ida Lupino,15.412,Walter Connolly,3.03,Ralph Bellamy,8.505,Raymond Walburn,1.013,Reginald Denny,1.736
+Somewhere Only We Know,547261,tt5089932,John Behlmann,1.233,Michael Rabe,1.0,Valeri Mudek,0.714,Sean Young,16.334,Barbara Barrie,4.078
+"McFarland, USA",228203,tt2097298,Kevin Costner,23.921,Ramiro Rodriguez,0.84,Maria Bello,19.609,Johnny Ortiz,0.6,Diana Maria Riva,5.124
+Hero,177572,tt2245084,Scott Adsit,8.355,Ryan Potter,9.305,Daniel Henney,8.399,T. J. Miller,14.522,Jamie Chung,18.572
+Still Alice,284293,tt3316960,Julianne Moore,18.698,Alec Baldwin,17.182,Kristen Stewart,28.953,Kate Bosworth,16.088,Shane McRae,9.05
+Max,76341,tt1392190,Tom Hardy,59.898,Charlize Theron,40.523,Nicholas Hoult,25.64,Hugh Keays-Byrne,4.0,Josh Helman,11.785
+The DUFF,272693,tt1666801,Mae Whitman,13.787,Robbie Amell,32.842,Bella Thorne,13.724,Skyler Samuels,9.163,Bianca A. Santos,3.991
+Legend,276907,tt3569230,Tom Hardy,59.898,Emily Browning,17.191,Christopher Eccleston,8.869,David Thewlis,15.395,Taron Egerton,16.392
+The Gallows,299245,tt2309260,Cassidy Gifford,3.677,Ryan Shoos,0.6,Pfeifer Brown,2.786,Reese Mishler,0.998,Price T. Morgan,1.38
+Love the Coopers,333348,tt2279339,Steve Martin,12.956,Diane Keaton,14.502,Amanda Seyfried,37.184,John Goodman,20.197,Alan Arkin,9.763
+The Throne,655173,,,,,,,,,,,
+The Lady in the Van,328589,tt3722070,Maggie Smith,17.595,Alex Jennings,10.814,Frances de la Tour,12.873,Gwen Taylor,0.729,Dominic Cooper,17.366
+Ricki and the Flash,275601,tt3623726,Meryl Streep,13.52,Kevin Kline,12.016,Mamie Gummer,12.197,Sebastian Stan,39.447,Audra McDonald,5.26
+Spanish Affair 2,348537,tt3626742,Clara Lago,12.259,Dani Rovira,5.305,Berto Romero,2.4,Karra Elejalde,2.105,Carmen Machi,9.054
+Carol,17979,tt1067106,Jim Carrey,24.867,Gary Oldman,27.283,Colin Firth,13.147,Robin Wright,13.714,Cary Elwes,19.0
+Northern Limit Line,343843,tt4696222,Kim Moo-yul,6.333,Jin Goo,10.701,Lee Hyun-woo,7.972,Lee Chung-ah,6.518,Song Jae-ho,1.623
+Ex-Files 2: The Backup Strikes Back,366686,tt5297596,Ryan Zheng Kai,9.633,Amber Kuo,6.146,Eric Wang,2.252,Zhang Dianlun,0.996,Zhang Yixing,6.95
+Criminal,302156,tt3014866,Ryan Reynolds,40.796,Kevin Costner,23.921,Gary Oldman,27.283,Tommy Lee Jones,27.694,Gal Gadot,38.496
+Boruto: Naruto The Movie,347201,tt4618398,Yuko Sanpei,6.922,Kokoro Kikuchi,7.532,Junko Takeuchi,10.259,Noriaki Sugiyama,8.087,Daisuke Namikawa,10.208
+The Lazarus Effect,243940,tt2918436,Sarah Bolger,16.007,Amy Aquino,9.233,Olivia Wilde,19.984,Evan Peters,21.343,Ray Wise,7.634
+Helios,535031,,,,,,,,,,,
+A Walk in the Woods,232572,tt1178665,Robert Redford,14.229,Nick Nolte,11.236,Emma Thompson,24.804,Nick Offerman,19.398,Kristen Schaal,8.655
+Ex Machina,264660,tt0470752,Domhnall Gleeson,17.251,Alicia Vikander,17.078,Oscar Isaac,60.716,Sonoya Mizuno,13.85,Corey Johnson,4.974
+Burnt,295964,tt2503944,Bradley Cooper,38.912,Sienna Miller,17.392,Omar Sy,10.194,Daniel Brühl,19.353,Riccardo Scamarcio,8.264
+The Priests,739840,tt7131704,Sister Megan Rice,0.6,"Fr. William ""Bix"" Bischel",0.6,Anne Montgomery,0.6,Lynne Greenwald,0.6,Susan Crane,0.6
+The New Adventures of Aladdin,344268,tt4466864,Kev Adams,7.184,Eric Judor,3.303,Jean-Paul Rouve,8.876,Vanessa Guide,4.066,Michel Blanc,9.224
+Heidi,365045,tt3700392,Bruno Ganz,5.79,Anuk Steffen,4.833,Katharina Schüttler,2.591,Maxim Mehmet,0.804,Hannelore Hoger,2.532
+Room,522681,tt5886046,Taylor Russell,17.641,Logan Miller,14.811,Deborah Ann Woll,18.347,Jay Ellis,1.637,Nik Dodani,7.452
+Lost and Love,479259,tt0920462,Alexandra Daddario,42.013,Takehiro Hira,7.785,Carice van Houten,18.834,Dasha Teranishi,0.6,Mariko Tsutsui,3.886
+Secret in Their Eyes,290751,tt1741273,Chiwetel Ejiofor,13.52,Nicole Kidman,23.379,Julia Roberts,18.361,Dean Norris,19.16,Alfred Molina,18.667
+"Dad, Where Are We Going 2",,,,,,,,,,,,
+Doraemon: Nobita and the Space Heroes,350650,tt4788602,Wasabi Mizuta,6.349,Megumi Oohara,3.434,Yumi Kazaku,1.4,Subaru Kimura,15.999,Tomokazu Seki,12.709
+Steve Jobs,321697,tt2080374,Michael Fassbender,14.93,Kate Winslet,13.654,Seth Rogen,19.602,Jeff Daniels,12.197,Michael Stuhlbarg,11.286
+Victor Frankenstein,228066,tt1976009,James McAvoy,30.715,Daniel Radcliffe,24.549,Jessica Brown Findlay,12.258,Andrew Scott,24.413,Freddie Fox,9.236
+The Witness,356332,tt3568002,William Genovese,0.6,Shannon Beeby,0.6,Kitty Genovese,0.6,Catherine Pelonero,0.6,,
+Project Almanac,227719,tt2436386,Jonny Weston,9.782,Virginia Gardner,5.186,Sofia Black-D'Elia,10.35,Sam Lerner,6.111,Allen Evangelista,3.754
+Dilwale,159164,tt0337611,Ajay Devgn,3.191,Suniel Shetty,5.565,Raveena Tandon,4.981,Gulshan Grover,2.804,Paresh Rawal,2.142
+Suffragette,245168,tt3077214,Carey Mulligan,14.494,Helena Bonham Carter,40.369,Brendan Gleeson,28.448,Anne-Marie Duff,6.29,Meryl Streep,13.52
+Self/less,238615,tt2140379,Ryan Reynolds,40.796,Ben Kingsley,17.546,Natalie Martinez,24.8,Matthew Goode,18.407,Michelle Dockery,11.298
+Saving Mr. Wu,362154,tt4819560,Andy Lau,16.233,Liu Ye,9.777,Wang Qian-Yuan,1.371,Lu Cai,0.6,Lam Suet,4.774
+Attack on Titan Part 1,379088,tt3646944,Yuki Kaji,13.997,Marina Inoue,15.543,Yui Ishikawa,12.647,Hiro Shimono,8.399,Yoshimasa Hosoya,7.284
+A Man Called Ove,348678,tt4080728,Rolf Lassgård,7.323,Bahar Pars,2.89,Filip Berg,6.854,Ida Engvoll,12.397,Tobias Almborg,1.398
+Far from the Madding Crowd,250734,tt2935476,Carey Mulligan,14.494,Matthias Schoenaerts,13.053,Michael Sheen,13.665,Tom Sturridge,6.161,Juno Temple,15.704
+Mr. Holmes,280996,tt3168230,Ian McKellen,15.137,Laura Linney,12.533,Milo Parker,7.213,Hiroyuki Sanada,14.705,Roger Allam,7.657
+Love & Mercy,271714,tt0903657,Paul Dano,51.328,John Cusack,24.753,Elizabeth Banks,14.855,Paul Giamatti,22.095,Jake Abel,10.256
+Flying Colors,232891,,Mike Portnoy,0.6,Dave LaRue,0.6,Neal Morse,0.6,Steve Morse,0.6,Casey McPherson,0.6
+Triumph in the Skies,641243,,,,,,,,,,,
+The 33,293646,tt2006295,Antonio Banderas,18.301,Rodrigo Santoro,21.957,Kate del Castillo,8.493,Juliette Binoche,10.585,James Brolin,9.668
+Bride Wars,10521,tt0901476,Kate Hudson,13.332,Anne Hathaway,36.931,Bryan Greenberg,10.642,Chris Pratt,27.826,Steve Howey,16.013
+Irrational Man,282984,tt3715320,Joaquin Phoenix,17.538,Emma Stone,40.711,Jamie Blackley,7.32,Parker Posey,17.871,Joe Stapleton,2.52
+Detective K: Secret of the Lost Island,328716,tt4505170,Kim Myung-min,6.201,Oh Dal-su,7.91,Lee Yeon-hee,8.793,Jung Won-joong,2.318,Hwang Chae-won,1.865
+To the Fore,339562,tt4788638,Eddie Peng,11.8,Siwon,11.358,Shawn Dou,6.948,Wang Luodan,7.575,Carlos Chan,3.573
+American Ultra,261392,tt3316948,Jesse Eisenberg,30.679,Kristen Stewart,28.953,Topher Grace,9.624,Connie Britton,12.291,Walton Goggins,15.255
+Orange,185,tt0066921,Malcolm McDowell,22.407,Patrick Magee,8.429,Adrienne Corri,4.817,Michael Bates,3.66,Warren Clarke,6.341
+Aloha,24615,tt0433771,Casey Kasem,5.224,Tia Carrere,13.947,Teri Garr,11.439,Mindy Cohn,7.803,Frank Welker,16.625
+Huevos: Little Rooster's Egg-cellent Adventure,264419,tt4643580,Bruno Bichir,7.752,Carlos Espejel,4.481,Angélica Vale,5.64,Omar Chaparro,3.713,Maite Perroni,15.326
+Dügün Dernek 2: Sünnet,371153,tt5114588,Ahmet Kural,1.266,Murat Cemcir,1.974,Rasim Öztekin,0.877,Barış Yıldız,1.392,Devrim Yakut,6.986
+Look Who's Back,318917,tt4176826,Oliver Masucci,12.272,Fabian Busch,5.046,Katja Riemann,4.839,Christoph Maria Herbst,4.224,Franziska Wulf,7.6
+Serial Teachers 2,325844,tt3713944,Kev Adams,7.184,Isabelle Nanty,9.095,Didier Bourdon,5.984,Pierre-François Martin-Laval,2.192,Arnaud Ducret,5.11
+Wild City,858490,,,,,,,,,,,
