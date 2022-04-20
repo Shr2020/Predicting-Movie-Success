@@ -42,30 +42,31 @@ for ind, row in release_dates.iterrows():
 count = 0
 c = 0
 for file in files:
-    print(file)
-    movies = pd.read_csv(file)
+    if '2013' in file:
+        print(file)
+        movies = pd.read_csv(file)
 
-    tweets = []
-    for ind, movie in movies.iterrows():
-        c += 1
-        query_txt = movie['Release Group']
-        release_date = release_dates_map.get(movie['Release Group'].lower(), None)
-        if release_date:
-            count += 1
-            # rd = datetime.datetime.strptime(release_date, "%Y-%m-%d")
-            since = release_date - datetime.timedelta(weeks=4)
-            until = release_date + datetime.timedelta(weeks=1)
-            query_txt += " since:%s until:%s" % (since.date(), until.date())
-            print(movie['Release Group'], release_date.date())
+        tweets = []
+        for ind, movie in movies.iterrows():
+            c += 1
+            query_txt = movie['Release Group']
+            release_date = release_dates_map.get(movie['Release Group'].lower(), None)
+            if release_date:
+                count += 1
+                # rd = datetime.datetime.strptime(release_date, "%Y-%m-%d")
+                since = release_date - datetime.timedelta(weeks=4)
+                until = release_date + datetime.timedelta(weeks=1)
+                query_txt += " since:%s until:%s" % (since.date(), until.date())
+                print(movie['Release Group'], release_date.date())
 
-            for i,tweet in enumerate(sntwitter.TwitterSearchScraper(query_txt).get_items()):
-                if i>5000:
-                    break
-                tweets.append([movie['Release Group'], tweet.date, tweet.id, tweet.content, tweet.user.username])
+                for i,tweet in enumerate(sntwitter.TwitterSearchScraper(query_txt).get_items()):
+                    if i>5000:
+                        break
+                    tweets.append([movie['Release Group'], tweet.date, tweet.id, tweet.content, tweet.user.username])
 
-    tweets_df = pd.DataFrame(tweets, columns=['Movie Name', 'Datetime', 'Tweet Id', 'Text', 'Username'])
-    tweets_df.to_csv("Twitter/tweets_%s" % file.split('\\')[1], index=False, escapechar=r'|')
-    break
+        tweets_df = pd.DataFrame(tweets, columns=['Movie Name', 'Datetime', 'Tweet Id', 'Text', 'Username'])
+        tweets_df.to_csv("Twitter/tweets_%s" % file.split('\\')[1], index=False, escapechar=r'|')
+    # break
 # print("Box Office ", c, count)
 
 # folderpath = "rotten_info/*"

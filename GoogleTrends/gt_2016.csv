@@ -1,0 +1,154 @@
+movie,startdate,releasedate,Text,mean_google_trend_popularity
+Captain America: Civil War,2016-04-29,2016-05-06,,53.0
+Rogue One: A Star Wars Story,2016-12-09,2016-12-16,,40.875
+Finding Dory,2016-06-10,2016-06-17,,32.5
+Zootopia,2016-02-26,2016-03-04,,49.875
+The Jungle Book,2016-04-08,2016-04-15,,56.0
+The Secret Life of Pets,2016-07-01,2016-07-08,,43.25
+Batman v Superman: Dawn of Justice,2016-03-18,2016-03-25,,30.75
+Fantastic Beasts and Where to Find Them,2016-11-11,2016-11-18,,38.75
+Deadpool,2016-02-05,2016-02-12,,40.5
+Suicide Squad,2016-07-29,2016-08-05,,44.5
+Doctor Strange,2016-10-28,2016-11-04,,56.5
+Moana,2016-11-16,2016-11-23,,53.75
+Sing,2016-12-14,2016-12-21,,70.75
+The Mermaid,2016-02-12,2016-02-19,,84.5
+X-Men: Apocalypse,2016-05-20,2016-05-27,,73.75
+Kung Fu Panda 3,2016-01-22,2016-01-29,,44.5
+La La Land,2016-12-18,2016-12-25,,60.875
+Warcraft,2016-06-03,2016-06-10,,58.625
+Jason Bourne,2016-07-22,2016-07-29,,44.5
+Ice Age 5: Collision Course,2016-07-15,2016-07-22,,63.0
+Independence Day: Resurgence,2016-06-17,2016-06-24,,39.25
+Your Name.,2017-03-31,2017-04-07,,57.0
+The Legend of Tarzan,2016-06-24,2016-07-01,,30.375
+The Angry Birds Movie,2016-05-13,2016-05-20,,57.375
+Trolls,2016-10-28,2016-11-04,,69.25
+Star Trek Beyond,2016-07-15,2016-07-22,,43.25
+The Great Wall,2017-02-10,2017-02-17,,42.75
+Now You See Me 2,2016-06-03,2016-06-10,,48.5
+The Conjuring 2,2016-06-03,2016-06-10,,28.25
+Resident Evil: The Final Chapter,2017-01-20,2017-01-27,,38.5
+Dangal,2016-12-14,2016-12-21,,56.875
+Passengers,2016-12-14,2016-12-21,,48.875
+Alice Through the Looking Glass,2016-05-20,2016-05-27,,37.875
+Miss Peregrine's Home for Peculiar Children,2016-09-23,2016-09-30,,51.875
+Teenage Mutant Ninja Turtles: Out of the Shadows,2016-05-27,2016-06-03,,35.0
+Sully,2016-09-02,2016-09-09,,43.125
+Assassin's Creed,2016-12-14,2016-12-21,,72.125
+Hidden Figures,2016-12-30,2017-01-06,,42.125
+Ghostbusters,2016-07-08,2016-07-15,,47.75
+Inferno,2016-10-21,2016-10-28,,74.25
+Central Intelligence,2016-06-10,2016-06-17,,32.75
+Bridget Jones's Baby,2016-09-09,2016-09-16,,35.75
+Me Before You,2016-05-27,2016-06-03,,41.625
+London Has Fallen,2016-02-26,2016-03-04,,34.625
+Arrival,2016-11-04,2016-11-11,,34.0
+The BFG,2016-06-24,2016-07-01,,32.0
+The Monkey King 2,2016-01-29,2016-02-05,,50.125
+Bad Moms,2016-07-22,2016-07-29,,38.125
+Storks,2016-09-16,2016-09-23,,35.125
+Hacksaw Ridge,2016-10-28,2016-11-04,,38.375
+Allegiant,2012-12-21,2012-12-28,,80.75
+Operation Mekong,2016-09-23,2016-09-30,,32.375
+The Girl on the Train,2016-09-30,2016-10-07,,55.0
+The Huntsman: Winter's War,2016-04-15,2016-04-22,,69.5
+The Magnificent Seven,2016-09-16,2016-09-23,,41.875
+Jack Reacher: Never Go Back,2016-10-14,2016-10-21,,42.5
+Don't Breathe,2016-08-19,2016-08-26,,33.125
+The Accountant,2016-10-07,2016-10-14,,39.75
+Lights Out,2016-07-15,2016-07-22,,32.75
+Pete's Dragon,2016-08-05,2016-08-12,,41.0
+Sausage Party,2016-08-05,2016-08-12,,32.75
+Lion,2016-12-14,2016-12-21,,93.125
+Skiptrace,2016-08-26,2016-09-02,,37.625
+Mechanic: Resurrection,2016-08-19,2016-08-26,,44.375
+Deepwater Horizon,2016-09-23,2016-09-30,,36.5
+Allied,2016-11-16,2016-11-23,,47.5
+I Belonged to You,2016-09-23,2016-09-30,,20.25
+The Shallows,2016-06-17,2016-06-24,,37.5
+The Purge: Election Year,2016-06-24,2016-07-01,,31.25
+Why Him?,2016-12-16,2016-12-23,,21.625
+Office Christmas Party,2016-12-02,2016-12-09,,44.875
+How to Be Single,2016-02-05,2016-02-12,,41.0
+10 Cloverfield Lane,2016-03-04,2016-03-11,,41.25
+Neighbors 2: Sorority Rising,2016-05-13,2016-05-20,,28.875
+Cold War 2,2016-07-01,2016-07-08,,41.75
+Railroad Tigers,2016-12-30,2017-01-06,,82.125
+Dirty Grandpa,2016-01-15,2016-01-22,,39.625
+Ben-Hur,2016-08-12,2016-08-19,,29.25
+Money Monster,2016-05-06,2016-05-13,,28.375
+Train to Busan,2016-07-15,2016-07-22,,40.375
+My Big Fat Greek Wedding 2,2016-03-18,2016-03-25,,36.0
+Collateral Beauty,2016-12-09,2016-12-16,,40.5
+Sultan,2016-06-30,2016-07-07,,35.625
+War Dogs,2016-08-12,2016-08-19,,33.0
+Big Fish & Begonia,2018-03-30,2018-04-06,,22.625
+Nerve,2016-07-20,2016-07-27,,59.875
+Ouija: Origin of Evil,2016-10-14,2016-10-21,,58.125
+Underworld: Blood Wars,2016-12-30,2017-01-06,,52.375
+Manchester by the Sea,2016-12-09,2016-12-16,,78.0
+The Boss,2016-04-01,2016-04-08,,53.25
+Mike and Dave Need Wedding Dates,2016-07-01,2016-07-08,,32.5
+Kubo and the Two Strings,2016-08-12,2016-08-19,,28.0
+Miracles from Heaven,2016-03-09,2016-03-16,,45.375
+I Am Not Madame Bovary,2016-11-11,2016-11-18,,27.5
+Moonlight,2016-11-11,2016-11-18,,82.5
+Monster Trucks,2017-01-06,2017-01-13,,40.375
+Fences,2016-12-09,2016-12-16,,78.25
+The Nice Guys,2016-05-13,2016-05-20,,31.875
+L.O.R.D: Legend of Ravaging Dynasties,2016-09-23,2016-09-30,,37.0
+Nine Lives,2016-07-29,2016-08-05,,32.5
+Zoolander 2,2016-02-05,2016-02-12,,51.125
+Barbershop: The Next Cut,2016-04-08,2016-04-15,,21.5
+The Age of Shadows,2016-09-16,2016-09-23,,44.0
+Patriots Day,2017-01-06,2017-01-13,,29.0
+The Finest Hours,2016-01-22,2016-01-29,,43.625
+Master,2022-03-11,2022-03-18,,96.5
+The Wailing,2016-05-13,2016-05-20,,67.625
+Never Gone,2016-07-08,2016-07-15,,80.625
+Florence Foster Jenkins,2016-08-05,2016-08-12,,37.25
+Mother's Day,2016-04-22,2016-04-29,,64.0
+A Monster Calls,2016-12-30,2017-01-06,,40.125
+Risen,2021-08-13,2021-08-20,,41.75
+Eddie the Eagle,2016-02-19,2016-02-26,,55.875
+Blair Witch,2016-09-09,2016-09-16,,40.875
+Café Society,2016-07-22,2016-07-29,,35.25
+Almost Christmas,2016-11-04,2016-11-11,,23.625
+The Witch,2016-02-12,2016-02-19,,46.5
+The Wild Life,2016-09-02,2016-09-09,,38.25
+The Forest,2016-01-01,2016-01-08,,59.25
+Absolutely Fabulous: The Movie,2016-07-15,2016-07-22,,46.5
+Hell or High Water,2016-08-12,2016-08-19,,70.25
+The Handmaiden,2016-10-14,2016-10-21,,43.75
+Snowden,2016-09-09,2016-09-16,,45.5
+Eye in the Sky,2016-03-25,2016-04-01,,42.875
+Ae Dil Hai Mushkil,2016-10-21,2016-10-28,,31.125
+Billy Lynn's Long Halftime Walk,2016-11-11,2016-11-18,,62.0
+Norm of the North,2016-01-08,2016-01-15,,23.875
+When the Bough Breaks,2016-09-02,2016-09-09,,26.25
+Nocturnal Animals,2016-12-02,2016-12-09,,66.625
+Keeping Up with the Joneses,2016-10-14,2016-10-21,,32.5
+Jackie,2017-01-20,2017-01-27,,46.375
+Masterminds,2016-09-23,2016-09-30,,27.375
+M.S. Dhoni: The Untold Story,2016-09-23,2016-09-30,,18.5
+Fan,2009-01-30,2009-02-06,,89.875
+The Brothers Grimsby,2016-03-04,2016-03-11,,41.25
+The Light Between Oceans,2016-08-26,2016-09-02,,32.125
+A Beautiful Planet,2016-04-22,2016-04-29,,31.0
+Mr. Donkey,2016-10-21,2016-10-28,,20.375
+Born in China,2017-04-14,2017-04-21,,23.375
+Race,2016-02-12,2016-02-19,,84.875
+Free State of Jones,2016-06-17,2016-06-24,,34.125
+Whiskey Tango Foxtrot,2016-02-26,2016-03-04,,30.625
+The Snow Queen 3: Fire and Ice,2018-08-24,2018-08-31,,24.625
+God's Not Dead 2,2016-03-25,2016-04-01,,32.75
+The Founder,2017-01-13,2017-01-20,,50.75
+Bad Santa 2,2016-11-16,2016-11-23,,38.0
+Silence,2017-01-06,2017-01-13,,83.125
+Kevin Hart: What Now?,2016-10-07,2016-10-14,,27.125
+No manches Frida,2016-08-26,2016-09-02,,28.5
+Middle School: The Worst Years of My Life,2016-09-30,2016-10-07,,39.875
+Triple 9,2016-02-19,2016-02-26,,41.125
+Rock Dog,2017-02-17,2017-02-24,,25.75
+The Choice,2016-01-29,2016-02-05,,47.0

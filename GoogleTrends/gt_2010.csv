@@ -1,0 +1,143 @@
+movie,startdate,releasedate,Text,mean_google_trend_popularity
+Toy Story 3,2010-06-11,2010-06-18,,46.375
+Harry Potter and the Deathly Hallows: Part 1,2010-11-12,2010-11-19,,48.0
+Inception,2010-07-09,2010-07-16,,33.5
+Shrek Forever After,2010-05-14,2010-05-21,,34.625
+The Twilight Saga: Eclipse,2010-06-23,2010-06-30,,52.5
+Iron Man 2,2010-04-30,2010-05-07,,78.125
+Tangled,2010-11-17,2010-11-24,,49.75
+Despicable Me,2010-07-02,2010-07-09,,36.125
+How to Train Your Dragon,2010-03-19,2010-03-26,,45.875
+Clash of the Titans,2010-03-26,2010-04-02,,37.625
+The King's Speech,2011-01-21,2011-01-28,,66.25
+The Chronicles of Narnia: The Voyage of the Dawn Treader,2010-12-03,2010-12-10,,68.875
+TRON: Legacy,2010-12-10,2010-12-17,,47.875
+The Karate Kid,2010-06-04,2010-06-11,,55.125
+Black Swan,2010-12-10,2010-12-17,,89.875
+Megamind,2010-10-29,2010-11-05,,42.5
+Robin Hood,2018-11-14,2018-11-21,,54.125
+The Last Airbender,2010-06-24,2010-07-01,,46.625
+Little Fockers,2010-12-15,2010-12-22,,50.375
+Resident Evil: Afterlife,2010-09-03,2010-09-10,,46.625
+Shutter Island,2010-02-12,2010-02-19,,39.375
+Salt,2010-07-16,2010-07-23,,74.125
+Sex and the City 2,2010-05-20,2010-05-27,,53.5
+The Tourist,2010-12-03,2010-12-10,,47.5
+The Expendables,2010-08-06,2010-08-13,,53.25
+Grown Ups,2010-06-18,2010-06-25,,37.625
+True Grit,2010-12-15,2010-12-22,,49.125
+Gulliver's Travels,2010-12-18,2010-12-25,,54.0
+Percy Jackson & the Olympians: The Lightning Thief,2010-02-05,2010-02-12,,46.25
+The Social Network,2010-09-24,2010-10-01,,46.125
+Valentine's Day,2010-02-05,2010-02-12,,55.0
+The Sorcerer's Apprentice,2010-07-07,2010-07-14,,50.375
+Due Date,2010-10-29,2010-11-05,,47.125
+Eat Pray Love,2010-08-06,2010-08-13,,46.0
+Yogi Bear,2010-12-10,2010-12-17,,51.25
+RED,2010-10-08,2010-10-15,,93.375
+Paranormal Activity 2,2010-10-15,2010-10-22,,42.25
+The A-Team,2010-06-04,2010-06-11,,52.875
+Jackass 3D,2010-10-08,2010-10-15,,37.125
+The Other Guys,2010-07-30,2010-08-06,,35.5
+Unstoppable,2010-11-05,2010-11-12,,48.0
+Step Up,2006-08-04,2006-08-11,,55.5
+The Book of Eli,2010-01-08,2010-01-15,,38.75
+The Town,2010-09-10,2010-09-17,,52.625
+Date Night,2010-04-02,2010-04-09,,38.25
+The Secret World of Arrietty,2012-02-10,2012-02-17,,44.0
+Legend of the Guardians: The Owls of Ga'Hoole,2010-09-17,2010-09-24,,54.25
+The Wolfman,2010-02-05,2010-02-12,,51.125
+The Bounty Hunter,2010-03-12,2010-03-19,,56.5
+Saw: The Final Chapter,2010-10-22,2010-10-29,,38.5
+Wall Street: Money Never Sleeps,2010-09-17,2010-09-24,,44.625
+The Adjustment Bureau,2011-02-25,2011-03-04,,42.0
+Predators,2010-07-02,2010-07-09,,47.75
+A Nightmare on Elm Street,2010-04-23,2010-04-30,,40.25
+Dear John,2010-01-29,2010-02-05,,47.75
+Cats & Dogs: The Revenge of Kitty Galore,2010-07-23,2010-07-30,,38.0
+Tooth Fairy,2010-01-15,2010-01-22,,51.75
+Sanctum,2011-01-28,2011-02-04,,42.125
+Hereafter,2010-10-15,2010-10-22,,39.625
+Life as We Know It,2010-10-01,2010-10-08,,50.625
+Let the Bullets Fly,2012-02-24,2012-03-02,,47.125
+Love & Other Drugs,2010-11-17,2010-11-24,,55.625
+Killers,2015-01-16,2015-01-23,,85.625
+Kick-Ass,2010-04-09,2010-04-16,,44.0
+Nanny McPhee Returns,2010-08-13,2010-08-20,,42.75
+Get Him to the Greek,2010-05-28,2010-06-04,,32.75
+Burlesque,2010-11-17,2010-11-24,,63.625
+The Last Song,2010-03-24,2010-03-31,,62.25
+Dinner for Schmucks,2010-07-23,2010-07-30,,36.75
+Marmaduke,2010-05-28,2010-06-04,,48.75
+Piranha 3D,2012-05-25,2012-06-01,,73.125
+Oceans,2018-06-01,2018-06-08,,54.875
+Edge of Darkness,2010-01-22,2010-01-29,,41.125
+Vampires Suck,2010-08-11,2010-08-18,,70.625
+Letters to Juliet,2010-05-07,2010-05-14,,57.0
+The Back-up Plan,2010-04-16,2010-04-23,,54.5
+Diary of a Wimpy Kid,2010-03-12,2010-03-19,,49.75
+Easy A,2010-09-10,2010-09-17,,58.625
+Hubble,2010-03-12,2010-03-19,,70.75
+The Last Exorcism,2010-08-20,2010-08-27,,47.25
+Takers,2010-08-20,2010-08-27,,39.375
+Legion,2010-01-15,2010-01-22,,59.875
+The American,2020-06-12,2020-06-19,,91.5
+The Next Three Days,2010-11-12,2010-11-19,,40.25
+Skyline,2010-11-05,2010-11-12,,50.125
+Hot Tub Time Machine,2010-03-19,2010-03-26,,35.25
+Devil,2010-09-10,2010-09-17,,71.5
+127 Hours,2011-01-21,2011-01-28,,72.875
+Why Did I Get Married Too?,2010-03-26,2010-04-02,,24.75
+The Ghost Writer,2010-03-12,2010-03-19,,73.0
+Secretariat,2010-10-01,2010-10-08,,51.125
+Morning Glory,2010-11-03,2010-11-10,,64.75
+Remember Me,2010-03-05,2010-03-12,,56.0
+Cop Out,2010-02-19,2010-02-26,,38.875
+The Crazies,2010-02-19,2010-02-26,,44.375
+Little White Lies,2012-08-17,2012-08-24,,54.25
+From Paris with Love,2010-01-29,2010-02-05,,45.375
+Detective Dee: The Mystery of the Phantom Flame,2011-08-26,2011-09-02,,29.625
+Daybreakers,2010-01-01,2010-01-08,,44.875
+Alpha and Omega,2010-09-10,2010-09-17,,42.875
+The Switch,2010-08-13,2010-08-20,,52.375
+She's Out of My League,2010-03-05,2010-03-12,,45.625
+Death at a Funeral,2010-04-09,2010-04-16,,38.0
+How Do You Know,2010-12-10,2010-12-17,,84.0
+Charlie St. Cloud,2010-07-23,2010-07-30,,45.75
+Scott Pilgrim vs. the World,2010-08-06,2010-08-13,,46.875
+Machete,2010-08-27,2010-09-03,,42.125
+Of Gods and Men,2011-02-18,2011-02-25,,48.125
+Boy,2014-07-11,2014-07-18,,90.625
+When in Rome,2010-01-22,2010-01-29,,42.875
+My Name Is Khan,2010-02-05,2010-02-12,,29.875
+Going the Distance,2010-08-27,2010-09-03,,45.0
+For Colored Girls,2010-10-29,2010-11-05,,35.75
+Furry Vengeance,2010-04-23,2010-04-30,,47.75
+You Will Meet a Tall Dark Stranger,2010-09-15,2010-09-22,,63.25
+Faster,2010-11-17,2010-11-24,,85.75
+The Kids Are All Right,2010-07-23,2010-07-30,,67.0
+Leap Year,2010-01-01,2010-01-08,,61.125
+Potiche,2011-03-18,2011-03-25,,62.625
+You Again,2010-09-17,2010-09-24,,62.25
+Rajneeti,2010-05-28,2010-06-04,,27.75
+The Losers,2010-04-16,2010-04-23,,37.25
+Legend of the Fist: The Return of Chen Zhen,2011-04-15,2011-04-22,,46.5
+Ramona and Beezus,2010-07-16,2010-07-23,,43.875
+Let Me In,2010-09-24,2010-10-01,,47.5
+Fair Game,2010-11-12,2010-11-19,,71.375
+Biutiful,2011-01-21,2011-01-28,,55.5
+Elle s'appelait Sarah,2011-07-15,2011-07-22,,12.5
+Lottery Ticket,2010-08-13,2010-08-20,,43.125
+The Way Back,2011-01-14,2011-01-21,,68.25
+Villain,2020-05-15,2020-05-22,,80.0
+A Thousand Words,2012-03-02,2012-03-09,,44.0
+Moss,2018-06-29,2018-07-06,,91.5
+Just Wright,2010-05-07,2010-05-14,,36.125
+My Soul to Take,2010-10-01,2010-10-08,,41.0
+Our Family Wedding,2010-03-05,2010-03-12,,34.625
+Country Strong,2010-12-31,2011-01-07,,48.625
+Beck,2018-02-02,2018-02-09,,89.5
+Another Year,2010-12-22,2010-12-29,,72.75
+Youth in Revolt,2010-01-01,2010-01-08,,39.25
+Buried,2010-10-01,2010-10-08,,85.875
+Norwegian Wood,2011-12-30,2012-01-06,,55.5

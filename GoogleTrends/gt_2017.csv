@@ -1,0 +1,150 @@
+movie,startdate,releasedate,Text,mean_google_trend_popularity
+Star Wars: Episode VIII - The Last Jedi,2017-12-08,2017-12-15,,24.25
+Beauty and the Beast,2017-03-10,2017-03-17,,42.125
+The Fate of the Furious,2017-04-07,2017-04-14,,31.5
+Despicable Me 3,2017-06-23,2017-06-30,,52.5
+Jumanji: Welcome to the Jungle,2017-12-13,2017-12-20,,52.625
+Spider-Man: Homecoming,2017-06-30,2017-07-07,,41.0
+Wolf Warrior 2,2017-07-21,2017-07-28,,32.75
+Guardians of the Galaxy Vol. 2,2017-04-28,2017-05-05,,61.5
+Thor: Ragnarok,2017-10-27,2017-11-03,,54.125
+Wonder Woman,2017-05-26,2017-06-02,,39.5
+Coco,2017-11-15,2017-11-22,,76.375
+Pirates of the Caribbean: Dead Men Tell No Tales,2017-05-19,2017-05-26,,38.5
+It,2017-09-01,2017-09-08,,78.75
+Justice League,2017-11-10,2017-11-17,,37.875
+Logan,2017-02-24,2017-03-03,,37.0
+Transformers: The Last Knight,2017-06-14,2017-06-21,,36.25
+Kong: Skull Island,2017-03-03,2017-03-10,,38.75
+The Boss Baby,2017-03-24,2017-03-31,,34.75
+Dunkirk,2017-07-14,2017-07-21,,39.625
+War for the Planet of the Apes,2017-07-07,2017-07-14,,33.125
+The Greatest Showman,2017-12-13,2017-12-20,,47.375
+Kingsman: The Golden Circle,2017-09-15,2017-09-22,,40.5
+The Mummy,2017-06-02,2017-06-09,,40.25
+Cars 3,2017-06-09,2017-06-16,,38.5
+Fifty Shades Darker,2017-02-03,2017-02-10,,39.5
+xXx: Return of Xander Cage,2017-01-13,2017-01-20,,79.75
+The Lego Batman Movie,2017-02-03,2017-02-10,,50.375
+Annabelle: Creation,2017-08-04,2017-08-11,,36.875
+Wonder,2017-11-10,2017-11-17,,59.875
+Ferdinand,2017-12-08,2017-12-15,,58.875
+Split,2017-01-13,2017-01-20,,59.875
+Blade Runner 2049,2017-09-29,2017-10-06,,40.75
+Kung Fu Yoga,2017-01-20,2017-01-27,,49.125
+Get Out,2017-02-17,2017-02-24,,45.625
+Baahubali 2: The Conclusion,2017-04-21,2017-04-28,,16.125
+Journey to the West: The Demons Strike Back,2017-01-27,2017-02-03,,68.875
+Alien: Covenant,2017-05-12,2017-05-19,,68.375
+Paddington 2,2018-01-05,2018-01-12,,58.25
+Youth,2015-11-27,2015-12-04,,94.5
+Baby Driver,2017-06-21,2017-06-28,,42.625
+Valerian and the City of a Thousand Planets,2017-07-14,2017-07-21,,26.375
+Geostorm,2017-10-13,2017-10-20,,46.375
+The Emoji Movie,2017-07-21,2017-07-28,,25.125
+A Dog's Purpose,2017-01-20,2017-01-27,,52.5
+Smurfs: The Lost Village,2017-03-31,2017-04-07,,52.625
+The Shape of Water,2017-12-15,2017-12-22,,72.5
+Pitch Perfect 3,2017-12-15,2017-12-22,,47.75
+Daddy's Home 2,2017-11-03,2017-11-10,,36.25
+The Post,2018-01-05,2018-01-12,,67.0
+Baywatch,2017-05-18,2017-05-25,,62.125
+The Hitman's Bodyguard,2017-08-11,2017-08-18,,41.25
+John Wick: Chapter 2,2017-02-03,2017-02-10,,42.75
+Ghost in the Shell,2017-03-24,2017-03-31,,44.75
+"Three Billboards Outside Ebbing, Missouri",2017-11-15,2017-11-22,,36.375
+Duckweed,2017-02-03,2017-02-10,,56.5
+Darkest Hour,2017-12-15,2017-12-22,,53.875
+King Arthur: Legend of the Sword,2017-05-05,2017-05-12,,38.625
+The Foreigner,2017-10-06,2017-10-13,,34.0
+Power Rangers,2017-03-17,2017-03-24,,42.0
+Girls Trip,2017-07-14,2017-07-21,,31.75
+American Made,2017-09-22,2017-09-29,,36.75
+A Bad Moms Christmas,2017-10-25,2017-11-01,,43.5
+Happy Death Day,2017-10-06,2017-10-13,,33.0
+Captain Underpants: The First Epic Movie,2017-05-26,2017-06-02,,38.625
+The Lego Ninjago Movie,2017-09-15,2017-09-22,,35.625
+Secret Superstar,2017-10-13,2017-10-20,,32.125
+The Commuter,2018-01-05,2018-01-12,,30.625
+The Dark Tower,2017-07-28,2017-08-04,,41.375
+Buddies in India,2017-01-20,2017-01-27,,26.375
+Along With the Gods: The Two Worlds,2017-12-15,2017-12-22,,41.75
+Jigsaw,2017-10-20,2017-10-27,,52.125
+Life,2017-03-17,2017-03-24,,89.5
+Atomic Blonde,2017-07-21,2017-07-28,,38.375
+The Shack,2017-02-24,2017-03-03,,38.0
+Chasing the Dragon,2017-09-22,2017-09-29,,33.625
+Tiger Zinda Hai,2017-12-15,2017-12-22,,23.125
+A Taxi Driver,2017-08-04,2017-08-11,,69.125
+Going in Style,2017-03-31,2017-04-07,,27.0
+Rings,2017-01-27,2017-02-03,,68.75
+Paradox,2016-04-08,2016-04-15,,92.125
+Lady Bird,2017-11-15,2017-11-22,,76.625
+Fantastica: A Boonie Bears Adventure,2019-06-07,2019-06-14,,12.5
+The Nut Job 2: Nutty by Nature,2017-08-04,2017-08-11,,47.0
+American Assassin,2017-09-08,2017-09-15,,38.625
+Victoria & Abdul,2017-09-29,2017-10-06,,62.625
+The Mountain Between Us,2017-09-29,2017-10-06,,27.875
+The Star,2017-11-10,2017-11-17,,69.0
+How to Be a Latin Lover,2017-04-21,2017-04-28,,27.5
+47 Meters Down,2017-06-09,2017-06-16,,31.125
+"Everything, Everything",2017-05-12,2017-05-19,,19.875
+Snatched,2017-05-05,2017-05-12,,37.125
+My Little Pony: The Movie,2017-09-29,2017-10-06,,43.875
+Molly's Game,2017-12-29,2018-01-05,,64.0
+The Devotion of Suspect X,2017-03-24,2017-03-31,,27.25
+Shock Wave,2017-04-28,2017-05-05,,84.375
+All the Money in the World,2017-12-18,2017-12-25,,27.875
+The Big Sick,2017-07-07,2017-07-14,,50.625
+All Eyez on Me,2017-06-09,2017-06-16,,24.0
+Downsizing,2017-12-15,2017-12-22,,41.375
+Bleeding Steel,2018-06-29,2018-07-06,,59.125
+Logan Lucky,2017-08-11,2017-08-18,,28.0
+Phantom Thread,2018-01-12,2018-01-19,,62.5
+Rough Night,2017-06-09,2017-06-16,,30.5
+Son of Bigfoot,2018-04-27,2018-05-04,,79.875
+The Thousand Faces of Dunjia,2017-12-08,2017-12-15,,19.75
+The Battleship Island,2017-07-21,2017-07-28,,80.25
+Flatliners,2017-09-22,2017-09-29,,32.625
+Wind River,2017-08-11,2017-08-18,,62.375
+Battle of Memories,2017-04-21,2017-04-28,,25.5
+The Snowman,2017-10-13,2017-10-20,,50.625
+Gifted,2017-04-05,2017-04-12,,82.75
+Loving Vincent,2017-09-15,2017-09-22,,52.125
+Mary and the Witch's Flower,2018-01-12,2018-01-19,,34.75
+Call Me by Your Name,2018-01-12,2018-01-19,,76.375
+T2 Trainspotting,2017-03-10,2017-03-17,,71.375
+Fist Fight,2017-02-10,2017-02-17,,27.875
+The Circle,2017-04-21,2017-04-28,,48.0
+Diary of a Wimpy Kid: The Long Haul,2017-05-12,2017-05-19,,41.75
+Brotherhood of Blades 2,2017-11-24,2017-12-01,,39.5
+The King,2007-09-21,2007-09-28,,81.375
+Home Again,2017-09-01,2017-09-08,,47.625
+The Adventurers,2011-12-14,2011-12-21,,50.5
+Hostiles,2018-01-19,2018-01-26,,38.375
+Namiya,2017-12-29,2018-01-05,,58.875
+Kidnap,2017-07-28,2017-08-04,,40.5
+The House,2006-06-09,2006-06-16,,84.625
+Sleepless,2017-01-06,2017-01-13,,27.75
+This Is Not What I Expected,2017-04-28,2017-05-05,,30.125
+The Bye Bye Man,2017-01-06,2017-01-13,,27.5
+The Disaster Artist,2017-12-01,2017-12-08,,62.0
+The Swindlers,2017-11-24,2017-12-01,,29.25
+Judwaa 2,2017-09-22,2017-09-29,,30.625
+Monster Family,2018-02-02,2018-02-09,,77.125
+The Beguiled,2017-06-23,2017-06-30,,56.5
+CHIPS,2017-03-17,2017-03-24,,66.125
+A Cure for Wellness,2017-02-10,2017-02-17,,31.75
+Only the Brave,2017-10-13,2017-10-20,,30.125
+Twenty Two,2017-09-01,2017-09-08,,79.875
+The Zookeeper's Wife,2017-03-24,2017-03-31,,39.25
+Badrinath Ki Dulhania,2017-03-03,2017-03-10,,26.875
+Fireworks,2018-06-27,2018-07-04,,29.375
+Father Figures,2017-12-15,2017-12-22,,28.25
+Money,2011-09-16,2011-09-23,,95.5
+The Death of Stalin,2018-03-02,2018-03-09,,65.875
+Jolly LLB 2,2017-02-03,2017-02-10,,19.625
+Wish Upon,2017-07-07,2017-07-14,,29.375
+Detroit,2017-07-28,2017-08-04,,72.125
+Extraordinary Mission,2017-03-31,2017-04-07,,27.25
+The Glass Castle,2017-08-04,2017-08-11,,36.75

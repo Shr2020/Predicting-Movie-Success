@@ -1,0 +1,146 @@
+movie,startdate,releasedate,Text,mean_google_trend_popularity
+Harry Potter and the Deathly Hallows: Part 2,2011-07-08,2011-07-15,,47.625
+Transformers: Dark of the Moon,2011-06-22,2011-06-29,,40.75
+Pirates of the Caribbean: On Stranger Tides,2011-05-13,2011-05-20,,46.125
+The Twilight Saga: Breaking Dawn - Part 1,2011-11-11,2011-11-18,,35.25
+Mission: Impossible - Ghost Protocol,2011-12-14,2011-12-21,,49.875
+Kung Fu Panda 2,2011-05-19,2011-05-26,,57.125
+Fast Five,2011-04-22,2011-04-29,,47.75
+The Hangover Part II,2011-05-19,2011-05-26,,32.375
+The Smurfs,2011-07-22,2011-07-29,,48.125
+Cars 2,2011-06-17,2011-06-24,,58.25
+Puss in Boots,2011-10-21,2011-10-28,,48.5
+Sherlock Holmes: A Game of Shadows,2011-12-09,2011-12-16,,43.75
+Rio,2011-04-08,2011-04-15,,73.25
+Rise of the Planet of the Apes,2011-07-29,2011-08-05,,37.75
+Thor,2011-04-29,2011-05-06,,77.0
+The Intouchables,2012-05-18,2012-05-25,,67.875
+The Adventures of Tintin,2011-12-14,2011-12-21,,71.375
+Captain America: The First Avenger,2011-07-15,2011-07-22,,39.625
+X-Men: First Class,2011-05-27,2011-06-03,,43.25
+Alvin and the Chipmunks: Chipwrecked,2011-12-09,2011-12-16,,51.25
+Real Steel,2011-09-30,2011-10-07,,44.0
+Bridesmaids,2011-05-06,2011-05-13,,39.25
+Super 8,2011-06-03,2011-06-10,,40.125
+Rango,2011-02-25,2011-03-04,,42.25
+The Girl with the Dragon Tattoo,2011-12-13,2011-12-20,,72.125
+The Green Hornet,2011-01-07,2011-01-14,,49.375
+Immortals,2011-11-04,2011-11-11,,37.375
+Green Lantern,2011-06-10,2011-06-17,,45.25
+The Help,2011-08-03,2011-08-10,,60.875
+Bad Teacher,2011-06-17,2011-06-24,,56.375
+Just Go with It,2011-02-04,2011-02-11,,48.875
+Battle Los Angeles,2011-03-04,2011-03-11,,45.5
+Horrible Bosses,2011-07-01,2011-07-08,,33.125
+Paranormal Activity 3,2011-10-14,2011-10-21,,36.125
+Gnomeo & Juliet,2011-02-04,2011-02-11,,41.875
+Mr. Popper's Penguins,2011-06-10,2011-06-17,,55.5
+Hugo,2011-11-16,2011-11-23,,80.5
+Hop,2011-03-25,2011-04-01,,84.625
+War Horse,2011-12-18,2011-12-25,,44.0
+The Descendants,2011-11-16,2011-11-23,,63.25
+Cowboys & Aliens,2011-07-22,2011-07-29,,42.625
+In Time,2011-10-21,2011-10-28,,83.375
+Zookeeper,2011-07-01,2011-07-08,,37.0
+The Muppets,2011-11-16,2011-11-23,,51.875
+Limitless,2011-03-11,2011-03-18,,41.75
+Johnny English Reborn,2011-10-14,2011-10-21,,68.0
+Happy Feet Two,2011-11-11,2011-11-18,,42.125
+Final Destination 5,2011-08-05,2011-08-12,,41.125
+Tower Heist,2011-10-28,2011-11-04,,38.125
+Midnight in Paris,2011-05-13,2011-05-20,,68.25
+I Am Number Four,2011-02-11,2011-02-18,,49.0
+Jack and Jill,2011-11-04,2011-11-11,,36.75
+Friends with Benefits,2011-07-15,2011-07-22,,56.25
+No Strings Attached,2011-01-14,2011-01-21,,41.75
+Arthur Christmas,2011-11-16,2011-11-23,,53.5
+Source Code,2011-03-25,2011-04-01,,48.0
+"Crazy, Stupid, Love.",2011-07-22,2011-07-29,,35.25
+New Year's Eve,2011-12-02,2011-12-09,,71.375
+Contagion,2011-09-02,2011-09-09,,32.875
+Unknown,2011-02-11,2011-02-18,,57.375
+The Artist,2011-11-18,2011-11-25,,78.25
+The Three Musketeers,2011-10-14,2011-10-21,,72.75
+We Bought a Zoo,2011-12-16,2011-12-23,,60.75
+Water for Elephants,2011-04-15,2011-04-22,,48.0
+The Iron Lady,2011-12-23,2011-12-30,,64.875
+Moneyball,2011-09-16,2011-09-23,,41.375
+Insidious,2011-03-25,2011-04-01,,40.75
+Justin Bieber: Never Say Never,2011-02-04,2011-02-11,,62.5
+Paul,2011-03-11,2011-03-18,,93.5
+Scream 4,2011-04-08,2011-04-15,,44.625
+The Rite,2011-01-21,2011-01-28,,39.0
+Dolphin Tale,2011-09-16,2011-09-23,,43.875
+Red Riding Hood,2011-03-04,2011-03-11,,46.25
+Sucker Punch,2011-03-18,2011-03-25,,36.875
+The Inbetweeners,2012-08-31,2012-09-07,,83.5
+The Lincoln Lawyer,2011-03-11,2011-03-18,,44.625
+Hall Pass,2011-02-18,2011-02-25,,39.125
+Spy Kids 4: All the Time in the World,2011-08-12,2011-08-19,,40.875
+J. Edgar,2011-11-04,2011-11-11,,54.125
+"Big Mommas: Like Father, Like Son",2011-02-11,2011-02-18,,43.125
+Abduction,2019-05-31,2019-06-07,,49.125
+Tinker Tailor Soldier Spy,2011-12-30,2012-01-06,,63.125
+Priest,2011-05-06,2011-05-13,,63.125
+Drive,2011-09-09,2011-09-16,,90.75
+The Ides of March,2011-09-30,2011-10-07,,39.0
+The Mechanic,2011-01-21,2011-01-28,,42.75
+The Change-Up,2011-07-29,2011-08-05,,55.875
+Larry Crowne,2011-06-24,2011-07-01,,42.125
+Diary of a Wimpy Kid: Rodrick Rules,2011-03-18,2011-03-25,,35.0
+The Dilemma,2011-01-07,2011-01-14,,41.375
+Something Borrowed,2011-04-29,2011-05-06,,43.125
+The Darkest Hour,2011-12-18,2011-12-25,,43.375
+Hanna,2011-04-01,2011-04-08,,68.625
+Conan the Barbarian,2011-08-12,2011-08-19,,46.5
+Colombiana,2011-08-19,2011-08-26,,73.875
+From Up on Poppy Hill,2013-03-08,2013-03-15,,46.0
+One Day,2011-08-12,2011-08-19,,74.625
+The Tree of Life,2011-05-20,2011-05-27,,54.5
+Killer Elite,2011-09-16,2011-09-23,,47.125
+Silent Hill: Revelation,2012-10-19,2012-10-26,,52.25
+Extremely Loud & Incredibly Close,2012-01-13,2012-01-20,,43.25
+Madea's Big Happy Family,2011-04-15,2011-04-22,,30.25
+Winnie the Pooh,2011-07-08,2011-07-15,,57.125
+Arthur,2011-04-01,2011-04-08,,81.75
+Soul Surfer,2011-04-01,2011-04-08,,52.125
+The Debt,2011-08-24,2011-08-31,,59.375
+Beastly,2011-02-25,2011-03-04,,55.5
+Shaolin,2011-09-02,2011-09-09,,78.625
+Born to Be Wild,2011-04-01,2011-04-08,,53.625
+Shark Night,2011-08-26,2011-09-02,,40.625
+50/50,2011-09-23,2011-09-30,,44.625
+Fright Night,2011-08-12,2011-08-19,,40.25
+Drive Angry,2011-02-18,2011-02-25,,55.875
+30 Minutes or Less,2011-08-05,2011-08-12,,45.125
+The Roommate,2011-01-28,2011-02-04,,44.125
+Dream House,2011-09-23,2011-09-30,,43.5
+Monte Carlo,2011-06-24,2011-07-01,,67.375
+Mars Needs Moms,2011-03-04,2011-03-11,,49.875
+Don't Be Afraid of the Dark,2011-08-19,2011-08-26,,45.375
+Jumping the Broom,2011-04-29,2011-05-06,,35.875
+One for the Money,2012-01-20,2012-01-27,,50.375
+The Eagle,2011-02-04,2011-02-11,,64.875
+A Very Harold & Kumar Christmas,2011-10-28,2011-11-04,,31.125
+Ra.One,2011-10-19,2011-10-26,,30.5
+Courageous,2011-09-23,2011-09-30,,42.5
+My Week with Marilyn,2011-11-18,2011-11-25,,71.625
+The Sitter,2011-12-02,2011-12-09,,43.75
+Jane Eyre,2011-03-04,2011-03-11,,50.875
+The Skin I Live In,2011-10-07,2011-10-14,,34.75
+The Thing,2011-10-07,2011-10-14,,65.75
+I Don't Know How She Does It,2011-09-09,2011-09-16,,43.125
+African Cats,2011-04-15,2011-04-22,,28.0
+Carnage,2011-12-09,2011-12-16,,77.875
+A Dangerous Method,2011-11-16,2011-11-23,,72.625
+What's Your Number?,2011-09-23,2011-09-30,,41.5
+The Rum Diary,2011-10-21,2011-10-28,,45.625
+The Sorcerer and the White Snake,2013-02-01,2013-02-08,,46.25
+Your Highness,2011-04-01,2011-04-08,,43.25
+Apollo 18,2011-08-26,2011-09-02,,47.375
+Our Idiot Brother,2011-08-19,2011-08-26,,31.75
+Warrior,2011-09-02,2011-09-09,,83.625
+Young Adult,2011-12-09,2011-12-16,,66.75
+A Separation,2011-12-23,2011-12-30,,64.75
+Polisse,2012-05-11,2012-05-18,,74.0
+Hollywoo,2006-09-01,2006-09-08,,28.25
