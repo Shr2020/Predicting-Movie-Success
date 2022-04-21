@@ -1,0 +1,93 @@
+movie,startdate,releasedate,Text,mean_google_trend_popularity
+Spider-Man: No Way Home,2021-12-10,2021-12-17,,46.125
+The Battle at Lake Changjin,2021-11-12,2021-11-19,,69.0
+No Time to Die,2021-10-01,2021-10-08,,69.25
+F9: The Fast Saga,2021-06-18,2021-06-25,,40.875
+Venom: Let There Be Carnage,2021-09-24,2021-10-01,,31.0
+Godzilla vs. Kong,2021-03-24,2021-03-31,,69.25
+Shang-Chi and the Legend of the Ten Rings,2021-08-27,2021-09-03,,32.875
+Eternals,2021-10-29,2021-11-05,,34.875
+Dune,2021-10-15,2021-10-22,,38.75
+Black Widow,2021-07-02,2021-07-09,,27.75
+Sing 2,2021-12-15,2021-12-22,,51.75
+Free Guy,2021-08-06,2021-08-13,,35.875
+A Quiet Place Part II,2021-05-21,2021-05-28,,38.75
+Encanto,2021-11-17,2021-11-24,,49.75
+Cruella,2021-05-21,2021-05-28,,30.625
+Jungle Cruise,2021-07-23,2021-07-30,,33.75
+Raging Fire,2021-08-06,2021-08-13,,49.25
+The Conjuring: The Devil Made Me Do It,2021-05-28,2021-06-04,,32.75
+Ghostbusters: Afterlife,2021-11-12,2021-11-19,,35.75
+The Suicide Squad,2021-07-30,2021-08-06,,33.375
+Space Jam: A New Legacy,2021-07-09,2021-07-16,,34.0
+House of Gucci,2021-11-17,2021-11-24,,61.75
+The Matrix Resurrections,2021-12-15,2021-12-22,,31.125
+Peter Rabbit 2: The Runaway,2021-06-04,2021-06-11,,51.625
+The Boss Baby 2: Family Business,2021-06-25,2021-07-02,,24.75
+PAW Patrol: The Movie,2021-08-13,2021-08-20,,39.625
+Tom & Jerry: The Movie,2021-02-19,2021-02-26,,52.5
+Jujutsu Kaisen 0: The Movie,2022-03-11,2022-03-18,,58.375
+Halloween Kills,2021-10-08,2021-10-15,,27.625
+Raya and the Last Dragon,2021-02-26,2021-03-05,,33.875
+The King's Man,2021-12-15,2021-12-22,,54.625
+The Addams Family 2,2021-09-24,2021-10-01,,26.125
+Clifford the Big Red Dog,2021-11-03,2021-11-10,,45.5
+Wrath of Man,2021-04-30,2021-05-07,,42.625
+Old,2021-07-16,2021-07-23,,94.125
+Mortal Kombat,2021-04-16,2021-04-23,,33.375
+Candyman,2021-08-20,2021-08-27,,39.25
+The Forever Purge,2021-06-25,2021-07-02,,31.875
+West Side Story,2021-12-03,2021-12-10,,58.875
+Hitman's Wife's Bodyguard,2021-06-09,2021-06-16,,50.75
+Belle,2014-04-25,2014-05-02,,94.875
+Ron's Gone Wrong,2021-10-15,2021-10-22,,44.25
+Nobody,2021-03-19,2021-03-26,,68.875
+Escape Room: Tournament of Champions,2021-07-09,2021-07-16,,46.875
+Don't Breathe 2,2021-08-06,2021-08-13,,35.0
+My Hero Academia: World Heroes' Mission,2021-10-22,2021-10-29,,35.875
+The French Dispatch,2021-10-15,2021-10-22,,38.75
+In the Heights,2021-06-04,2021-06-11,,33.75
+Belfast,2021-11-05,2021-11-12,,81.125
+Spirit Untamed,2021-05-28,2021-06-04,,34.625
+Spiral,2021-05-07,2021-05-14,,55.0
+Snake Eyes,2021-07-16,2021-07-23,,39.75
+Nomadland,2021-02-12,2021-02-19,,39.75
+Resident Evil: Welcome to Raccoon City,2021-11-17,2021-11-24,,34.5
+King Richard,2021-11-12,2021-11-19,,41.125
+Nightmare Alley,2021-12-10,2021-12-17,,42.875
+Malignant,2021-09-03,2021-09-10,,35.125
+Respect,2021-08-06,2021-08-13,,60.5
+The Unholy,2021-03-26,2021-04-02,,33.5
+The Last Duel,2021-10-08,2021-10-15,,41.5
+Licorice Pizza,2021-11-19,2021-11-26,,43.125
+The Little Things,2021-01-22,2021-01-29,,39.0
+Escape from Mogadishu,2021-07-30,2021-08-06,,59.625
+Master,2022-03-11,2022-03-18,,96.5
+American Underdog,2021-12-18,2021-12-25,,53.25
+Chaos Walking,2021-02-26,2021-03-05,,40.125
+The Courier,2021-03-12,2021-03-19,,48.25
+Those Who Wish Me Dead,2021-05-07,2021-05-14,,31.125
+The Marksman,2021-01-08,2021-01-15,,41.0
+Last Night in Soho,2021-10-22,2021-10-29,,39.0
+Spencer,2021-10-29,2021-11-05,,85.875
+After We Fell,2021-09-03,2021-09-10,,69.25
+Stillwater,2021-07-23,2021-07-30,,46.75
+Dear Evan Hansen,2021-09-17,2021-09-24,,45.25
+The Green Knight,2021-07-23,2021-07-30,,38.125
+Antlers,2021-10-22,2021-10-29,,42.25
+Bo Gia,2021-05-21,2021-05-28,,64.75
+The Dry,2021-05-14,2021-05-21,,94.125
+The Wolf and the Lion,2022-01-28,2022-02-04,,21.0
+Reminiscence,2021-08-13,2021-08-20,,25.5
+The Night House,2021-08-13,2021-08-20,,32.25
+Minari,2021-02-05,2021-02-12,,65.375
+Anita,2021-11-05,2021-11-12,,90.5
+Cry Macho,2021-09-10,2021-09-17,,32.5
+Christmas with the Chosen: The Messengers,2021-11-24,2021-12-01,,42.625
+The Many Saints of Newark,2021-09-24,2021-10-01,,29.0
+Aline,2021-11-19,2021-11-26,,80.25
+The Worst Person in the World,2022-01-28,2022-02-04,,53.625
+The Protégé,2021-08-13,2021-08-20,,21.125
+Pushpa: The Rise - Part 1,2021-12-10,2021-12-17,,12.5
+The Mauritanian,2021-02-05,2021-02-12,,49.75
+Sooryavanshi,2021-10-29,2021-11-05,,18.25

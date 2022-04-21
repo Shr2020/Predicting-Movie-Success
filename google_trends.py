@@ -38,7 +38,7 @@ for ind, row in release_dates.iterrows():
         if not release_dates_map.get(row['Movie'].lower(), None):
             release_dates_map[row['Movie'].lower()] = rd
 
-for file in files[8:]:
+for file in files:
     print(file)
     data = []
     movies = pd.read_csv(file)
@@ -46,7 +46,7 @@ for file in files[8:]:
     for ind, movie in movies.iterrows():
         moviename = movie['Release Group']
         release_date = release_dates_map.get(moviename.lower(), None)
-        if release_date:
+        if release_date and release_date < datetime.datetime.today():
             since = release_date - datetime.timedelta(weeks=1)
             pytrend = TrendReq()
             pytrend.build_payload(kw_list=[moviename], timeframe='%s %s' %(str(since.date()), str(release_date.date())))
