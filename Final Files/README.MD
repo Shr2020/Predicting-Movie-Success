@@ -1,3 +1,8 @@
 - The Folder "Data Collected" consists all the data collected through web scraping and processing etc.
 - The Folder "Data Collection Scripts" consists of pythons scripts for scraping/collecting data from all data sources.
 - The Folder "Final Dataset CSV" consists two files which have the total data we will be running our algorithms on. The Data_Modelling Files work on the "may-movie-data-final.csv". The File "FinalDataset.csv" is after some processing done in the modelling files.
+- Data_Modeling*.ipynb files have been used to run exploratory data analysis, feature selection and feature reduction along with the ML models. These can be re-run to recreate the results of our study. 
+- Data_Modelling_Mean_Values.ipynb -> Feature selection, feature reduction and data modeling run when the missing values are imputed with the mean values.
+- Data_Modelling_Median_Values.ipynb -> Feature selection, feature reduction and data modeling when the missing values are imputed with the median values.
+- Data_Modelling_Mean_Values_And_Outliers_Removed.ipynb - Feature selection, feature reduction and data modeling when the missing values are imputed with the mean values and outliers are removed.
+- Folder paths might have to be re-adjusted since we have re-structured our project for the submission.
