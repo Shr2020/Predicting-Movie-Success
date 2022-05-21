@@ -1,3 +1,3 @@
 - The Folder "Data Collected" consists all the data collected through web scraping and processing etc.
 - The Folder "Data Collection Scripts" consists of pythons scripts for scraping/collecting data from all data sources.
-- The Folder "Final Dataset CSV" consists two files which have the total data we will be running our algorithms on. 
+- The Folder "Final Dataset CSV" consists two files which have the total data we will be running our algorithms on. The Data_Modelling Files work on the "may-movie-data-final.csv". The File "FinalDataset.csv" is after some processing done in the modelling files.
