@@ -1,5 +1,8 @@
+Project for the course Big Data Science (NYU)
+
 ## Objective
-A prediction system that will aid in forecasting the success of a movie during the early stages of its release. We will be experimenting with movies over 10 years hoping to reach a benchmark in predicting movie profitability by a considerable margin. We are using features such as budget, actors, director, producer, IMDb rating, IMDb Metascore, IMDb vote count, rotten tomatoes score, actors and director social fan following, Twitter reactions, etc.  
+A prediction system that will aid in forecasting the success of a movie during the early stages of its release. We will be experimenting with movies over 10 years hoping to reach a benchmark in predicting movie profitability by a considerable margin. We are using features such as budget, actors, director, producer, IMDb rating, IMDb Metascore, IMDb vote count, rotten tomatoes score, actors and director social fan following, Twitter reactions, etc. 
+Utilized CRISP-DM methodology for building the prediction system.
 
 #### Datasets -
 Dataset includes movies from years 2010-2022. Data was collected from the following sources during multiple phases of data collection - 
@@ -15,21 +18,21 @@ Dataset includes movies from years 2010-2022. Data was collected from the follow
 1. For Twitter Data VADER library is used for analyzing tweets. 2500 tweets for each movie were analysed. VADER provides positive, negative, and neutral tweets for each movie. A mean of the number of positive and negative tweets was taken to generate a Twitter Score that we used as a feature. 
 2. For Google Trends data, the mean of the data collected for each movie is calculated. 
 3. The missing values in the data set are imputed in 3 different ways to create three separate datasets:
-  1. Mode for movie rating, the mean value for other features.
-  2. Mode for movie rating, the median value for other features.
-  3. Mode for movie rating, rotten scores as 50 (since the scores are from 1-100), and mean for the rest of them.
+    1. Mode for movie rating, the mean value for other features.
+    2. Mode for movie rating, the median value for other features.
+    3. Mode for movie rating, rotten scores as 50 (since the scores are from 1-100), and mean for the rest of them.
 4. Preliminary experiments showed that both 1 and 2 gave the same results and 3 did not give better results than the other two. Therfore approach 1 was used for imputation. 
 5. Data normalization was done using min-max normalization. One hot encoding was performed on all categorical data like genres, release week, release day, etc.
 6. DBSCAN was used to detect the outliers (before normalization) in the dataset. The total outliers came out to be 392.
 
 7. Three different approaches were used after preparing the data - 
- 1. Using the whole dataset for regression. 
- 2. employing feature selection to select some features, and then performing regression. 
- 3. performing feature reduction using PCA, and then performing regression. 
+    1. Using the whole dataset for regression. 
+    2. employing feature selection to select some features, and then performing regression. 
+    3. performing feature reduction using PCA, and then performing regression. 
 
 8. These three approaches were applied to two types of datasets: 
- 1. pure dataset
- 2. dataset with outliers removed. 
+    1. pure dataset
+    2. dataset with outliers removed. 
  
 9. The experiments did not show promising results when outliers were removed so all experiments performed on the dataset without the removal of outliers.
 
